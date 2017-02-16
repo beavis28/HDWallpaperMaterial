@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\HDWallpaper Material-AS\cropper\res"/><source path="E:\HDWallpaper Material-AS\cropper\build\generated\res\rs\release"/><source path="E:\HDWallpaper Material-AS\cropper\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="E:\HDWallpaper Material-AS\cropper\build-types\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\HDWallpaper Material-AS\cropper\res"><file name="crop_image_view" path="E:\HDWallpaper Material-AS\cropper\res\layout\crop_image_view.xml" qualifiers="" type="layout"/><file path="E:\HDWallpaper Material-AS\cropper\res\values\attrs.xml" qualifiers=""><declare-styleable name="CropImageView">
+        <attr name="guidelines">
+            <enum name="on" value="2"/>
+            <enum name="onTouch" value="1"/>
+            <enum name="off" value="0"/>
+        </attr>
+        <attr format="boolean" name="fixAspectRatio"/>
+        <attr format="integer" name="aspectRatioX"/>
+        <attr format="integer" name="aspectRatioY"/>
+        <attr format="reference" name="imageResource"/>
+    </declare-styleable></file><file path="E:\HDWallpaper Material-AS\cropper\res\values\colors.xml" qualifiers=""><color name="black_translucent">#50000000</color></file><file path="E:\HDWallpaper Material-AS\cropper\res\values\strings.xml" qualifiers=""><string name="app_name">Cropper</string></file><file path="E:\HDWallpaper Material-AS\cropper\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="E:\HDWallpaper Material-AS\cropper\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="E:\HDWallpaper Material-AS\cropper\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="E:\HDWallpaper Material-AS\cropper\build\generated\res\rs\release"/><source path="E:\HDWallpaper Material-AS\cropper\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="E:\HDWallpaper Material-AS\cropper\build-types\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CropImageView"><attr name="guidelines">
+            <enum name="on" value="2"/>
+            <enum name="onTouch" value="1"/>
+            <enum name="off" value="0"/>
+        </attr><attr format="boolean" name="fixAspectRatio"/><attr format="integer" name="aspectRatioX"/><attr format="integer" name="aspectRatioY"/><attr format="reference" name="imageResource"/></declare-styleable></configuration></mergedItems></merger>

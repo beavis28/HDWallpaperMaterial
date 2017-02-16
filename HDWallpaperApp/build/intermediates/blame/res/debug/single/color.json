@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\exploded-aar\\HDWallpaper Material-AS\\google-play-services_lib\\unspecified\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\exploded-aar\\HDWallpaper Material-AS\\google-play-services_lib\\unspecified\\res\\color\\common_signin_btn_text_light.xml"
+    }
+]

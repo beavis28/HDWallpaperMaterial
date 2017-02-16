@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HD Wallpaper App</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="error">Something went wrong, try again</string>
+    <string name="about_us">About us</string>
+    <string name="about_us_text_on_image">Our company</string>
+    <string name="about_us_header_text">We believe in us!</string>
+    <string name="about_us_subheader_text">COMBINING QUALITY AND \nSUPERB DESIGN WE REACH TOP!</string>
+    <string name="about_us_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac imperdiet justo. Nam varius neque eget nisl ultricies, quis auctor erat pretium. Morbi a turpis diam. Morbi a turpis diam.</string>
+    <string name="about_us_lorem_ipsum_short">Nam varius neque eget nisl ultricies, quis auctor erat pretium. Morbi a turpis diam.</string>
+    <string name="select_category">Select category</string>
+    <string name="wallpaper_set">Wallpaper successfully set</string>
+    <string name="wallpaper_not_set">Wallpaper could not be set</string>
+    <string name="please_wait">Please wait</string>
+    <string name="error_occured">Error occurred</string>
+    <string name="share">"Share:"</string>
+    <string name="image_saved">Image has been added to favourite!</string>
+    <string name="removed_from_favourite">Image has been removed from favourite!</string>
+    <string name="image_not_saved">Image hasn\'t been added to favourite!</string>
+    <string name="confirm_exit">Press Back button again to exit</string>
+    <string name="recent">Recent</string>
+    <string name="favourites">Favourites</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+    <string name="random">Random</string>
+    <string name="sort_a_to_z">Sort (A to Z)</string>
+    <string name="sort_z_to_a">Sort (Z to A)</string>
+    <string name="rate_app">Rate this app</string>
+    <string name="more_apps">More apps</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="categories_label">CATEGORIES</string>
+    <string name="fragment_set_as_wallpaper">SET AS WALL</string>
+    <string name="fragment_add_to_favorites">ADD TO FAV</string>
+    <string name="fragment_remove_from_favourite">REMOVE FROM FAV</string>
+    <string name="fragment_save_to_local">SAVE</string>
+    <string name="cropandset">CROP &amp; SET WALLPAPER</string>
+
+</resources>

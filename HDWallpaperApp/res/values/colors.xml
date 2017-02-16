@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    PLEASE NOTE: Since adding transparency to already
+    defined colors is not supported through xml, we have
+    to add them manually. This means: we have used blue_grey
+    color scheme, and this is where we use blue_grey500 color
+    to add transparency. If you were about to change color
+    scheme, also change blue_grey500 color from here. Below 
+    you have 5 different themes that we provide for you. You
+    just need to uncomment some theme, and comment "Blue Grey"
+    and that is it. If you like to change by yourself in some
+    different theme you can do that easily. We have 4 colors
+    related to theme: primary, secondary, tertiary and text color. 
+    If you want to change all colors in same, please change where 
+    you see primary, secondary and tertary. We provide for you
+    opportunity to change different parts in app. You can see
+    below that we sepparate: action bar color, action bar text
+    color, left menu color and color of background in full screen
+    image. If few clicks, you can customize all colors in whole app.
+    So, you have possibility to change all colors in one place
+    (main_color_primary, main_color_secondary or main_color_tertary),
+    or you have possibility to separate colors of action_bar_color,
+    action_bar_text_color, left_menu_color and full_screen_image_background.
+    That is your choice, do you want to all colors be related, or
+    you want separate some elements from main color. :)
+    
+    -->
+
+
+    <!-- Blue Grey theme -->
+    <!--
+        <color name="main_color_primary_50_percent">#80263238</color>
+        <color name="main_color_primary_80_percent">#cc263238</color>
+        <color name="main_color_primary_90_percent">#e6263238</color>
+        <color name="main_color_secondary_50_percent">#8037474f</color>
+        <color name="main_color_secondary_90_percent">#e637474f</color>
+        <color name="main_color_tertiary_30_percent">#4d455a64</color>
+
+        <color name="text_color">@color/material_light_green_400</color>
+        <color name="main_color_primary">@color/material_blue_grey_900</color>
+        <color name="main_color_secondary">@color/material_blue_grey_800</color>
+        <color name="main_color_tertiary">@color/material_blue_grey_700</color>
+
+        <color name="action_bar_color">@color/main_color_primary</color>
+        <color name="action_bar_text_color">@android:color/white</color>
+        <color name="left_menu_color">@color/main_color_secondary_90_percent</color>
+        <color name="full_screen_image_background">@color/main_color_primary</color>
+
+        <color name="main_color_grey_100">@color/material_grey_100</color>
+        <color name="main_color_grey_600">@color/material_grey_600</color>
+        <color name="main_color_grey_800">@color/material_grey_800</color>
+
+        -->
+
+    <!-- Grey theme -->
+    <!--
+        <color name="main_color_primary_50_percent">#80202020</color>
+        <color name="main_color_primary_80_percent">#cc202020</color>
+        <color name="main_color_primary_90_percent">#e6202020</color>
+        <color name="main_color_secondary_50_percent">#80424242</color>
+        <color name="main_color_secondary_90_percent">#e6424242</color>
+        <color name="main_color_tertiary_30_percent">#4d616161</color>
+
+        <color name="text_color">@color/material_cyan_300</color>
+        <color name="main_color_primary">@color/material_grey_900</color>
+        <color name="main_color_secondary">@color/material_grey_800</color>
+        <color name="main_color_tertiary">@color/material_grey_700</color>
+
+        <color name="action_bar_color">@color/main_color_primary</color>
+        <color name="action_bar_text_color">@android:color/white</color>
+        <color name="left_menu_color">@color/main_color_secondary_90_percent</color>
+        <color name="full_screen_image_background">@color/main_color_primary</color>
+
+        <color name="main_color_grey_100">@color/material_grey_100</color>
+        <color name="main_color_grey_600">@color/material_grey_600</color>
+        <color name="main_color_grey_800">@color/material_grey_800</color>
+
+    -->
+        <!-- Cyan theme -->
+
+    <color name="main_color_primary_50_percent">#80016064</color>
+    <color name="main_color_primary_80_percent">#cc016064</color>
+    <color name="main_color_primary_90_percent">#e6016064</color>
+    <color name="main_color_secondary_50_percent">#8000838f</color>
+    <color name="main_color_secondary_90_percent">#e600838f</color>
+    <color name="main_color_tertiary_30_percent">#4d0297a7</color>
+    
+    <color name="text_color">@color/material_light_yellow_500</color>
+    <color name="main_color_primary">@color/material_cyan_900</color>
+    <color name="main_color_secondary">@color/material_cyan_800</color>
+    <color name="main_color_tertiary">@color/material_cyan_700</color>
+    
+    <color name="action_bar_color">@color/main_color_primary</color>
+    <color name="action_bar_text_color">@android:color/white</color>
+    <color name="left_menu_color">@color/main_color_secondary_90_percent</color>
+    <color name="full_screen_image_background">@color/main_color_primary</color>
+    
+    <color name="main_color_grey_100">@color/material_grey_100</color>
+    <color name="main_color_grey_600">@color/material_grey_600</color>
+    <color name="main_color_grey_800">@color/material_grey_800</color>
+
+    <color name="full_gallery_item_bar_color">#fafcfc</color>
+
+    <!-- Light Grey theme -->
+    <!--
+    <color name="main_color_primary_50_percent">#80eeeeee</color>
+    <color name="main_color_primary_80_percent">#cceeeeee</color>
+    <color name="main_color_primary_90_percent">#e6eeeeee</color>
+    <color name="main_color_secondary_50_percent">#80e0e0e0</color>
+    <color name="main_color_secondary_90_percent">#e6e0e0e0</color>
+    <color name="main_color_tertiary_30_percent">#4dbdbcbc</color>
+    
+    <color name="text_color">@color/material_light_green_700</color>
+    <color name="main_color_primary">@color/material_grey_200</color>
+    <color name="main_color_secondary">@color/material_grey_300</color>
+    <color name="main_color_tertiary">@color/material_grey_400</color>
+    
+    <color name="action_bar_color">@color/main_color_primary</color>
+    <color name="action_bar_text_color">@color/material_light_green_700</color>
+    <color name="left_menu_color">@color/main_color_secondary_90_percent</color>
+    <color name="full_screen_image_background">@color/main_color_primary</color>
+    
+    <color name="main_color_grey_100">@color/material_grey_100</color>
+    <color name="main_color_grey_600">@color/material_grey_600</color>
+    <color name="main_color_grey_800">@color/material_grey_800</color>
+    -->
+
+
+    <!-- Deep Orange theme -->
+    <!--
+    <color name="main_color_primary_50_percent">#80bd3926</color>
+    <color name="main_color_primary_80_percent">#ccbd3926</color>
+    <color name="main_color_primary_90_percent">#e6bd3926</color>
+    <color name="main_color_secondary_50_percent">#80d64526</color>
+    <color name="main_color_secondary_90_percent">#e6d64526</color>
+    <color name="main_color_tertiary_30_percent">#4de44b25</color>
+    
+    <color name="text_color">@color/material_yellow_A200</color>
+    <color name="main_color_primary">@color/material_deep_orange_900</color>
+    <color name="main_color_secondary">@color/material_deep_orange_800</color>
+    <color name="main_color_tertiary">@color/material_deep_orange_700</color>
+    
+    <color name="action_bar_color">@color/main_color_primary</color>
+    <color name="action_bar_text_color">@android:color/white</color>
+    <color name="left_menu_color">@color/main_color_secondary_90_percent</color>
+    <color name="full_screen_image_background">@color/main_color_primary</color>
+    
+    <color name="main_color_grey_100">@color/material_grey_100</color>
+    <color name="main_color_grey_600">@color/material_grey_600</color>
+    <color name="main_color_grey_800">@color/material_grey_800</color>
+
+    -->
+
+</resources>

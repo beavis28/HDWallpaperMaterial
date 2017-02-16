@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\grid_image.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\layout\\grid_image.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\full_screen_gallery.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\layout\\full_screen_gallery.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\full_screen_gallery_item.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\layout\\full_screen_gallery_item.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image_view.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\exploded-aar\\HDWallpaper Material-AS\\cropper\\unspecified\\res\\layout\\crop_image_view.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\set_as_wallpaper_activity.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\layout\\set_as_wallpaper_activity.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\layout\\about_us.xml"
+    }
+]
