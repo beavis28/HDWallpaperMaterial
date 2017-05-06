@@ -1,115 +1,136 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:2:1-59:12
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:2:1-61:12
 	package
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:3:5-48
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:3:5-48
 	android:versionName
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:5:5-30
-		INJECTED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml
-		INJECTED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml
+		INJECTED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml
 	android:versionCode
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:4:5-28
-		INJECTED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml
-		INJECTED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml
+		INJECTED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:2:11-69
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:3:49-79
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:3:49-79
 uses-sdk
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:7:5-9:41
-MERGED from [HDWallpaper Material-AS:cropper:unspecified] E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\exploded-aar\HDWallpaper Material-AS\cropper\unspecified\AndroidManifest.xml:7:5-9:41
-MERGED from [HDWallpaper Material-AS:google-play-services_lib:unspecified] E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\exploded-aar\HDWallpaper Material-AS\google-play-services_lib\unspecified\AndroidManifest.xml:7:5-43
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:7:5-9:41
+MERGED from [HDWallpaperMaterial:google-play-services_lib:unspecified] /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/nemonguyen/.android/build-cache/1a67d944d445d8e0ee3173cddb5e57efae21b100/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/nemonguyen/.android/build-cache/8b37de49c94603e5459b035a1cc668a33f553c8d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/nemonguyen/.android/build-cache/f0a5cd0de48bd499c50efb082174b5d6f3048943/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/nemonguyen/.android/build-cache/e52e68ab0fc5f0b782737bf2dba5a62d4c84a347/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/nemonguyen/.android/build-cache/38dda1dd5739dc1742cd18e9703b668590b9f09e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/nemonguyen/.android/build-cache/e07a1f876c3b1e1d0948dfbab4e07d577e9354f5/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/nemonguyen/.android/build-cache/1a67d944d445d8e0ee3173cddb5e57efae21b100/output/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:9:9-38
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:9:9-38
 	android:minSdkVersion
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:8:9-35
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:8:9-35
 uses-permission#android.permission.INTERNET
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:11:5-67
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:11:22-64
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:11:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:12:5-79
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:12:22-76
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:12:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:13:5-81
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:13:22-78
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.SET_WALLPAPER_HINTS
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:15:22-75
 uses-permission#android.permission.SET_WALLPAPER
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:14:5-72
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:16:5-72
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:14:22-69
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:16:22-69
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:15:5-98
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:17:5-98
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:15:22-95
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:17:22-95
 uses-feature#0x00020000
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:17:5-19:35
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:19:5-21:35
 	android:glEsVersion
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:18:9-41
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:20:9-41
 	android:required
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:19:9-32
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:21:9-32
 application
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:21:5-57:23
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:23:5-59:23
+MERGED from [com.android.support:support-v4:25.2.0] /Users/nemonguyen/.android/build-cache/1a67d944d445d8e0ee3173cddb5e57efae21b100/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/nemonguyen/.android/build-cache/8b37de49c94603e5459b035a1cc668a33f553c8d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/nemonguyen/.android/build-cache/f0a5cd0de48bd499c50efb082174b5d6f3048943/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/nemonguyen/.android/build-cache/e52e68ab0fc5f0b782737bf2dba5a62d4c84a347/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/nemonguyen/.android/build-cache/38dda1dd5739dc1742cd18e9703b668590b9f09e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/nemonguyen/.android/build-cache/e07a1f876c3b1e1d0948dfbab4e07d577e9354f5/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:24:9-41
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:26:9-41
 	android:allowBackup
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:22:9-35
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:24:9-35
 	android:icon
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:23:9-45
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:25:9-45
 	android:theme
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:25:9-52
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:27:9-52
 meta-data#com.google.android.gms.version
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:26:9-28:69
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:28:9-30:69
 	android:value
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:28:13-66
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:30:13-66
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:27:13-58
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:29:13-58
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:29:9-31:71
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:31:9-33:71
 	android:value
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:31:13-68
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:33:13-68
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:30:13-62
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:32:13-62
 activity#com.nemostation.android.wallpaper.MainActivity
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:32:9-41:20
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:34:9-43:20
 	android:label
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:35:13-45
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:37:13-45
 	android:configChanges
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:34:13-186
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:36:13-186
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:33:13-74
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:35:13-74
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:36:13-40:29
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:37:17-69
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:37:25-66
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:39:17-77
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:39:27-74
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:41:27-74
 activity#com.nemostation.android.wallpaper.FullScreenGalleryActivity
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:42:9-45:20
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:44:9-47:20
 	android:configChanges
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:44:13-186
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:46:13-186
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:43:13-87
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:45:13-87
 activity#com.nemostation.android.wallpaper.SetAsWallpaperActivity
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:46:9-49:20
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:48:9-51:20
 	android:configChanges
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:48:13-186
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:50:13-186
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:47:13-84
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:49:13-84
 activity#com.nemostation.android.wallpaper.AboutUsActivity
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:50:9-53:20
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:52:9-55:20
 	android:configChanges
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:52:13-186
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:54:13-186
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:51:13-77
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:53:13-77
 activity#com.google.android.gms.ads.AdActivity
-ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:54:9-56:125
+ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:56:9-58:125
 	android:configChanges
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:56:13-122
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:58:13-122
 	android:name
-		ADDED from E:\HDWallpaper Material-AS\HDWallpaperApp\AndroidManifest.xml:55:13-65
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:57:13-65

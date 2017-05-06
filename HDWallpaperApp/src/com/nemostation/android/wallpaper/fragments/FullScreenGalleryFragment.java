@@ -4,11 +4,14 @@ import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.net.URL;
 import java.util.ArrayList;
 
+import android.app.WallpaperManager;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.CompressFormat;
+import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
@@ -223,10 +226,10 @@ public class FullScreenGalleryFragment extends Fragment implements
 		String dirFav = Environment.getExternalStorageDirectory() + "/"
 				+ getString(R.string.app_name) + "/favourites";
         /*String dirDownload = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES)  + "/"
-                + getString(R.string.app_name);*/
+                + getString(R.string.app_name) + "/Download";*/
         String dirDownload = Environment.getExternalStorageDirectory() + "/"
                 + getString(R.string.app_name) + "/Download";
-
+        String image = "";
 		switch (v.getId()) {
             case R.id.full_screen_gallery_item_image:
                 if (SHOW_FULL_SCREEN_IMAGE) {
@@ -244,17 +247,36 @@ public class FullScreenGalleryFragment extends Fragment implements
                 }
                 break;
             case R.id.full_screen_gallery_item_set_as_wallpaper:
-                Intent intent = new Intent(getActivity(),
-                        SetAsWallpaperActivity.class);
-                intent.putExtra(FULL_SCREEN_GALLERY_CATEGORY, mCategory);
                 if (mImage.contains("http")) {//loading from url
-                    intent.putExtra(FULL_SCREEN_GALLERY_IMAGE, mImage);
+                    image = mImage;
                 }
                 else {
-                    intent.putExtra(FULL_SCREEN_GALLERY_IMAGE, "file://" + Environment.getExternalStorageDirectory() + "/"
-                            + getString(R.string.app_name) + "/favourites/" + mCategory + "--" + mImage);
+                    image = "file://" + Environment.getExternalStorageDirectory() + "/"
+                            + getString(R.string.app_name) + "/favourites/" + mCategory + "--" + mImage;
                 }
-                startActivity(intent);
+                ImageLoader.getInstance().loadImage(image, new SimpleImageLoadingListener()
+                {
+                    @Override
+                    public void onLoadingComplete(String imageUri, View view, Bitmap loadedImage)
+                    {
+                        WallpaperManager myWallpaperManager = WallpaperManager.getInstance(getActivity().getApplicationContext());
+
+                        try {
+                            myWallpaperManager.setBitmap(loadedImage);
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        } finally {
+                            if (getActivity() != null) {
+                                ((BaseActivity) getActivity())
+                                        .showToast(R.string.wallpaper_set);
+                            }
+                            else {
+                                ((BaseActivity) getActivity())
+                                        .showToast(R.string.wallpaper_not_set);
+                            }
+                        }
+                    }
+                });
                 break;
             case R.id.full_screen_gallery_item_share:
                 mBar.setVisibility(View.VISIBLE);
@@ -293,6 +315,7 @@ public class FullScreenGalleryFragment extends Fragment implements
                 mBar.setVisibility(View.VISIBLE);
                 File dirDownloadfolder = new File(dirDownload);
                 File downloadfile = new File(dirDownload, mCategory + "--" + getImgName(mImage));
+                getAlbumStorageDir("HDWall");
                 if (!dirDownloadfolder.exists()) {
                     dirDownloadfolder.mkdirs();
                 }
@@ -336,6 +359,7 @@ public class FullScreenGalleryFragment extends Fragment implements
 		}
 	}
 
+
 	public void fillFragmentFavourites(String cat, String img) {
 		String dir = Environment.getExternalStorageDirectory() + "/"
 				+ getActivity().getString(R.string.app_name) + "/favourites/";
@@ -377,5 +401,16 @@ public class FullScreenGalleryFragment extends Fragment implements
             mAdView.pause();
         }
         super.onPause();
+    }
+
+    public File getAlbumStorageDir(String albumName) {
+        // Get the directory for the user's public pictures directory.
+        File file = new File(Environment.getExternalStoragePublicDirectory(
+                Environment.DIRECTORY_PICTURES), albumName);
+        if (!file.mkdirs()) {
+            ((BaseActivity) getActivity())
+                    .showToast("Directory cannot create");
+        }
+        return file;
     }
 }

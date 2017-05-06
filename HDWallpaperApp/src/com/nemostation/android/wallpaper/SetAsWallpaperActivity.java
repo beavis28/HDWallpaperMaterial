@@ -15,14 +15,13 @@ import android.view.Window;
 
 import com.nemostation.android.wallpaper.fragments.FullScreenGalleryFragment;
 import com.nemostation.android.wallpaper.util.ImageViewUtil;
-import com.edmodo.cropper.CropImageView;
+//import com.edmodo.cropper.CropImageView;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;
 
 public class SetAsWallpaperActivity extends BaseActivity {
 
-	private CropImageView mCropImageView;
-	private String categoryName;
+	//private String categoryName;
 	private String image;
 
 	@Override
@@ -31,19 +30,14 @@ public class SetAsWallpaperActivity extends BaseActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 		setContentView(R.layout.set_as_wallpaper_activity);
 
-		if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
-			getActionBar().hide();
-		}
-		if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.ICE_CREAM_SANDWICH) {
-			getActionBar().hide();
-		}
+		getActionBar().hide();
 
-		categoryName = getIntent().getStringExtra(
-				FullScreenGalleryFragment.FULL_SCREEN_GALLERY_CATEGORY);
+		/*categoryName = getIntent().getStringExtra(
+				FullScreenGalleryFragment.FULL_SCREEN_GALLERY_CATEGORY);*/
 		image = getIntent().getStringExtra(
 				FullScreenGalleryFragment.FULL_SCREEN_GALLERY_IMAGE);
 
-		mCropImageView = (CropImageView) findViewById(R.id.CropImageView);
+		/*mCropImageView = (CropImageView) findViewById(R.id.CropImageView);
 		ImageLoader.getInstance().loadImage(image,
 				ImageViewUtil.options, new SimpleImageLoadingListener() {
 
@@ -52,7 +46,7 @@ public class SetAsWallpaperActivity extends BaseActivity {
 							Bitmap loadedImage) {
 						mCropImageView.setImageBitmap(loadedImage);
 					}
-				});
+				});*/
 	}
 
 	@Override
@@ -89,7 +83,8 @@ public class SetAsWallpaperActivity extends BaseActivity {
 
 		@Override
 		protected Integer doInBackground(Void... params) {
-            Bitmap bitmap = mCropImageView.getCroppedImage();
+            //Bitmap bitmap = mCropImageView.getCroppedImage();
+			Bitmap bitmap = null;
             WallpaperManager myWallpaperManager = WallpaperManager
                     .getInstance(getApplicationContext());
             try {

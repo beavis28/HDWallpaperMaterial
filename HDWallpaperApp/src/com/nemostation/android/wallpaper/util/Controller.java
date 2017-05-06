@@ -1,11 +1,14 @@
 package com.nemostation.android.wallpaper.util;
 
+import android.widget.Toast;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+import com.nemostation.android.wallpaper.R;
 import com.nemostation.android.wallpaper.models.Categories;
 import com.google.gson.GsonBuilder;
 
@@ -13,8 +16,8 @@ public class Controller {
 
 	private static final int CONNECTION_TIMEOUT = 45 * 1000; // 45 seconds
 
-	public static final String ROOT_URL = "http://nemostation.com/android-app-data/";
-	public static final String WALLPAPER_URL = ROOT_URL + "wallpaper/pokemonhd/";
+	//public static final String ROOT_URL = "http://nemostation.com/android-app-data/";
+	//public static final String WALLPAPER_URL = ROOT_URL + "wallpaper/pokemonhd/";
 	//public static final String THUMBS_URL = ROOT_URL + "wallpaper/thumbs/";
 
 	private static BufferedReader getInputStream(String urlString)
@@ -27,8 +30,10 @@ public class Controller {
 	}
 
 	public static Categories fetchCategories() throws IOException {
-		String urlString = WALLPAPER_URL + "/service.php";
+		//String urlString = WALLPAPER_URL + "/service.php";
+		String urlString = "http://www.nemostation.com/android-app-data/wallpaper/testingphp/service.php";
 		BufferedReader in = getInputStream(urlString);
+
 		try {
 			return new GsonBuilder().create().fromJson(in, Categories.class);
 		} finally {

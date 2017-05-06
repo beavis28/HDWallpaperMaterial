@@ -4,7 +4,6 @@
     <bool name="ga_reportUncaughtExceptions">true</bool>
     <color name="action_bar_color">@color/main_color_primary</color>
     <color name="action_bar_text_color">@android:color/white</color>
-    <color name="black_translucent">#50000000</color>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_signin_btn_dark_text_default">@android:color/white</color>
     <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
@@ -286,11 +285,6 @@
     <color name="material_yellow_A700">#f89d1b</color>
     <color name="text_color">@color/material_light_yellow_500</color>
     <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
-    <declare-styleable name="CropImageView"><attr name="guidelines">
-            <enum name="on" value="2"/>
-            <enum name="onTouch" value="1"/>
-            <enum name="off" value="0"/>
-        </attr><attr format="boolean" name="fixAspectRatio"/><attr format="integer" name="aspectRatioX"/><attr format="integer" name="aspectRatioY"/><attr format="reference" name="imageResource"/></declare-styleable>
     <declare-styleable name="MapAttrs"><attr format="enum" name="mapType">
       <enum name="none" value="0"/>
       <enum name="normal" value="1"/>

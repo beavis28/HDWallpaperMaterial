@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\HDWallpaper Material-AS\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_signin_btn_text_light.xml",
-        "source": "E:\\HDWallpaper Material-AS\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\color\\common_signin_btn_text_light.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_light.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_light.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_signin_btn_text_dark.xml",
-        "source": "E:\\HDWallpaper Material-AS\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\color\\common_signin_btn_text_dark.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_dark.xml"
     }
 ]

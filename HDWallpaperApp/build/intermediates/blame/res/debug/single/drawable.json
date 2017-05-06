@@ -1,50 +1,50 @@
 [
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\text_selector.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\drawable\\text_selector.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/drawable/common_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\white_button_default.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\drawable\\white_button_default.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/icon_default.png",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable/icon_default.png"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\white_button_selected.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\drawable\\white_button_selected.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/item_grid_selector.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable/item_grid_selector.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\white_button_selector.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\drawable\\white_button_selector.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/white_button_selected.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable/white_button_selected.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_default.png",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\drawable\\icon_default.png"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/text_selector.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable/text_selector.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\left_menu_selector.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\drawable\\left_menu_selector.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/left_menu_selector.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable/left_menu_selector.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\exploded-aar\\HDWallpaper Material-AS\\google-play-services_lib\\unspecified\\res\\drawable\\common_signin_btn_text_light.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/drawable/common_signin_btn_text_dark.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\exploded-aar\\HDWallpaper Material-AS\\google-play-services_lib\\unspecified\\res\\drawable\\common_signin_btn_text_dark.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/drawable/common_signin_btn_icon_light.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_drawable.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\drawable\\edit_text_drawable.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/white_button_default.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable/white_button_default.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\exploded-aar\\HDWallpaper Material-AS\\google-play-services_lib\\unspecified\\res\\drawable\\common_signin_btn_icon_light.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/white_button_selector.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable/white_button_selector.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\item_grid_selector.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\res\\drawable\\item_grid_selector.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/edit_text_drawable.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable/edit_text_drawable.xml"
     },
     {
-        "merged": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
-        "source": "E:\\HDWallpaper Material-AS\\HDWallpaperApp\\build\\intermediates\\exploded-aar\\HDWallpaper Material-AS\\google-play-services_lib\\unspecified\\res\\drawable\\common_signin_btn_icon_dark.xml"
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/drawable/common_signin_btn_text_light.xml"
     }
 ]

@@ -1,0 +1,4 @@
+#Sat Apr 22 19:39:03 SGT 2017
+base.0=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

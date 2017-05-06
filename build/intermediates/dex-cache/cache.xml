@@ -2,103 +2,94 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/nineoldandroids-2.4.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="d45aab0498247c47906478b5131d0a53fbf00fc1">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\instant-run_e6121aa84b6dd048fc46e158857804d485851b4c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\libs\libGoogleAnalyticsServices.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices_f0eb5427399a11784d05411e43791591041d9276.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\libs\listviewanimations_lib-manipulation_3.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\listviewanimations_lib-manipulation_3.1.0_aeacb2a90afc9a062be599a13268983f3e0a5364.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\libs\listviewanimations_lib-core-slh_3.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\listviewanimations_lib-core-slh_3.1.0_33111f9c98d9d1b4410d668b175d1fa4b70353d6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="13a90ce804e9718470f725faea6ef607603af0ae">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\instant-run-bootstrap_605c2d4e10f38dae56eee9e503569e22196f7457.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\libs\gson-2.2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\gson-2.2.4_aa3f8ee9778ba6d52761741bb47c47068adcfa0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
+        revision="25.0.2"
         sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_7a171597c21b04a953b3cc6458370de492d3cb03.jar" />
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_c2f3460b8137cd5fc82b84f1f0090a9afee7c1dd/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\exploded-aar\HDWallpaper Material-AS\google-play-services_lib\unspecified\jars\libs\google-play-services.jar"
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/listviewanimations_lib-core-slh_3.1.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="4ac848d48785173aa7b8cd6a7c2ba8d9d736d514">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\google-play-services_3e82435f55701393f6957a1eccd1b1c0139f49f5.jar" />
+        revision="25.0.2"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core-slh_3.1.0_46ac667ffdfd3a76f0926596d7092cbbf10d2b04/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\libs\universal-image-loader-1.9.3.jar"
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/universal-image-loader-1.9.3.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="25.0.2"
         sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_96e56f8a87dda47af3b418b6ad2e118248fc2e41.jar" />
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_3f37a042f22dd4f863387c944c63aa00f6439d9d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\libs\android-support-v4.jar"
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/listviewanimations_lib-manipulation_3.1.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\android-support-v4_b74159a72f569bcb5b5e2a921e0090aa2fd2744d.jar" />
+        revision="25.0.2"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-manipulation_3.1.0_0ac719eda1c580c2d626c268227b958429c0764e/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="E:\HDWallpaper Material-AS\HDWallpaperApp\libs\listviewanimations_lib-core_3.1.0.jar"
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/gson-2.2.4.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="25.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.4_0abba7280adebdf40fae9a7dac6648e10b14ced2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ddc4bed7caa2bf3a32e8f94fbad1768aff038c3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/libGoogleAnalyticsServices.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_70088fdb7608cfca428b75b8b3357c19fad758cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
         sha1="f3f9629b068554d8513a2aaf34418171bf430851">
-        <dex dex="E:\HDWallpaper Material-AS\HDWallpaperApp\build\intermediates\pre-dexed\debug\listviewanimations_lib-core_3.1.0_67d73ada136d128f62800aacbbb8579a7af27f40.jar" />
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core_3.1.0_91b1dd29e90f7c1e97e0d4fa3aa16d11cd5ada9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/libs/google-play-services.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ac848d48785173aa7b8cd6a7c2ba8d9d736d514">
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_598535f33bbf3bb7814fc1181f2ae3061462f241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2aaa2a77cc01cfd1331182164830b3ab7b650468">
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_98737cea42aeb62611ac6b6907da0120a782e406/classes.dex" />
     </item>
 
 </items>

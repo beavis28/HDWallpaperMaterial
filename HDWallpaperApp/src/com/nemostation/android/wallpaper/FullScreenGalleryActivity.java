@@ -61,10 +61,7 @@ public class FullScreenGalleryActivity extends BaseActivity {
 		
 		mDataHolder = getIntent().getExtras().getParcelable(MainActivity.PARC_DATA_HOLDER);
 		mFavouritesList = mDataHolder.getFavourites();
-		
-		if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
-			getActionBar().hide();
-		}
+
 		
 		mViewPager = (ViewPager) findViewById(R.id.image_pager);
 		

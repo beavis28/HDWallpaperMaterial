@@ -18,12 +18,12 @@
         android:id="@+id/action_refresh"
         android:icon="@drawable/refresh_green"
         android:showAsAction="always"
-        android:title="@string/refresh"/>
-    <item
+        android:title="@string/refresh"/>i
+    <!--tem
         android:id="@+id/action_search"
         android:icon="@drawable/search_green_dark"
         android:showAsAction="ifRoom"
-        android:title="@string/search"/>
+        android:title="@string/search"/-->
 
     <!-- Icons refresh and search for Grey theme -->
     <!--

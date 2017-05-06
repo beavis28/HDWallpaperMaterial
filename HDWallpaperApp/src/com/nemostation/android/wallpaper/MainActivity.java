@@ -14,6 +14,7 @@ import android.content.DialogInterface.OnCancelListener;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.net.Uri;
+import android.os.Build;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Environment;
@@ -21,6 +22,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
+import android.Manifest;
+import android.content.pm.PackageManager;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
+import android.app.Activity;
 
 import com.nemostation.android.wallpaper.adapters.GridImageAdapter;
 import com.nemostation.android.wallpaper.models.Categories;
@@ -56,6 +62,29 @@ public class MainActivity extends NavigationDrawerActivity implements
 		return this.mDataHolder.getFavourites();
 	}
 
+
+	private static final int REQUEST_EXTERNAL_STORAGE = 1;
+	private static String[] PERMISSIONS_STORAGE = {
+			Manifest.permission.READ_EXTERNAL_STORAGE,
+			Manifest.permission.WRITE_EXTERNAL_STORAGE
+	};
+
+	// Persmission method.
+	public static void verifyStoragePermissions(Activity activity) {
+		// Check if we have read or write permission
+		int writePermission = ContextCompat.checkSelfPermission(activity, Manifest.permission.WRITE_EXTERNAL_STORAGE);
+		int readPermission = ContextCompat.checkSelfPermission(activity, Manifest.permission.READ_EXTERNAL_STORAGE);
+
+		if (writePermission != PackageManager.PERMISSION_GRANTED || readPermission != PackageManager.PERMISSION_GRANTED) {
+			// We don't have permission so prompt the user
+			ActivityCompat.requestPermissions(
+					activity,
+					PERMISSIONS_STORAGE,
+					REQUEST_EXTERNAL_STORAGE
+			);
+		}
+	}
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -69,6 +98,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		mGrid.setOnItemClickListener(this);
 
 		dialog = new DialogUtils(this);
+		verifyStoragePermissions(this);
 
 		showSplashScreen();
 
@@ -222,10 +252,10 @@ public class MainActivity extends NavigationDrawerActivity implements
 		ArrayList<String> random;
 		GridImageAdapter adapter;
 		switch (item.getItemId()) {
-		case R.id.action_search:
+		/*case R.id.action_search:
 			if (currentSelectedItem != 2)
 				dialog.showDialog();
-			return true;
+			return true;*/
 		case R.id.action_refresh:
 			Dialog progressDialog = ProgressDialog.show(MainActivity.this, "",
 					getString(R.string.please_wait));

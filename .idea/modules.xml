@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HDWallpaper Material-AS.iml" filepath="$PROJECT_DIR$/HDWallpaper Material-AS.iml" />
       <module fileurl="file://$PROJECT_DIR$/HDWallpaperApp/HDWallpaperApp.iml" filepath="$PROJECT_DIR$/HDWallpaperApp/HDWallpaperApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cropper/cropper.iml" filepath="$PROJECT_DIR$/cropper/cropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HDWallpaperMaterial.iml" filepath="$PROJECT_DIR$/HDWallpaperMaterial.iml" />
       <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
     </modules>
   </component>
