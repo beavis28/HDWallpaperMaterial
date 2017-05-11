@@ -26,7 +26,7 @@ public class LeftMenuAdapter extends BaseAdapter {
 
 	@Override
 	public int getCount() {
-		return mCategories.size() + 3; // + Recent and Favourites
+		return mCategories.size() + 4; // + Recent and Favourites + Rate this app
 	}
 
 	@Override
@@ -65,7 +65,7 @@ public class LeftMenuAdapter extends BaseAdapter {
 			holder = (ViewHolder) convertView.getTag();
 		}
 
-		if (position < 3) {
+		if (position < 4) {
 			if (position == 0) {
 				holder.label.setText(R.string.recent);
 				holder.categoriesLabel.setVisibility(View.GONE);
@@ -78,12 +78,17 @@ public class LeftMenuAdapter extends BaseAdapter {
 				holder.separator.setVisibility(View.GONE);
 			} else if (position == 2) {
 				holder.label.setText(R.string.about_us);
+				holder.categoriesLabel.setVisibility(View.GONE);
+				holder.divider.setVisibility(View.GONE);
+				holder.separator.setVisibility(View.GONE);
+			} else if (position == 3) {
+				holder.label.setText(R.string.rate_app);
 				holder.categoriesLabel.setVisibility(View.VISIBLE);
 				holder.divider.setVisibility(View.GONE);
 				holder.separator.setVisibility(View.VISIBLE);
 			}
 		} else {
-			Category category = mCategories.get(position - 3);
+			Category category = mCategories.get(position - 4);
 			holder.label.setText(category.getName());
 			holder.divider.setVisibility(View.VISIBLE);
 			holder.separator.setVisibility(View.GONE);

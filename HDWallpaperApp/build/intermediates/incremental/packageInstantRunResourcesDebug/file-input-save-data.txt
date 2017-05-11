@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Apr 23 00:07:30 SGT 2017
+#Wed May 10 23:51:40 SGT 2017
 76.base=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/resources-debug.ap_
 5.base=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/resources-debug.ap_
 42.base=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/resources-debug.ap_

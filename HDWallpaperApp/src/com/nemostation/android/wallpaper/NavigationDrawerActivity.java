@@ -64,13 +64,15 @@ public class NavigationDrawerActivity extends BaseActivity {
 				R.drawable.ic_drawer, R.string.drawer_open,
 				R.string.drawer_close) {
 			public void onDrawerClosed(View view) {
-				if (currentSelectedItem < 3) {
+				if (currentSelectedItem < 4) {
 					if (currentSelectedItem == 0) {
 						setTitle(GridImageAdapter.currentCategoryName);
 					} else if (currentSelectedItem == 1) {
 						setTitle("Favourites");
 					} else if (currentSelectedItem == 2) {
 						setTitle(getString(R.string.about_us));
+					} else if (currentSelectedItem == 3) {
+						setTitle(getString(R.string.rate_app));
 					}
 				} else {
 					setTitle(GridImageAdapter.currentCategoryName);

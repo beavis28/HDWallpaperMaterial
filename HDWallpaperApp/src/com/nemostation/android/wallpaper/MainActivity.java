@@ -182,7 +182,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 	@Override
 	public void setGridAdapter(int position) {
 		getActionBar().show();
-		if (position < 3) {
+		if (position < 4) {
 			if (position == 0) {
 				mGrid.setAdapter(new GridImageAdapter(this, mDataHolder
 						.getRecent(), mDataHolder.getFavourites()));
@@ -197,26 +197,43 @@ public class MainActivity extends NavigationDrawerActivity implements
 						.getRecent(), mDataHolder.getFavourites()));
 				Intent aboutUs = new Intent(this, AboutUsActivity.class);
 				startActivity(aboutUs);
+			} else if (position == 3) {
+				currentSelectedItem = 0;
+				mGrid.setAdapter(new GridImageAdapter(this, mDataHolder
+						.getRecent(), mDataHolder.getFavourites()));
+				Uri uri = Uri.parse("market://details?id=" + this.getPackageName());
+				Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
+				try {
+					startActivity(goToMarket);
+				} catch (ActivityNotFoundException e) {
+					startActivity(new Intent(
+							Intent.ACTION_VIEW,
+							Uri.parse("http://play.google.com/store/apps/details?id="
+									+ this.getPackageName())));
+				}
 			}
 		} else {
 			mGrid.setAdapter(new GridImageAdapter(this, mDataHolder
-					.getCategories().get(position - 3), mDataHolder
+					.getCategories().get(position - 4), mDataHolder
 					.getFavourites()));
 		}
 	}
 
 	@Override
 	public void setTitle(int position) {
-		if (position < 3) {
+		if (position < 4) {
 			if (position == 0) {
 				setTitle(getString(R.string.recent));
 			} else if (position == 1) {
 				setTitle(getString(R.string.favourites));
 			} else if (position == 2) {
 				setTitle(getString(R.string.about_us));
+			}  else if (position == 3) {
+				setTitle(getString(R.string.rate_app));
 			}
+
 		} else {
-			setTitle(mDataHolder.getCategories().get(position - 3).getName());
+			setTitle(mDataHolder.getCategories().get(position - 4).getName());
 		}
 	}
 
@@ -224,7 +241,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 	public void onItemClick(AdapterView<?> parent, View view, int position,
 			long id) {
 		Intent intent = new Intent(this, FullScreenGalleryActivity.class);
-		if (currentSelectedItem < 3) {
+		if (currentSelectedItem < 4) {
 			if (currentSelectedItem == 0) {
 				intent.putExtra(PARC_RECENT, mDataHolder.getRecent());
 				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
@@ -236,10 +253,14 @@ public class MainActivity extends NavigationDrawerActivity implements
 				intent.putStringArrayListExtra(PARC_FAVOURITES,
 						mDataHolder.getFavourites());
 				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
+			} else if (currentSelectedItem == 3) {
+				intent.putStringArrayListExtra(PARC_FAVOURITES,
+						mDataHolder.getFavourites());
+				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 			}
 		} else {
 			intent.putExtra(PARC_CATEGORIES,
-					mDataHolder.getCategories().get(currentSelectedItem - 3));
+					mDataHolder.getCategories().get(currentSelectedItem - 4));
 			intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 		}
 		intent.putExtra(PARC_POSITION, position);
@@ -260,7 +281,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 			Dialog progressDialog = ProgressDialog.show(MainActivity.this, "",
 					getString(R.string.please_wait));
 			SyncData data;
-			if (currentSelectedItem < 3) {
+			if (currentSelectedItem < 4) {
 				if (currentSelectedItem == 0) {
 					data = new SyncData(progressDialog, 10);
 				} else if (currentSelectedItem == 1) {
@@ -276,7 +297,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 			data.execute();
 			return true;
 		case R.id.random:
-			if (currentSelectedItem < 3) {
+			if (currentSelectedItem < 4) {
 				if (currentSelectedItem == 0) {
 					random = new ArrayList<String>();
 					for (String st : mDataHolder.getRecent().getImages()) {
@@ -299,20 +320,20 @@ public class MainActivity extends NavigationDrawerActivity implements
 			} else {
 				random = new ArrayList<String>();
 				for (String st : mDataHolder.getCategories()
-						.get(currentSelectedItem - 3).getImages()) {
+						.get(currentSelectedItem - 4).getImages()) {
 					random.add(st);
 				}
 				Collections.shuffle(random);
-				mDataHolder.getCategories().get(currentSelectedItem - 3)
+				mDataHolder.getCategories().get(currentSelectedItem - 4)
 						.setImages(random);
 				adapter = new GridImageAdapter(this, mDataHolder
-						.getCategories().get(currentSelectedItem - 3),
+						.getCategories().get(currentSelectedItem - 4),
 						mDataHolder.getFavourites());
 				mGrid.setAdapter(adapter);
 			}
 			return true;
 		case R.id.sort_up:
-			if (currentSelectedItem < 3) {
+			if (currentSelectedItem < 4) {
 				if (currentSelectedItem == 0) {
 					Collections.sort(mDataHolder.getRecent().getImages());
 					adapter = new GridImageAdapter(this,
@@ -329,16 +350,16 @@ public class MainActivity extends NavigationDrawerActivity implements
 				}
 			} else {
 				Collections.sort(mDataHolder.getCategories()
-						.get(currentSelectedItem - 3).getImages());
+						.get(currentSelectedItem - 4).getImages());
 				adapter = new GridImageAdapter(this, mDataHolder
-						.getCategories().get(currentSelectedItem - 3),
+						.getCategories().get(currentSelectedItem - 4),
 						mDataHolder.getFavourites());
 				mGrid.setAdapter(adapter);
 			}
 			return true;
 		case R.id.sort_down:
 			Comparator comparator = Collections.reverseOrder();
-			if (currentSelectedItem < 3) {
+			if (currentSelectedItem < 4) {
 				if (currentSelectedItem == 0) {
 					Collections.sort(mDataHolder.getRecent().getImages(),
 							comparator);
@@ -357,10 +378,10 @@ public class MainActivity extends NavigationDrawerActivity implements
 			} else {
 				Collections.sort(
 						mDataHolder.getCategories()
-								.get(currentSelectedItem - 3).getImages(),
+								.get(currentSelectedItem - 4).getImages(),
 						comparator);
 				adapter = new GridImageAdapter(this, mDataHolder
-						.getCategories().get(currentSelectedItem - 3),
+						.getCategories().get(currentSelectedItem - 4),
 						mDataHolder.getFavourites());
 				mGrid.setAdapter(adapter);
 			}
@@ -395,7 +416,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		GridImageAdapter adapter;
 		ArrayList<String> al = new ArrayList<String>();
 		String text = result.toUpperCase();
-		if (currentSelectedItem < 3) {
+		if (currentSelectedItem < 4) {
 			if (currentSelectedItem == 0) {
 				for (String st : mDataHolder.getRecent().getImages()) {
 					if (st.toUpperCase().contains(text)) {
@@ -424,15 +445,15 @@ public class MainActivity extends NavigationDrawerActivity implements
 			}
 		} else {
 			for (String st : mDataHolder.getCategories()
-					.get(currentSelectedItem - 3).getImages()) {
+					.get(currentSelectedItem - 4).getImages()) {
 				if (st.toUpperCase().contains(text)) {
 					al.add(st);
 				}
 			}
-			mDataHolder.getCategories().get(currentSelectedItem - 3)
+			mDataHolder.getCategories().get(currentSelectedItem - 4)
 					.setImages(al);
 			adapter = new GridImageAdapter(this, mDataHolder.getCategories()
-					.get(currentSelectedItem - 3), mDataHolder.getFavourites());
+					.get(currentSelectedItem - 4), mDataHolder.getFavourites());
 			mGrid.setAdapter(adapter);
 		}
 		progressDialog.dismiss();
@@ -466,7 +487,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		@Override
 		protected Integer doInBackground(Void... params) {
 			try {
-				if (selection != 2) {
+				if (selection != 2 && selection != 3) {
 					Categories allCategories = Controller.fetchCategories();
 					recent = allCategories.getRecent();
 					favourites = new ArrayList<String>();
@@ -516,7 +537,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 								mDataHolder.getRecent(), favourites));
 					} else if(pressCategory != null && pressCategory.equals("category")) {
 						mGrid.setAdapter(new GridImageAdapter(MainActivity.this,
-								mDataHolder.getCategories().get(currentSelectedItem - 3), favourites));
+								mDataHolder.getCategories().get(currentSelectedItem - 4), favourites));
 					} else {
 						mGrid.setAdapter(new GridImageAdapter(MainActivity.this,
 								favourites));
@@ -529,7 +550,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 							favourites));
 				} else if (selection == 12) {
 					mGrid.setAdapter(new GridImageAdapter(MainActivity.this,
-							categories.get(currentSelectedItem - 3), favourites));
+							categories.get(currentSelectedItem - 4), favourites));
 				}
 				if (progressDialog != null) {
 					progressDialog.dismiss();
