@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nemostation.android.wallpaper" android:installLocation="auto"
+    package="com.nemostation.android.lolwallpaperhd" android:installLocation="auto"
     android:versionCode="1"
     android:versionName="1.1" >
 
@@ -32,7 +32,7 @@
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyCeOaxXjSnGw7mLpLerG07ubUh7Hp7tdZo" />
         <activity
-            android:name="com.nemostation.android.wallpaper.MainActivity"
+            android:name="com.nemostation.android.lolwallpaperhd.MainActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale"
             android:label="@string/app_name" >
             <intent-filter>
@@ -42,15 +42,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.nemostation.android.wallpaper.FullScreenGalleryActivity"
+            android:name="com.nemostation.android.lolwallpaperhd.FullScreenGalleryActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
         </activity>
         <activity
-            android:name="com.nemostation.android.wallpaper.SetAsWallpaperActivity"
+            android:name="com.nemostation.android.lolwallpaperhd.SetAsWallpaperActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
         </activity>
         <activity
-            android:name="com.nemostation.android.wallpaper.AboutUsActivity"
+            android:name="com.nemostation.android.lolwallpaperhd.AboutUsActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
         </activity>
         <activity

@@ -13,6 +13,11 @@ android {
     dexOptions {
         preDexLibraries = false
     }
+
+    lintOptions {
+        disable 'MissingTranslation'
+    }
+
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'

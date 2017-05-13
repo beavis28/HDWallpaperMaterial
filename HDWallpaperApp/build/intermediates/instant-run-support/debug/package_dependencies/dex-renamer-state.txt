@@ -1,4 +1,4 @@
-#Wed May 10 23:49:07 SGT 2017
+#Sun May 14 00:46:49 SGT 2017
 file.2=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9aa923a13fe8fd370148fabcb393c0df0d5a25a0/classes.dex
 base.2=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9aa923a13fe8fd370148fabcb393c0df0d5a25a0
 file.1=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9955dbd39b3aac2011210ed5f74c6f268ec85cb/classes.dex
