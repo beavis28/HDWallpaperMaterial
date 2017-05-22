@@ -1,7 +1,0 @@
-#Sun May 14 00:52:41 SGT 2017
-base.0=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ddc4bed7caa2bf3a32e8f94fbad1768aff038c3a
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_98737cea42aeb62611ac6b6907da0120a782e406/classes.dex
-base.1=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_98737cea42aeb62611ac6b6907da0120a782e406
-file.0=/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ddc4bed7caa2bf3a32e8f94fbad1768aff038c3a/classes.dex

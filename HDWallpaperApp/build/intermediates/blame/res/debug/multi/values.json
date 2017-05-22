@@ -5498,8 +5498,8 @@
                     "startLine": 300,
                     "startColumn": 4,
                     "startOffset": 17631,
-                    "endColumn": 209,
-                    "endOffset": 17836
+                    "endColumn": 212,
+                    "endOffset": 17839
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
@@ -5507,8 +5507,8 @@
                         "startLine": 11,
                         "startColumn": 4,
                         "startOffset": 676,
-                        "endColumn": 209,
-                        "endOffset": 881
+                        "endColumn": 212,
+                        "endOffset": 884
                     }
                 }
             },
@@ -5516,18 +5516,18 @@
                 "to": {
                     "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 17841,
-                    "endColumn": 189,
-                    "endOffset": 18026
+                    "startOffset": 17844,
+                    "endColumn": 192,
+                    "endOffset": 18032
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1774,
-                        "endColumn": 189,
-                        "endOffset": 1959
+                        "startOffset": 1777,
+                        "endColumn": 192,
+                        "endOffset": 1965
                     }
                 }
             },
@@ -5535,18 +5535,18 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 18031,
+                    "startOffset": 18037,
                     "endColumn": 887,
-                    "endOffset": 18914
+                    "endOffset": 18920
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 886,
+                        "startOffset": 889,
                         "endColumn": 887,
-                        "endOffset": 1769
+                        "endOffset": 1772
                     }
                 }
             },
@@ -5554,9 +5554,9 @@
                 "to": {
                     "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 18919,
+                    "startOffset": 18925,
                     "endColumn": 184,
-                    "endOffset": 19099
+                    "endOffset": 19105
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
@@ -5573,9 +5573,9 @@
                 "to": {
                     "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 19104,
+                    "startOffset": 19110,
                     "endColumn": 66,
-                    "endOffset": 19166
+                    "endOffset": 19172
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
@@ -5592,9 +5592,9 @@
                 "to": {
                     "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 19171,
+                    "startOffset": 19177,
                     "endColumn": 53,
-                    "endOffset": 19220
+                    "endOffset": 19226
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
@@ -5611,10 +5611,10 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 19225,
+                    "startOffset": 19231,
                     "endLine": 308,
                     "endColumn": 11,
-                    "endOffset": 19351
+                    "endOffset": 19357
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5632,10 +5632,10 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 19356,
+                    "startOffset": 19362,
                     "endLine": 311,
                     "endColumn": 11,
-                    "endOffset": 19488
+                    "endOffset": 19494
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5653,10 +5653,10 @@
                 "to": {
                     "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 19493,
+                    "startOffset": 19499,
                     "endLine": 314,
                     "endColumn": 11,
-                    "endOffset": 19617
+                    "endOffset": 19623
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5674,9 +5674,9 @@
                 "to": {
                     "startLine": 315,
                     "startColumn": 4,
-                    "startOffset": 19622,
+                    "startOffset": 19628,
                     "endColumn": 101,
-                    "endOffset": 19719
+                    "endOffset": 19725
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5693,9 +5693,9 @@
                 "to": {
                     "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 19724,
+                    "startOffset": 19730,
                     "endColumn": 103,
-                    "endOffset": 19823
+                    "endOffset": 19829
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5712,10 +5712,10 @@
                 "to": {
                     "startLine": 317,
                     "startColumn": 4,
-                    "startOffset": 19828,
+                    "startOffset": 19834,
                     "endLine": 319,
                     "endColumn": 11,
-                    "endOffset": 19968
+                    "endOffset": 19974
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5733,18 +5733,18 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 19973,
+                    "startOffset": 19979,
                     "endColumn": 41,
-                    "endOffset": 20010
+                    "endOffset": 20016
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 3066,
+                        "startOffset": 3072,
                         "endColumn": 41,
-                        "endOffset": 3103
+                        "endOffset": 3109
                     }
                 }
             },
@@ -5752,18 +5752,18 @@
                 "to": {
                     "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 20015,
+                    "startOffset": 20021,
                     "endColumn": 55,
-                    "endOffset": 20066
+                    "endOffset": 20072
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 3212,
+                        "startOffset": 3218,
                         "endColumn": 55,
-                        "endOffset": 3263
+                        "endOffset": 3269
                     }
                 }
             },
@@ -5771,9 +5771,9 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 20071,
+                    "startOffset": 20077,
                     "endColumn": 125,
-                    "endOffset": 20192
+                    "endOffset": 20198
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5790,9 +5790,9 @@
                 "to": {
                     "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 20197,
+                    "startOffset": 20203,
                     "endColumn": 155,
-                    "endOffset": 20348
+                    "endOffset": 20354
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5809,9 +5809,9 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 20353,
+                    "startOffset": 20359,
                     "endColumn": 124,
-                    "endOffset": 20473
+                    "endOffset": 20479
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5828,9 +5828,9 @@
                 "to": {
                     "startLine": 325,
                     "startColumn": 4,
-                    "startOffset": 20478,
+                    "startOffset": 20484,
                     "endColumn": 123,
-                    "endOffset": 20597
+                    "endOffset": 20603
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5847,9 +5847,9 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 20602,
+                    "startOffset": 20608,
                     "endColumn": 187,
-                    "endOffset": 20785
+                    "endOffset": 20791
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5866,9 +5866,9 @@
                 "to": {
                     "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 20790,
+                    "startOffset": 20796,
                     "endColumn": 189,
-                    "endOffset": 20975
+                    "endOffset": 20981
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5885,9 +5885,9 @@
                 "to": {
                     "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 20980,
+                    "startOffset": 20986,
                     "endColumn": 122,
-                    "endOffset": 21098
+                    "endOffset": 21104
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5904,9 +5904,9 @@
                 "to": {
                     "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 21103,
+                    "startOffset": 21109,
                     "endColumn": 164,
-                    "endOffset": 21263
+                    "endOffset": 21269
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5923,9 +5923,9 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 21268,
+                    "startOffset": 21274,
                     "endColumn": 93,
-                    "endOffset": 21357
+                    "endOffset": 21363
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5942,9 +5942,9 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 21362,
+                    "startOffset": 21368,
                     "endColumn": 140,
-                    "endOffset": 21498
+                    "endOffset": 21504
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5961,9 +5961,9 @@
                 "to": {
                     "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 21503,
+                    "startOffset": 21509,
                     "endColumn": 89,
-                    "endOffset": 21588
+                    "endOffset": 21594
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5980,9 +5980,9 @@
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 21593,
+                    "startOffset": 21599,
                     "endColumn": 110,
-                    "endOffset": 21699
+                    "endOffset": 21705
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -5999,9 +5999,9 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 21704,
+                    "startOffset": 21710,
                     "endColumn": 162,
-                    "endOffset": 21862
+                    "endOffset": 21868
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -6018,9 +6018,9 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 21867,
+                    "startOffset": 21873,
                     "endColumn": 216,
-                    "endOffset": 22079
+                    "endOffset": 22085
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -6037,9 +6037,9 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 22084,
+                    "startOffset": 22090,
                     "endColumn": 94,
-                    "endOffset": 22174
+                    "endOffset": 22180
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -6056,9 +6056,9 @@
                 "to": {
                     "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 22179,
+                    "startOffset": 22185,
                     "endColumn": 104,
-                    "endOffset": 22279
+                    "endOffset": 22285
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -6075,9 +6075,9 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 22284,
+                    "startOffset": 22290,
                     "endColumn": 155,
-                    "endOffset": 22435
+                    "endOffset": 22441
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -6094,9 +6094,9 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 22440,
+                    "startOffset": 22446,
                     "endColumn": 124,
-                    "endOffset": 22560
+                    "endOffset": 22566
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -6113,9 +6113,9 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 22565,
+                    "startOffset": 22571,
                     "endColumn": 61,
-                    "endOffset": 22622
+                    "endOffset": 22628
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -6132,9 +6132,9 @@
                 "to": {
                     "startLine": 341,
                     "startColumn": 4,
-                    "startOffset": 22627,
+                    "startOffset": 22633,
                     "endColumn": 78,
-                    "endOffset": 22701
+                    "endOffset": 22707
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -6151,18 +6151,18 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 22706,
+                    "startOffset": 22712,
                     "endColumn": 72,
-                    "endOffset": 22774
+                    "endOffset": 22780
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 2566,
+                        "startOffset": 2572,
                         "endColumn": 72,
-                        "endOffset": 2634
+                        "endOffset": 2640
                     }
                 }
             },
@@ -6170,18 +6170,18 @@
                 "to": {
                     "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 22779,
+                    "startOffset": 22785,
                     "endColumn": 63,
-                    "endOffset": 22838
+                    "endOffset": 22844
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
-                        "startOffset": 3530,
+                        "startOffset": 3536,
                         "endColumn": 63,
-                        "endOffset": 3589
+                        "endOffset": 3595
                     }
                 }
             },
@@ -6189,9 +6189,9 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 22843,
+                    "startOffset": 22849,
                     "endColumn": 64,
-                    "endOffset": 22903
+                    "endOffset": 22909
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
@@ -6208,9 +6208,9 @@
                 "to": {
                     "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 22908,
+                    "startOffset": 22914,
                     "endColumn": 62,
-                    "endOffset": 22966
+                    "endOffset": 22972
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
@@ -6227,9 +6227,9 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 22971,
+                    "startOffset": 22977,
                     "endColumn": 65,
-                    "endOffset": 23032
+                    "endOffset": 23038
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
@@ -6246,18 +6246,18 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 23037,
+                    "startOffset": 23043,
                     "endColumn": 56,
-                    "endOffset": 23089
+                    "endOffset": 23095
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2218,
+                        "startOffset": 2224,
                         "endColumn": 56,
-                        "endOffset": 2270
+                        "endOffset": 2276
                     }
                 }
             },
@@ -6265,18 +6265,18 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 23094,
+                    "startOffset": 23100,
                     "endColumn": 49,
-                    "endOffset": 23139
+                    "endOffset": 23145
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 2681,
+                        "startOffset": 2687,
                         "endColumn": 49,
-                        "endOffset": 2726
+                        "endOffset": 2732
                     }
                 }
             },
@@ -6284,18 +6284,18 @@
                 "to": {
                     "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 23144,
+                    "startOffset": 23150,
                     "endColumn": 64,
-                    "endOffset": 23204
+                    "endOffset": 23210
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 3334,
+                        "startOffset": 3340,
                         "endColumn": 64,
-                        "endOffset": 3394
+                        "endOffset": 3400
                     }
                 }
             },
@@ -6303,18 +6303,18 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 23209,
+                    "startOffset": 23215,
                     "endColumn": 74,
-                    "endOffset": 23279
+                    "endOffset": 23285
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 3399,
+                        "startOffset": 3405,
                         "endColumn": 74,
-                        "endOffset": 3469
+                        "endOffset": 3475
                     }
                 }
             },
@@ -6322,18 +6322,18 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 23284,
+                    "startOffset": 23290,
                     "endColumn": 55,
-                    "endOffset": 23335
+                    "endOffset": 23341
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
-                        "startOffset": 3474,
+                        "startOffset": 3480,
                         "endColumn": 55,
-                        "endOffset": 3525
+                        "endOffset": 3531
                     }
                 }
             },
@@ -6341,18 +6341,18 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 23340,
+                    "startOffset": 23346,
                     "endColumn": 65,
-                    "endOffset": 23401
+                    "endOffset": 23407
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 3268,
+                        "startOffset": 3274,
                         "endColumn": 65,
-                        "endOffset": 3329
+                        "endOffset": 3335
                     }
                 }
             },
@@ -6360,9 +6360,9 @@
                 "to": {
                     "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 23406,
+                    "startOffset": 23412,
                     "endColumn": 51,
-                    "endOffset": 23453
+                    "endOffset": 23459
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/analytics.xml",
@@ -6379,18 +6379,18 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 23458,
+                    "startOffset": 23464,
                     "endColumn": 82,
-                    "endOffset": 23536
+                    "endOffset": 23542
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 2483,
+                        "startOffset": 2489,
                         "endColumn": 82,
-                        "endOffset": 2561
+                        "endOffset": 2567
                     }
                 }
             },
@@ -6398,18 +6398,18 @@
                 "to": {
                     "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 23541,
+                    "startOffset": 23547,
                     "endColumn": 74,
-                    "endOffset": 23611
+                    "endOffset": 23617
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2318,
+                        "startOffset": 2324,
                         "endColumn": 74,
-                        "endOffset": 2388
+                        "endOffset": 2394
                     }
                 }
             },
@@ -6417,9 +6417,9 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 23616,
+                    "startOffset": 23622,
                     "endColumn": 79,
-                    "endOffset": 23691
+                    "endOffset": 23697
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values/values.xml",
@@ -6436,18 +6436,18 @@
                 "to": {
                     "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 23696,
+                    "startOffset": 23702,
                     "endColumn": 47,
-                    "endOffset": 23739
+                    "endOffset": 23745
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 3018,
+                        "startOffset": 3024,
                         "endColumn": 47,
-                        "endOffset": 3061
+                        "endOffset": 3067
                     }
                 }
             },
@@ -6455,18 +6455,18 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 23744,
+                    "startOffset": 23750,
                     "endColumn": 33,
-                    "endOffset": 23773
+                    "endOffset": 23779
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 3142,
+                        "startOffset": 3148,
                         "endColumn": 33,
-                        "endOffset": 3171
+                        "endOffset": 3177
                     }
                 }
             },
@@ -6474,18 +6474,18 @@
                 "to": {
                     "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 23778,
+                    "startOffset": 23784,
                     "endColumn": 33,
-                    "endOffset": 23807
+                    "endOffset": 23813
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 3108,
+                        "startOffset": 3114,
                         "endColumn": 33,
-                        "endOffset": 3137
+                        "endOffset": 3143
                     }
                 }
             },
@@ -6493,18 +6493,18 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 23812,
+                    "startOffset": 23818,
                     "endColumn": 51,
-                    "endOffset": 23859
+                    "endOffset": 23865
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2166,
+                        "startOffset": 2172,
                         "endColumn": 51,
-                        "endOffset": 2213
+                        "endOffset": 2219
                     }
                 }
             },
@@ -6512,18 +6512,18 @@
                 "to": {
                     "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 23864,
+                    "startOffset": 23870,
                     "endColumn": 41,
-                    "endOffset": 23901
+                    "endOffset": 23907
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 2817,
+                        "startOffset": 2823,
                         "endColumn": 41,
-                        "endOffset": 2854
+                        "endOffset": 2860
                     }
                 }
             },
@@ -6531,18 +6531,18 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 23906,
+                    "startOffset": 23912,
                     "endColumn": 50,
-                    "endOffset": 23952
+                    "endOffset": 23958
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 2967,
+                        "startOffset": 2973,
                         "endColumn": 50,
-                        "endOffset": 3013
+                        "endOffset": 3019
                     }
                 }
             },
@@ -6550,18 +6550,18 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 23957,
+                    "startOffset": 23963,
                     "endColumn": 41,
-                    "endOffset": 23994
+                    "endOffset": 24000
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 2639,
+                        "startOffset": 2645,
                         "endColumn": 41,
-                        "endOffset": 2676
+                        "endOffset": 2682
                     }
                 }
             },
@@ -6569,18 +6569,18 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 23999,
+                    "startOffset": 24005,
                     "endColumn": 43,
-                    "endOffset": 24038
+                    "endOffset": 24044
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 2731,
+                        "startOffset": 2737,
                         "endColumn": 43,
-                        "endOffset": 2770
+                        "endOffset": 2776
                     }
                 }
             },
@@ -6588,18 +6588,18 @@
                 "to": {
                     "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 24043,
+                    "startOffset": 24049,
                     "endColumn": 89,
-                    "endOffset": 24128
+                    "endOffset": 24134
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2393,
+                        "startOffset": 2399,
                         "endColumn": 89,
-                        "endOffset": 2478
+                        "endOffset": 2484
                     }
                 }
             },
@@ -6607,18 +6607,18 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 24133,
+                    "startOffset": 24139,
                     "endColumn": 41,
-                    "endOffset": 24170
+                    "endOffset": 24176
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 2775,
+                        "startOffset": 2781,
                         "endColumn": 41,
-                        "endOffset": 2812
+                        "endOffset": 2818
                     }
                 }
             },
@@ -6626,18 +6626,18 @@
                 "to": {
                     "startLine": 367,
                     "startColumn": 4,
-                    "startOffset": 24175,
+                    "startOffset": 24181,
                     "endColumn": 59,
-                    "endOffset": 24230
+                    "endOffset": 24236
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1964,
+                        "startOffset": 1970,
                         "endColumn": 59,
-                        "endOffset": 2019
+                        "endOffset": 2025
                     }
                 }
             },
@@ -6645,18 +6645,18 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 24235,
+                    "startOffset": 24241,
                     "endColumn": 42,
-                    "endOffset": 24273
+                    "endOffset": 24279
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2275,
+                        "startOffset": 2281,
                         "endColumn": 42,
-                        "endOffset": 2313
+                        "endOffset": 2319
                     }
                 }
             },
@@ -6664,18 +6664,18 @@
                 "to": {
                     "startLine": 369,
                     "startColumn": 4,
-                    "startOffset": 24278,
+                    "startOffset": 24284,
                     "endColumn": 53,
-                    "endOffset": 24327
+                    "endOffset": 24333
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 2859,
+                        "startOffset": 2865,
                         "endColumn": 53,
-                        "endOffset": 2908
+                        "endOffset": 2914
                     }
                 }
             },
@@ -6683,18 +6683,18 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 24332,
+                    "startOffset": 24338,
                     "endColumn": 53,
-                    "endOffset": 24381
+                    "endOffset": 24387
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 2913,
+                        "startOffset": 2919,
                         "endColumn": 53,
-                        "endOffset": 2962
+                        "endOffset": 2968
                     }
                 }
             },
@@ -6702,18 +6702,18 @@
                 "to": {
                     "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 24386,
+                    "startOffset": 24392,
                     "endColumn": 72,
-                    "endOffset": 24454
+                    "endOffset": 24460
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 2093,
+                        "startOffset": 2099,
                         "endColumn": 72,
-                        "endOffset": 2161
+                        "endOffset": 2167
                     }
                 }
             },
@@ -6721,18 +6721,18 @@
                 "to": {
                     "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 24459,
+                    "startOffset": 24465,
                     "endColumn": 68,
-                    "endOffset": 24523
+                    "endOffset": 24529
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 2024,
+                        "startOffset": 2030,
                         "endColumn": 68,
-                        "endOffset": 2088
+                        "endOffset": 2094
                     }
                 }
             },
@@ -6740,18 +6740,18 @@
                 "to": {
                     "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 24528,
+                    "startOffset": 24534,
                     "endColumn": 35,
-                    "endOffset": 24559
+                    "endOffset": 24565
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 3176,
+                        "startOffset": 3182,
                         "endColumn": 35,
-                        "endOffset": 3207
+                        "endOffset": 3213
                     }
                 }
             },
@@ -6759,9 +6759,9 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 24564,
+                    "startOffset": 24570,
                     "endColumn": 61,
-                    "endOffset": 24621
+                    "endOffset": 24627
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6778,10 +6778,10 @@
                 "to": {
                     "startLine": 375,
                     "startColumn": 4,
-                    "startOffset": 24626,
+                    "startOffset": 24632,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 24757
+                    "endOffset": 24763
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6799,10 +6799,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 24762,
+                    "startOffset": 24768,
                     "endLine": 380,
                     "endColumn": 12,
-                    "endOffset": 24935
+                    "endOffset": 24941
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6820,10 +6820,10 @@
                 "to": {
                     "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 24940,
+                    "startOffset": 24946,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 25216
+                    "endOffset": 25222
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6841,10 +6841,10 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 25221,
+                    "startOffset": 25227,
                     "endLine": 388,
                     "endColumn": 12,
-                    "endOffset": 25358
+                    "endOffset": 25364
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6862,10 +6862,10 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 25363,
+                    "startOffset": 25369,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 25662
+                    "endOffset": 25668
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6883,10 +6883,10 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 25667,
+                    "startOffset": 25673,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 25983
+                    "endOffset": 25989
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6904,10 +6904,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 25988,
+                    "startOffset": 25994,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 26177
+                    "endOffset": 26183
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6925,10 +6925,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 26182,
+                    "startOffset": 26188,
                     "endLine": 406,
                     "endColumn": 12,
-                    "endOffset": 26363
+                    "endOffset": 26369
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6946,10 +6946,10 @@
                 "to": {
                     "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 26368,
+                    "startOffset": 26374,
                     "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 26553
+                    "endOffset": 26559
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6967,10 +6967,10 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 26558,
+                    "startOffset": 26564,
                     "endLine": 412,
                     "endColumn": 12,
-                    "endOffset": 26698
+                    "endOffset": 26704
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -6988,10 +6988,10 @@
                 "to": {
                     "startLine": 413,
                     "startColumn": 4,
-                    "startOffset": 26703,
+                    "startOffset": 26709,
                     "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 26931
+                    "endOffset": 26937
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -7009,10 +7009,10 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 26936,
+                    "startOffset": 26942,
                     "endLine": 423,
                     "endColumn": 12,
-                    "endOffset": 27334
+                    "endOffset": 27340
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -7030,10 +7030,10 @@
                 "to": {
                     "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 27339,
+                    "startOffset": 27345,
                     "endLine": 426,
                     "endColumn": 12,
-                    "endOffset": 27497
+                    "endOffset": 27503
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -7051,10 +7051,10 @@
                 "to": {
                     "startLine": 427,
                     "startColumn": 4,
-                    "startOffset": 27502,
+                    "startOffset": 27508,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 27648
+                    "endOffset": 27654
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
@@ -7072,10 +7072,10 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 27653,
+                    "startOffset": 27659,
                     "endLine": 434,
                     "endColumn": 12,
-                    "endOffset": 27920
+                    "endOffset": 27926
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/styles.xml",
