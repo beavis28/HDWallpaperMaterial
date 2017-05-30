@@ -14,460 +14,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b37a10e9-3cfd-4bf7-81a8-22b3d7249cb1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/18117_1_miscellaneous_digital_art_bokeh_lights.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/287016.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/debug/fonts/Roboto-Black.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/debug/fonts/Roboto-BlackItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/debug/fonts/Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/debug/fonts/Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/debug/fonts/Roboto-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/androidTest/debug/com/nemostation/android/lolwallpaperhd/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/android/support/compat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/android/support/coreui/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/android/support/coreutils/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/android/support/fragment/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/android/support/mediacompat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/android/support/v4/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/google/android/gms/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/google/android/gms/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/google/android/gms/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/google/android/gms/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/google/android/gms/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/google/android/gms/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/google/android/gms/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/AboutUsActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/BaseActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/MainActivity$SyncData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity$DrawerItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity$SetWallpaper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/adapters/FullScreenGalleryAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/models/Categories$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/models/Categories.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/models/Category$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/models/Category.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/models/Recent$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/models/Recent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/util/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/util/DataHolder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/util/DataHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/util/DialogUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/util/DialogUtils$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/util/DialogUtils$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/util/DialogUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/util/ImageViewUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/views/PhotoPager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/lolwallpaperhd/views/ScaledImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/android/UnusedStub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/android/support/compat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/android/support/coreui/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/android/support/coreutils/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/android/support/fragment/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/android/support/v4/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/google/android/gms/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/google/android/gms/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/AboutUsActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/BaseActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/MainActivity$SyncData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity$DrawerItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity$SetWallpaper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/adapters/FullScreenGalleryAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/models/Categories$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/models/Categories.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/models/Category$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/models/Category.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/models/Recent$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/models/Recent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/util/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/util/DataHolder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/util/DataHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/util/DialogUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/util/DialogUtils$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/util/DialogUtils$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/util/DialogUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/util/ImageViewUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/views/PhotoPager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-verifier/debug/com/nemostation/android/lolwallpaperhd/views/ScaledImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageDebug/zip-cache/8rAmPUZu+TBcKSX0DcfZmV8+TI4=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageDebug/zip-cache/uNDN8GLOW8xW7Yqhb395B8REiTU=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/uNDN8GLOW8xW7Yqhb395B8REiTU=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/dependencies/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/manifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_0/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_1/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_2/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_3/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_4/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_5/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_6/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_7/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_8/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/instant-run-support/debug/slice_9/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/restart-dex/debug/build-info.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d9f1963e4319fedde23692cc53b0c8a4972a2ca/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2550c76333d3113b0fbb9ef2f93198e3b779d984/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a75dc8cc14825a39a51eed84694c091d5fb9d75/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97b67571616eb2877f6246783cfb456f82147d5d/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9aa923a13fe8fd370148fabcb393c0df0d5a25a0/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9955dbd39b3aac2011210ed5f74c6f268ec85cb/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_fe3105552d854f3158fce51fbcb0582119921b2b/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_98737cea42aeb62611ac6b6907da0120a782e406/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ddc4bed7caa2bf3a32e8f94fbad1768aff038c3a/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.4_0abba7280adebdf40fae9a7dac6648e10b14ced2/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_70088fdb7608cfca428b75b8b3357c19fad758cd/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core-slh_3.1.0_46ac667ffdfd3a76f0926596d7092cbbf10d2b04/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core_3.1.0_91b1dd29e90f7c1e97e0d4fa3aa16d11cd5ada9f/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-manipulation_3.1.0_0ac719eda1c580c2d626c268227b958429c0764e/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_c2f3460b8137cd5fc82b84f1f0090a9afee7c1dd/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_3f37a042f22dd4f863387c944c63aa00f6439d9d/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_598535f33bbf3bb7814fc1181f2ae3061462f241/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--59499483/android/UnusedStub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar--59499483/com/google/android/gms/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/UnusedStub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/compat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/coreui/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/coreutils/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/fragment/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/mediacompat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v4/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/AboutUsActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/BaseActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/MainActivity$SyncData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity$DrawerItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity$SetWallpaper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/adapters/FullScreenGalleryAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/models/Categories$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/models/Categories.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/models/Category$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/models/Category.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/models/Recent$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/models/Recent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/util/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/util/DataHolder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/util/DataHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/util/DialogUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/util/DialogUtils$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/util/DialogUtils$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/util/DialogUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/util/ImageViewUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/views/PhotoPager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nemostation/android/lolwallpaperhd/views/ScaledImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/android/tools/fd/dummy/slice_0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/buildId.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/android/tools/fd/dummy/slice_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/adapters/FullScreenGalleryAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/util/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/util/DataHolder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/util/DataHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/util/DialogUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/util/DialogUtils$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/util/DialogUtils$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/util/DialogUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nemostation/android/lolwallpaperhd/util/ImageViewUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/android/tools/fd/dummy/slice_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/android/support/fragment/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/android/support/v4/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/android/tools/fd/dummy/slice_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/coreui/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/android/tools/fd/dummy/slice_4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/AboutUsActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/BaseActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/MainActivity$SyncData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity$DrawerItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity$SetWallpaper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/android/support/coreutils/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/android/tools/fd/dummy/slice_5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/nemostation/android/lolwallpaperhd/views/PhotoPager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/nemostation/android/lolwallpaperhd/views/ScaledImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/UnusedStub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/android/tools/fd/dummy/slice_6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/android/support/compat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/android/tools/fd/dummy/slice_7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/android/tools/fd/dummy/slice_8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/android/support/mediacompat/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/android/tools/fd/dummy/slice_9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nemostation/android/lolwallpaperhd/models/Categories$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nemostation/android/lolwallpaperhd/models/Categories.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nemostation/android/lolwallpaperhd/models/Category$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nemostation/android/lolwallpaperhd/models/Category.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nemostation/android/lolwallpaperhd/models/Recent$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nemostation/android/lolwallpaperhd/models/Recent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/outputs/apk/HDWallpaperApp-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/generated/source/buildConfig/release/com/google/android/gms/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/generated/source/r/release/com/google/android/gms/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/bundles/debug/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/bundles/debug/libs/google-play-services.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/bundles/default/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/bundles/default/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/bundles/default/libs/google-play-services.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/test/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/test/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/test/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/test/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/test/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/test/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/test/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/androidTest/debug/com/google/android/gms/test/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/android/UnusedStub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/com/google/android/gms/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/com/google/android/gms/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/com/google/android/gms/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/com/google/android/gms/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/com/google/android/gms/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/com/google/android/gms/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/com/google/android/gms/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/debug/com/google/android/gms/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/android/UnusedStub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/com/google/android/gms/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/com/google/android/gms/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/com/google/android/gms/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/com/google/android/gms/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/com/google/android/gms/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/com/google/android/gms/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/com/google/android/gms/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/com/google/android/gms/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/classes/release/com/google/android/gms/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental-safeguard/release/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/HDWallpaperApp-release.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/debug/com/nemostation/android/lolwallpaperhd/BuildConfig.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/androidTest/debug/com/nemostation/android/lolwallpaperhd/test/BuildConfig.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/androidTest/debug/com/nemostation/android/narutowallpaperhd/test/BuildConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/nemostation/android/lolwallpaperhd/R.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/nemostation/android/narutowallpaperhd/R.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/AboutUsActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/AboutUsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/BaseActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/BaseActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/MainActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/SetAsWallpaperActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/adapters/FullScreenGalleryAdapter.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/FullScreenGalleryAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/GridImageAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Categories.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Categories.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Category.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Category.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Recent.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Recent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/Controller.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/Controller.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/DataHolder.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/DataHolder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/DialogUtils.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/DialogUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/ImageViewUtil.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/ImageViewUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/views/PhotoPager.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/PhotoPager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/views/ScaledImageView.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/ScaledImageView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_HDWallpaperApp_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-xxhdpi/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/build/outputs/aar/google-play-services_lib-debug.aar" afterPath="$PROJECT_DIR$/google-play-services_lib/build/outputs/aar/google-play-services_lib-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/build/outputs/aar/google-play-services_lib-release.aar" afterPath="$PROJECT_DIR$/google-play-services_lib/build/outputs/aar/google-play-services_lib-release.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/HDWallpaperApp.iml" afterPath="$PROJECT_DIR$/HDWallpaperApp/HDWallpaperApp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/bin/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/google/android/gms/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/layout/grid_image.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/layout/grid_image.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/gen/com/csform/android/wallpaper/BuildConfig.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/gen/com/csform/android/wallpaper/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/gen/com/csform/android/wallpaper/R.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/gen/com/csform/android/wallpaper/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/layout/grid_image.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/layout/grid_image.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/values/tags.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/values/tags.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
@@ -518,7 +135,116 @@
     <favorites_list name="HDWallpaperMaterial" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FullScreenGalleryActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhotoPager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/PhotoPager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5325">
+              <caret line="399" column="26" selection-start-line="399" selection-start-column="26" selection-end-line="399" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeftMenuAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google-play-services_lib/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/menu/main.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../nemostation.jks" />
@@ -2959,9 +2685,14 @@
         <option value="$PROJECT_DIR$/HDWallpaperApp/gen/com/csform/android/wallpaper/R.java" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/MainActivity.java" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment.java" />
-        <option value="$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/HDWallpaperApp/res/values/tags.xml" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/Controller.java" />
+        <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity.java" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.java" />
+        <option value="$PROJECT_DIR$/HDWallpaperApp/bin/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/MainActivity.java" />
+        <option value="$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -3050,8 +2781,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="PackagesPane">
         <subPane />
       </pane>
       <pane id="AndroidView">
@@ -3100,7 +2844,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3114,11 +2858,39 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anim" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperMaterial" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperMaterial" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
+              <option name="myItemId" value="narutowallpaperhd" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3130,6 +2902,84 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="HDWallpaperApp" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="narutowallpaperhd" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperMaterial" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="narutowallpaperhd" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperMaterial" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="narutowallpaperhd" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperMaterial" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HDWallpaperApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="narutowallpaperhd" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -3147,19 +2997,6 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
       </pane>
     </panes>
   </component>
@@ -3615,30 +3452,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902297" sideWeight="0.48855507" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40343347" sideWeight="0.37052932" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40315637" sideWeight="0.3662375" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31330472" sideWeight="0.50765866" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25574714" sideWeight="0.55436337" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3558106" sideWeight="0.4635193" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2811159" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34620887" sideWeight="0.38054362" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40315637" sideWeight="0.63376254" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3558106" sideWeight="0.45779684" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761088" sideWeight="0.48354793" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34620887" sideWeight="0.38054362" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.47281832" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3558106" sideWeight="0.53648067" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27181688" sideWeight="0.49234137" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553802" sideWeight="0.56866956" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27181688" sideWeight="0.49234137" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553802" sideWeight="0.43133047" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1988555" sideWeight="0.491453" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19909842" sideWeight="0.508547" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4454023" sideWeight="0.44206008" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31330472" sideWeight="0.50765866" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4454023" sideWeight="0.44206008" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3649,7 +3486,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25574714" sideWeight="0.4427754" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2811159" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -3685,7 +3522,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Categories.java</url>
+          <url>file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Categories.java</url>
           <line>61</line>
           <properties />
           <option name="timeStamp" value="25" />
@@ -3700,105 +3537,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/tags.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/menu/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/splash_screen.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-25/android/content/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="2935" column="31" selection-start-line="2935" selection-start-column="31" selection-end-line="2935" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/main_activity.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Recent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/ImageViewUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/DialogUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/adapters/FullScreenGalleryAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1740">
-          <caret line="123" column="38" selection-start-line="123" selection-start-column="38" selection-end-line="123" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Categories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-502">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#298#299#0" expanded="false" />
-            <element signature="e#325#326#0" expanded="false" />
-            <element signature="e#1354#1355#0" expanded="false" />
-            <element signature="e#1390#1391#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-25/android/app/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2760">
-          <caret line="4488" column="16" selection-start-line="4488" selection-start-column="16" selection-end-line="4488" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/anim/splash_screen_move_out.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -3828,26 +3566,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/dialog.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-375">
           <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/drawer_list_item.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/drawer_list_item.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="35" column="53" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="53" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Category.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Category.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
@@ -3862,13 +3600,6 @@
     <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable-xxhdpi/header_our_team.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable/icon_default.jpg" />
@@ -3891,22 +3622,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="android-dummy:///Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/Translations Editor">
-      <provider selected="true" editor-type-id="string-resource-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable-hdpi/ic_drawer.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable-mdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable-hdpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -3928,106 +3644,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/AboutUsActivity.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/AboutUsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/google-play-services_lib/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google-play-services_lib/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/DataHolder.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/DataHolder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/about_us.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="374" column="0" selection-start-line="374" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="164" column="79" selection-start-line="164" selection-start-column="79" selection-end-line="164" selection-end-column="79" />
@@ -4035,42 +3698,235 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/BaseActivity.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity.java">
+    <entry file="android-dummy:///Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial//Theme Editor">
+      <provider selected="true" editor-type-id="themeEditor">
+        <state theme-name="AppBaseTheme" module-name="HDWallpaperApp" proportion="0.67" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable-hdpi/ic_drawer.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/analytics.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/Controller.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/full_screen_gallery.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/full_screen_gallery_item.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        <state relative-caret-position="154">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <element signature="e#1411#1434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-play-services_lib/res/values/ads_attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-505">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/tags.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/main_activity.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/menu/main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="android-dummy:///Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/Translations Editor">
+      <provider selected="true" editor-type-id="string-resource-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/google-play-services_lib/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
+        <state relative-caret-position="180">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/bin/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/PhotoPager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5325">
+          <caret line="399" column="26" selection-start-line="399" selection-start-column="26" selection-end-line="399" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding />
         </state>
       </provider>

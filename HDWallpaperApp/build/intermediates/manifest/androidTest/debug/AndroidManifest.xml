@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nemostation.android.lolwallpaperhd.test">
+    package="com.nemostation.android.narutowallpaperhd.test">
 
-    <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="25" />
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="25" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.nemostation.android.lolwallpaperhd"
+                     android:targetPackage="com.nemostation.android.narutowallpaperhd"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.nemostation.android.lolwallpaperhd"/>
+                     android:label="Tests for com.nemostation.android.narutowallpaperhd"/>
 </manifest>

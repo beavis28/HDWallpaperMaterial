@@ -72,12 +72,12 @@
         "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-mdpi/favorite_on_white.png"
     },
     {
-        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
-        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-mdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi/splash_logo_flat.png",
         "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-mdpi/splash_logo_flat.png"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi/favorite_on.png",

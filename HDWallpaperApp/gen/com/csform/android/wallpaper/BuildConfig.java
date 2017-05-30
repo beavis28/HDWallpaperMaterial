@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package com.nemostation.android.lolwallpaperhd;
+package com.nemostation.android.narutowallpaperhd;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;

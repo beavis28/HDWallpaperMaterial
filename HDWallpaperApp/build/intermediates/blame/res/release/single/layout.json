@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/release/layout/full_screen_gallery.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/layout/full_screen_gallery.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/release/layout/main_activity.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/release/layout/drawer_list_item.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/release/layout/about_us.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/layout/about_us.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/release/layout/set_as_wallpaper_activity.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/layout/set_as_wallpaper_activity.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/release/layout/grid_image.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/layout/grid_image.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/release/layout/dialog.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/release/layout/splash_screen.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/release/layout/full_screen_gallery_item.xml",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/layout/full_screen_gallery_item.xml"
+    }
+]

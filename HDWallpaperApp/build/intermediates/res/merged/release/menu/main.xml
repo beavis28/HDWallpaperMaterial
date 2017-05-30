@@ -1,0 +1,106 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--
+    PLEASE NOTE: Below you can inflate icons for refresh and search
+    for 5 different themes that we provide for you. You just need 
+    to uncomment some icons related with theme that you like, and 
+    comment "Icons refresh and search for Blue Grey theme"
+    and that is it. If you like to change by yourself in some
+    different theme you can upload png images in drawable folder,
+    and put path to them. 
+
+    -->
+
+
+    <!-- Icons refresh and search for Blue Grey theme -->
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh_green"
+        android:showAsAction="always"
+        android:title="@string/refresh"/>i
+    <!--tem
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_green_dark"
+        android:showAsAction="ifRoom"
+        android:title="@string/search"/-->
+
+    <!-- Icons refresh and search for Grey theme -->
+    <!--
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh_blue"
+        android:showAsAction="always"
+        android:title="@string/refresh"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_blue"
+        android:showAsAction="always"
+        android:title="@string/search"/>
+
+    -->
+    <!-- Icons refresh and search for Cyan theme -->
+    <!--
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh_yellow"
+        android:showAsAction="always"
+        android:title="@string/refresh"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_yellow"
+        android:showAsAction="always"
+        android:title="@string/search"/>
+
+    -->
+    <!-- Icons refresh and search for Light Grey theme -->
+    <!--
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh_green_dark"
+        android:showAsAction="always"
+        android:title="@string/refresh"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_green_dark"
+        android:showAsAction="always"
+        android:title="@string/search"/>
+
+    -->
+    <!-- Icons refresh and search for Deep Orange theme -->
+    <!--
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh_orange"
+        android:showAsAction="always"
+        android:title="@string/refresh"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/search_orange"
+        android:showAsAction="always"
+        android:title="@string/search"/>
+
+    -->
+
+    <item
+        android:id="@+id/random"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/random"/>
+    <item
+        android:id="@+id/sort_up"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/sort_a_to_z"/>
+    <item
+        android:id="@+id/sort_down"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/sort_z_to_a"/>
+    <item
+        android:id="@+id/rate_app"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/rate_app"/>
+    <item
+        android:id="@+id/more_apps"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/more_apps"/>
+
+</menu>
