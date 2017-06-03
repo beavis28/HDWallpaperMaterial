@@ -4,6 +4,6 @@
     android:versionCode="4323030"
     android:versionName="4.3.23 (1069729-030)" >
 
-    <uses-sdk android:minSdkVersion="9"/>
+    <uses-sdk android:minSdkVersion="11"/>
 
 </manifest>

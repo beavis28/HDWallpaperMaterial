@@ -18,6 +18,8 @@ public class LeftMenuAdapter extends BaseAdapter {
 	private List<Category> mCategories;
 	private LayoutInflater mInflater;
 
+	private static final int NUMBER_OF_FUNCTION_CAT = 5;
+
 	public LeftMenuAdapter(Context context, List<Category> categories) {
 		mCategories = categories;
 		mInflater = (LayoutInflater) context
@@ -26,7 +28,7 @@ public class LeftMenuAdapter extends BaseAdapter {
 
 	@Override
 	public int getCount() {
-		return mCategories.size() + 4; // + Recent and Favourites + Rate this app
+		return mCategories.size() + NUMBER_OF_FUNCTION_CAT; // + Recent and Favourites + Rate this app
 	}
 
 	@Override
@@ -65,7 +67,7 @@ public class LeftMenuAdapter extends BaseAdapter {
 			holder = (ViewHolder) convertView.getTag();
 		}
 
-		if (position < 4) {
+		if (position < NUMBER_OF_FUNCTION_CAT) {
 			if (position == 0) {
 				holder.label.setText(R.string.recent);
 				holder.categoriesLabel.setVisibility(View.GONE);
@@ -83,12 +85,17 @@ public class LeftMenuAdapter extends BaseAdapter {
 				holder.separator.setVisibility(View.GONE);
 			} else if (position == 3) {
 				holder.label.setText(R.string.rate_app);
+				holder.categoriesLabel.setVisibility(View.GONE);
+				holder.divider.setVisibility(View.GONE);
+				holder.separator.setVisibility(View.GONE);
+			} else if (position == 4) {
+				holder.label.setText(R.string.more_apps);
 				holder.categoriesLabel.setVisibility(View.VISIBLE);
 				holder.divider.setVisibility(View.GONE);
 				holder.separator.setVisibility(View.VISIBLE);
 			}
 		} else {
-			Category category = mCategories.get(position - 4);
+			Category category = mCategories.get(position - NUMBER_OF_FUNCTION_CAT);
 			holder.label.setText(category.getName());
 			holder.divider.setVisibility(View.VISIBLE);
 			holder.separator.setVisibility(View.GONE);

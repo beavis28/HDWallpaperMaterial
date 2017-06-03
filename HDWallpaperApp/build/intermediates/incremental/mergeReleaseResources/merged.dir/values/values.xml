@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <color name="action_bar_color">@color/main_color_primary</color>
+    <color name="action_bar_text_color">@android:color/white</color>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <color name="full_gallery_item_bar_color">#fafcfc</color>
+    <color name="full_screen_image_background">@color/main_color_primary</color>
+    <color name="left_menu_color">@color/main_color_secondary_90_percent</color>
+    <color name="main_color_grey_100">@color/material_grey_100</color>
+    <color name="main_color_grey_600">@color/material_grey_600</color>
+    <color name="main_color_grey_800">@color/material_grey_800</color>
+    <color name="main_color_primary">@color/material_cyan_900</color>
+    <color name="main_color_primary_50_percent">#80016064</color>
+    <color name="main_color_primary_80_percent">#cc016064</color>
+    <color name="main_color_primary_90_percent">#e6016064</color>
+    <color name="main_color_secondary">@color/material_cyan_800</color>
+    <color name="main_color_secondary_50_percent">#8000838f</color>
+    <color name="main_color_secondary_90_percent">#e600838f</color>
+    <color name="main_color_tertiary">@color/material_cyan_700</color>
+    <color name="main_color_tertiary_30_percent">#4d0297a7</color>
+    <color name="material_blue_100">#bdddf4</color>
+    <color name="material_blue_200">#95c7ec</color>
+    <color name="material_blue_300">#70b2e1</color>
+    <color name="material_blue_400">#569fd7</color>
+    <color name="material_blue_50">#e4f1fb</color>
+    <color name="material_blue_500">#478fcc</color>
+    <color name="material_blue_600">#3d82c4</color>
+    <color name="material_blue_700">#3374ba</color>
+    <color name="material_blue_800">#2a65b0</color>
+    <color name="material_blue_900">#14499e</color>
+    <color name="material_blue_A100">#8caedb</color>
+    <color name="material_blue_A200">#5880c1</color>
+    <color name="material_blue_A400">#4972b8</color>
+    <color name="material_blue_A700">#4666af</color>
+    <color name="material_blue_grey_100">#cfd8db</color>
+    <color name="material_blue_grey_200">#afbdc4</color>
+    <color name="material_blue_grey_300">#8fa4ad</color>
+    <color name="material_blue_grey_400">#788f9b</color>
+    <color name="material_blue_grey_50">#eceef0</color>
+    <color name="material_blue_grey_500">#607d8b</color>
+    <color name="material_blue_grey_600">#546e7a</color>
+    <color name="material_blue_grey_700">#455a64</color>
+    <color name="material_blue_grey_800">#37474f</color>
+    <color name="material_blue_grey_900">#263238</color>
+    <color name="material_brown_100">#d7ccc8</color>
+    <color name="material_brown_200">#bcaaa4</color>
+    <color name="material_brown_300">#a0887e</color>
+    <color name="material_brown_400">#8d6e63</color>
+    <color name="material_brown_50">#eeeae8</color>
+    <color name="material_brown_500">#795548</color>
+    <color name="material_brown_600">#6d4c41</color>
+    <color name="material_brown_700">#5d4037</color>
+    <color name="material_brown_800">#4e342e</color>
+    <color name="material_brown_900">#3e2722</color>
+    <color name="material_cyan_100">#b6e2eb</color>
+    <color name="material_cyan_200">#88d3e1</color>
+    <color name="material_cyan_300">#5ac7d9</color>
+    <color name="material_cyan_400">#35c1d6</color>
+    <color name="material_cyan_50">#e1f2f7</color>
+    <color name="material_cyan_500">#09bcd3</color>
+    <color name="material_cyan_600">#00abc0</color>
+    <color name="material_cyan_700">#0297a7</color>
+    <color name="material_cyan_800">#00838f</color>
+    <color name="material_cyan_900">#016064</color>
+    <color name="material_cyan_A100">#9cd9e5</color>
+    <color name="material_cyan_A200">#70ccdd</color>
+    <color name="material_cyan_A400">#5dc9e7</color>
+    <color name="material_cyan_A700">#00b7d3</color>
+    <color name="material_deep_orange_100">#fbcbbc</color>
+    <color name="material_deep_orange_200">#f8aa91</color>
+    <color name="material_deep_orange_300">#f58967</color>
+    <color name="material_deep_orange_400">#f26f46</color>
+    <color name="material_deep_orange_50">#fae8e6</color>
+    <color name="material_deep_orange_500">#f0592b</color>
+    <color name="material_deep_orange_600">#f05223</color>
+    <color name="material_deep_orange_700">#e44b25</color>
+    <color name="material_deep_orange_800">#d64526</color>
+    <color name="material_deep_orange_900">#bd3926</color>
+    <color name="material_deep_orange_A100">#f79c80</color>
+    <color name="material_deep_orange_A200">#f26e43</color>
+    <color name="material_deep_orange_A400">#ef4323</color>
+    <color name="material_deep_orange_A700">#db3126</color>
+    <color name="material_deep_purple_100">#d0c3e0</color>
+    <color name="material_deep_purple_200">#b29cca</color>
+    <color name="material_deep_purple_300">#9175b4</color>
+    <color name="material_deep_purple_400">#775ba6</color>
+    <color name="material_deep_purple_50">#ece6f2</color>
+    <color name="material_deep_purple_500">#65499d</color>
+    <color name="material_deep_purple_600">#5e449b</color>
+    <color name="material_deep_purple_700">#533c97</color>
+    <color name="material_deep_purple_800">#493493</color>
+    <color name="material_deep_purple_900">#362e8a</color>
+    <color name="material_deep_purple_A100">#9d88c0</color>
+    <color name="material_deep_purple_A200">#6a5da8</color>
+    <color name="material_deep_purple_A400">#5c54a3</color>
+    <color name="material_deep_purple_A700">#5c4da0</color>
+    <color name="material_green_100">#c8e4c9</color>
+    <color name="material_green_200">#a4d5a6</color>
+    <color name="material_green_300">#81c784</color>
+    <color name="material_green_400">#66bb6a</color>
+    <color name="material_green_50">#e9f4e9</color>
+    <color name="material_green_500">#4cae4e</color>
+    <color name="material_green_600">#42a046</color>
+    <color name="material_green_700">#378e43</color>
+    <color name="material_green_800">#307d3d</color>
+    <color name="material_green_900">#1e5e2f</color>
+    <color name="material_green_A100">#bee0c2</color>
+    <color name="material_green_A200">#84caa0</color>
+    <color name="material_green_A400">#5bbc6b</color>
+    <color name="material_green_A700">#40b654</color>
+    <color name="material_grey_100">#f4f5f5</color>
+    <color name="material_grey_200">#eeeeee</color>
+    <color name="material_grey_300">#e0e0e0</color>
+    <color name="material_grey_400">#bdbcbc</color>
+    <color name="material_grey_50">#f9fafa</color>
+    <color name="material_grey_500">#9d9d9d</color>
+    <color name="material_grey_600">#757575</color>
+    <color name="material_grey_700">#616161</color>
+    <color name="material_grey_800">#424242</color>
+    <color name="material_grey_900">#202020</color>
+    <color name="material_indigo_100">#c5c9e6</color>
+    <color name="material_indigo_200">#a0a8d4</color>
+    <color name="material_indigo_300">#7a85c1</color>
+    <color name="material_indigo_400">#5e6ab1</color>
+    <color name="material_indigo_50">#e7e9f5</color>
+    <color name="material_indigo_500">#4554a4</color>
+    <color name="material_indigo_600">#3e4da0</color>
+    <color name="material_indigo_700">#33429a</color>
+    <color name="material_indigo_800">#283990</color>
+    <color name="material_indigo_900">#2c2f78</color>
+    <color name="material_indigo_A100">#8e99cc</color>
+    <color name="material_indigo_A200">#586ab1</color>
+    <color name="material_indigo_A400">#4c62ad</color>
+    <color name="material_indigo_A700">#485eab</color>
+    <color name="material_light_blue_100">#b4e3fa</color>
+    <color name="material_light_blue_200">#83d2f5</color>
+    <color name="material_light_blue_300">#57c1ee</color>
+    <color name="material_light_blue_400">#43b3e6</color>
+    <color name="material_light_blue_50">#e1f3fd</color>
+    <color name="material_light_blue_500">#38a4dc</color>
+    <color name="material_light_blue_600">#2c97d4</color>
+    <color name="material_light_blue_700">#1a87c8</color>
+    <color name="material_light_blue_800">#0277bd</color>
+    <color name="material_light_blue_900">#00579b</color>
+    <color name="material_light_blue_A100">#85d5f7</color>
+    <color name="material_light_blue_A200">#56c0ed</color>
+    <color name="material_light_blue_A400">#44a9df</color>
+    <color name="material_light_blue_A700">#398bca</color>
+    <color name="material_light_green_100">#dbebc7</color>
+    <color name="material_light_green_200">#c5e0a5</color>
+    <color name="material_light_green_300">#add480</color>
+    <color name="material_light_green_400">#9bcb65</color>
+    <color name="material_light_green_50">#f1f7e9</color>
+    <color name="material_light_green_500">#8bc248</color>
+    <color name="material_light_green_600">#7bb241</color>
+    <color name="material_light_green_700">#679f41</color>
+    <color name="material_light_green_800">#558b3e</color>
+    <color name="material_light_green_900">#346933</color>
+    <color name="material_light_green_A100">#cee18b</color>
+    <color name="material_light_green_A200">#b8d54a</color>
+    <color name="material_light_green_A400">#8ec63e</color>
+    <color name="material_light_green_A700">#75bf43</color>
+    <color name="material_light_yellow_100">#fef8c5</color>
+    <color name="material_light_yellow_200">#fdf59f</color>
+    <color name="material_light_yellow_300">#fef177</color>
+    <color name="material_light_yellow_400">#feed57</color>
+    <color name="material_light_yellow_50">#fefce8</color>
+    <color name="material_light_yellow_500">#feea39</color>
+    <color name="material_light_yellow_600">#fcd736</color>
+    <color name="material_light_yellow_700">#f9bf2b</color>
+    <color name="material_light_yellow_800">#f8a822</color>
+    <color name="material_light_yellow_900">#f47f1f</color>
+    <color name="material_light_yellow_A100">#faf291</color>
+    <color name="material_light_yellow_A200">#f6eb13</color>
+    <color name="material_light_yellow_A400">#fde800</color>
+    <color name="material_light_yellow_A700">#fdd500</color>
+    <color name="material_lime_100">#eff3c4</color>
+    <color name="material_lime_200">#e5eb9c</color>
+    <color name="material_lime_300">#dbe477</color>
+    <color name="material_lime_400">#d3e059</color>
+    <color name="material_lime_50">#f8f9e7</color>
+    <color name="material_lime_500">#cddc37</color>
+    <color name="material_lime_600">#bfc933</color>
+    <color name="material_lime_700">#aeb435</color>
+    <color name="material_lime_800">#9c9c36</color>
+    <color name="material_lime_900">#81772f</color>
+    <color name="material_lime_A100">#f0ed83</color>
+    <color name="material_lime_A200">#e8e63e</color>
+    <color name="material_lime_A400">#c4d82d</color>
+    <color name="material_lime_A700">#afd135</color>
+    <color name="material_orange_100">#ffdfb1</color>
+    <color name="material_orange_200">#fecc80</color>
+    <color name="material_orange_300">#fcb64d</color>
+    <color name="material_orange_400">#faa628</color>
+    <color name="material_orange_50">#fff3e1</color>
+    <color name="material_orange_500">#f8971c</color>
+    <color name="material_orange_600">#f68c1e</color>
+    <color name="material_orange_700">#f37c20</color>
+    <color name="material_orange_800">#ed6d22</color>
+    <color name="material_orange_900">#e45325</color>
+    <color name="material_orange_A100">#ffd180</color>
+    <color name="material_orange_A200">#faa942</color>
+    <color name="material_orange_A400">#f7901d</color>
+    <color name="material_orange_A700">#f26d21</color>
+    <color name="material_pink_100">#f7bacf</color>
+    <color name="material_pink_200">#f38fb1</color>
+    <color name="material_pink_300">#f06291</color>
+    <color name="material_pink_400">#ec407a</color>
+    <color name="material_pink_50">#fce3eb</color>
+    <color name="material_pink_500">#e71f63</color>
+    <color name="material_pink_600">#d71b60</color>
+    <color name="material_pink_700">#c21e5c</color>
+    <color name="material_pink_800">#ad1e58</color>
+    <color name="material_pink_900">#871a50</color>
+    <color name="material_pink_A100">#f27faa</color>
+    <color name="material_pink_A200">#ee4480</color>
+    <color name="material_pink_A400">#ed1458</color>
+    <color name="material_pink_A700">#c41d63</color>
+    <color name="material_purple_100">#ddbdda</color>
+    <color name="material_purple_200">#c694c2</color>
+    <color name="material_purple_300">#ab6bac</color>
+    <color name="material_purple_400">#9a519f</color>
+    <color name="material_purple_50">#f1e3f0</color>
+    <color name="material_purple_500">#8f3e97</color>
+    <color name="material_purple_600">#853a96</color>
+    <color name="material_purple_700">#773292</color>
+    <color name="material_purple_800">#692c90</color>
+    <color name="material_purple_900">#4b2c86</color>
+    <color name="material_purple_A100">#c389bc</color>
+    <color name="material_purple_A200">#a85ba4</color>
+    <color name="material_purple_A400">#9f4f9e</color>
+    <color name="material_purple_A700">#8251a0</color>
+    <color name="material_red_100">#faccd2</color>
+    <color name="material_red_200">#ee999a</color>
+    <color name="material_red_300">#e57272</color>
+    <color name="material_red_400">#ef5350</color>
+    <color name="material_red_50">#fdebed</color>
+    <color name="material_red_500">#ef4437</color>
+    <color name="material_red_600">#e53934</color>
+    <color name="material_red_700">#d32e2e</color>
+    <color name="material_red_800">#c52828</color>
+    <color name="material_red_900">#b62025</color>
+    <color name="material_red_A100">#f48980</color>
+    <color name="material_red_A200">#f05454</color>
+    <color name="material_red_A400">#ed2648</color>
+    <color name="material_red_A700">#d31f26</color>
+    <color name="material_teal_100">#b2dfdb</color>
+    <color name="material_teal_200">#7fcac3</color>
+    <color name="material_teal_300">#4cb5ab</color>
+    <color name="material_teal_400">#24a699</color>
+    <color name="material_teal_50">#e0f1f0</color>
+    <color name="material_teal_500">#009688</color>
+    <color name="material_teal_600">#03897b</color>
+    <color name="material_teal_700">#00796b</color>
+    <color name="material_teal_800">#00695c</color>
+    <color name="material_teal_900">#004d40</color>
+    <color name="material_teal_A100">#b3dfd9</color>
+    <color name="material_teal_A200">#89cfc2</color>
+    <color name="material_teal_A400">#62c2a6</color>
+    <color name="material_teal_A700">#24b9a2</color>
+    <color name="material_yellow_100">#fceeba</color>
+    <color name="material_yellow_200">#fbe58c</color>
+    <color name="material_yellow_300">#f9dd5f</color>
+    <color name="material_yellow_400">#f9d43d</color>
+    <color name="material_yellow_50">#fdf7e2</color>
+    <color name="material_yellow_500">#f9ce1e</color>
+    <color name="material_yellow_600">#f4bd1a</color>
+    <color name="material_yellow_700">#f4a81c</color>
+    <color name="material_yellow_800">#f19320</color>
+    <color name="material_yellow_900">#ec7023</color>
+    <color name="material_yellow_A100">#fedd7f</color>
+    <color name="material_yellow_A200">#ffcd40</color>
+    <color name="material_yellow_A400">#fdbb11</color>
+    <color name="material_yellow_A700">#f89d1b</color>
+    <color name="text_color">@color/material_light_yellow_500</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType">
+      <enum name="none" value="0"/>
+      <enum name="normal" value="1"/>
+      <enum name="satellite" value="2"/>
+      <enum name="terrain" value="3"/>
+      <enum name="hybrid" value="4"/>
+    </attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
+    <declare-styleable name="ScaledImageView"><attr format="float" name="image_view_ratio"/></declare-styleable>
+    <integer name="google_play_services_version">4323000</integer>
+    <integer name="grid_num_columns">2</integer>
+    <string name="MY_AD_UNIT_ID">ca-app-pub-5836818937934168/9490420337</string>
+    <string name="about_us">Legal Disclaimer</string>
+    <string name="about_us_header_text">Legal Disclaimer</string>
+    <string name="about_us_lorem_ipsum">Nemo Station Apps Inc. is not responsible comfor the content of uploaded files, nor is it in affiliation with any entities that may be represented in these images.</string>
+    <string name="about_us_lorem_ipsum_contact">Our agent for notice of claims of copyright or other intellectual property infringement can be reached as follows: contact@nemostation.</string>
+    <string name="about_us_lorem_ipsum_short">If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, please provide the following information to our agent:\n\n\t\t1. Identification of the material that you claim is infringing, with enough detail that we can locate it .\n\n\t\t2. A statement that you have a good faith belief that the material’s use is not authorized by the copyright owner, its agent, or the law.\n\n\t\t3. A statement declaring under penalty of perjury that (a) the above information in your notice is accurate, and (b) that you are the owner of the copyright interest involved or that you are authorized to act on behalf of that owner.\n\n\t\t4. Your address, telephone number, and email address.\n\n\t\t5. Your physical or electronic signature.</string>
+    <string name="about_us_subheader_text">All images are copyrighted © to their respective owners and Nemo Station Apps Inc. claims no credit for them unless otherwise noted.</string>
+    <string name="about_us_text_on_image">nemostation.com</string>
+    <string name="app_name">Full Naruto Wallpapers</string>
+    <string name="auth_client_needs_enabling_title">
+      An application requires Google Play Services to be enabled.
+  </string>
+    <string name="auth_client_needs_installation_title">
+      An application requires installation of Google Play Services.
+  </string>
+    <string name="auth_client_needs_update_title">
+      An application requires an update for Google Play Services.
+  </string>
+    <string name="auth_client_play_services_err_notification_msg">Google Play services error</string>
+    <string name="auth_client_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string name="auth_client_using_bad_version_title">
+      An application attempted to use a bad version of Google Play Services.
+  </string>
+    <string name="cancel">CANCEL</string>
+    <string name="categories_label">CATEGORIES</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="1788179980625863495" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="confirm_exit">Press Back button again to exit</string>
+    <string name="cropandset">CROP &amp; SET WALLPAPER</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="error">Something went wrong, try again</string>
+    <string name="error_occured">Error occurred</string>
+    <string name="favourites">Favourites</string>
+    <string name="fragment_add_to_favorites">ADD TO FAV</string>
+    <string name="fragment_remove_from_favourite">REMOVE FROM FAV</string>
+    <string name="fragment_save_to_local">SAVE</string>
+    <string name="fragment_set_as_wallpaper">SET AS WALL</string>
+    <string name="ga_trackingId">UA-XXXX-Y</string>
+    <string name="image_not_saved">Image hasn\'t been added to favourite!</string>
+    <string name="image_saved">Image has been added to favourite!</string>
+    <string name="location_client_powered_by_google">Powered by Google</string>
+    <string name="more_apps">More apps</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="please_wait">Please wait</string>
+    <string name="random">Random</string>
+    <string name="rate_app">Rate this app</string>
+    <string name="recent">Recent</string>
+    <string name="refresh">Refresh</string>
+    <string name="removed_from_favourite">Image has been removed from favourite!</string>
+    <string name="search">Search</string>
+    <string name="select_category">Select category</string>
+    <string name="share">"Share:"</string>
+    <string name="sort_a_to_z">Sort (A to Z)</string>
+    <string name="sort_z_to_a">Sort (Z to A)</string>
+    <string name="wallpaper_not_set">Wallpaper could not be set</string>
+    <string name="wallpaper_set">Wallpaper successfully set</string>
+    <string name="yes">Yes</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:background">@color/main_color_primary</item>
+    </style>
+    <style name="CustomActionBarTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="CustomDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="FadeoutSplashScreenStyle">
+        <item name="android:windowExitAnimation">@anim/splash_screen_move_out</item>
+    </style>
+    <style name="FullScreenGalleryItemImageView.WallpaperActivity" parent="FullScreenGalleryItemTextView">
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@drawable/white_button_selector</item>
+    </style>
+    <style name="FullScreenGalleryItemTextView">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="FullScreenGalleryItemTextView.AddToFavorite" parent="FullScreenGalleryItemTextView">
+        <item name="android:background">@drawable/white_button_selector</item>
+    </style>
+    <style name="FullScreenGalleryItemTextView.Share" parent="FullScreenGalleryItemTextView">
+        <item name="android:background">@drawable/white_button_selector</item>
+    </style>
+    <style name="FullScreenGalleryItemTextView.Wallpaper" parent="FullScreenGalleryItemTextView">
+        <item name="android:background">@drawable/white_button_selector</item>
+    </style>
+    <style name="LeftMenu" parent="AppTheme">
+        <item name="android:background">@color/main_color_secondary_90_percent</item>
+    </style>
+    <style name="LeftMenuItem">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/action_bar_color</item>
+        <item name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:titleTextStyle">@style/MyActionBar.Text</item>
+    </style>
+    <style name="MyActionBar.Text" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/action_bar_text_color</item>
+    </style>
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="SplashScreenStyle">
+        <item name="android:windowBackground">@color/main_color_primary</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowAnimationStyle">@style/FadeoutSplashScreenStyle</item>
+    </style>
+</resources>

@@ -107,10 +107,11 @@ public class ImageViewUtil {
 	public static final DisplayImageOptions optionsForThumbs = new DisplayImageOptions.Builder()
 			.imageScaleType(ImageScaleType.EXACTLY)
             .bitmapConfig(Bitmap.Config.RGB_565)
+            .resetViewBeforeLoading(true)
 			.showImageOnFail(R.drawable.icon_default)
 			.showImageForEmptyUri(R.drawable.icon_default)
 			.showImageOnLoading(R.drawable.icon_default)
-			.cacheInMemory(true).build();
+			.cacheInMemory(false).build();
 
 	public static final DisplayImageOptions options = new DisplayImageOptions.Builder()
 			.imageScaleType(ImageScaleType.EXACTLY)

@@ -35,6 +35,7 @@ public class NavigationDrawerActivity extends BaseActivity {
 	private CharSequence mDrawerTitle;
 	private CharSequence mTitle;
 
+	private static final int NUMBER_OF_FUNCTION_CAT = 5;
 	protected int currentSelectedItem = 0;
 
 	@SuppressLint("NewApi")
@@ -64,7 +65,7 @@ public class NavigationDrawerActivity extends BaseActivity {
 				R.drawable.ic_drawer, R.string.drawer_open,
 				R.string.drawer_close) {
 			public void onDrawerClosed(View view) {
-				if (currentSelectedItem < 4) {
+				if (currentSelectedItem < NUMBER_OF_FUNCTION_CAT) {
 					if (currentSelectedItem == 0) {
 						setTitle(GridImageAdapter.currentCategoryName);
 					} else if (currentSelectedItem == 1) {
@@ -73,6 +74,8 @@ public class NavigationDrawerActivity extends BaseActivity {
 						setTitle(getString(R.string.about_us));
 					} else if (currentSelectedItem == 3) {
 						setTitle(getString(R.string.rate_app));
+					} else if (currentSelectedItem == 4) {
+						setTitle(getString(R.string.more_apps));
 					}
 				} else {
 					setTitle(GridImageAdapter.currentCategoryName);
