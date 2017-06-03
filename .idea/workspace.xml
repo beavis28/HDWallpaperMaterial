@@ -14,29 +14,599 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b37a10e9-3cfd-4bf7-81a8-22b3d7249cb1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/HDWallpaperApp-release.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/debug/com/nemostation/android/lolwallpaperhd/BuildConfig.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/androidTest/debug/com/nemostation/android/lolwallpaperhd/test/BuildConfig.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/androidTest/debug/com/nemostation/android/narutowallpaperhd/test/BuildConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/nemostation/android/lolwallpaperhd/R.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/nemostation/android/narutowallpaperhd/R.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/AboutUsActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/AboutUsActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/BaseActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/BaseActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/MainActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/NavigationDrawerActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/SetAsWallpaperActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/SetAsWallpaperActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/adapters/FullScreenGalleryAdapter.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/FullScreenGalleryAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/adapters/GridImageAdapter.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/GridImageAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/adapters/LeftMenuAdapter.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/fragments/FullScreenGalleryFragment.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Categories.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Categories.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Category.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Category.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/models/Recent.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Recent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/Controller.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/Controller.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/DataHolder.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/DataHolder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/DialogUtils.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/DialogUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/ImageViewUtil.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/ImageViewUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/views/PhotoPager.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/PhotoPager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/views/ScaledImageView.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/ScaledImageView.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/NarutoWallApp-release.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/release/com/nemostation/android/narutowallpaperhd/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/release/android/support/compat/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/release/android/support/coreui/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/release/android/support/coreutils/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/release/android/support/fragment/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/release/android/support/mediacompat/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/release/android/support/v4/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/release/com/google/android/gms/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/release/com/nemostation/android/narutowallpaperhd/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/release/fonts/Roboto-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/release/fonts/Roboto-BlackItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/release/fonts/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/release/fonts/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/assets/release/fonts/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-am.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-en-rGB.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-en-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-es-rUS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-et-rEE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-fr-rCA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-hr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-hy-rAM.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-in.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-iw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-ka-rGE.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-km-rKH.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-land.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-lo-rLA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-mn-rMN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-ms-rMY.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-pt-rBR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-pt-rPT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-sr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-sw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-tl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-v11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-v14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-zh-rCN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-zh-rHK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-zh-rTW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values-zu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/multi/values.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/anim.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/color.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-hdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-land-nodpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-mdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-nodpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-xhdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-xxhdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable-xxhdpi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/drawable.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/layout.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/release/single/menu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/androidTest/debug/com/nemostation/android/narutowallpaperhd/test/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/AboutUsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/BaseActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/MainActivity$SyncData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity$DrawerItemClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/SetAsWallpaperActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/SetAsWallpaperActivity$SetWallpaper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/SetAsWallpaperActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/adapters/FullScreenGalleryAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/adapters/GridImageAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/adapters/GridImageAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/adapters/GridImageAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/models/Categories$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/models/Categories.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/models/Category$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/models/Category.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/models/Recent$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/models/Recent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/util/Controller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/util/DataHolder$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/util/DataHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/util/DialogUtils$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/util/DialogUtils$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/util/DialogUtils$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/util/DialogUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/util/ImageViewUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/views/PhotoPager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/debug/com/nemostation/android/narutowallpaperhd/views/ScaledImageView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/android/support/compat/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/android/support/coreui/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/android/support/coreutils/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/android/support/fragment/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/android/support/mediacompat/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/android/support/v4/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/google/android/gms/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/google/android/gms/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/google/android/gms/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/google/android/gms/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/google/android/gms/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/google/android/gms/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/google/android/gms/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/google/android/gms/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/AboutUsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/BaseActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/MainActivity$SyncData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity$DrawerItemClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/SetAsWallpaperActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/SetAsWallpaperActivity$SetWallpaper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/SetAsWallpaperActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/adapters/FullScreenGalleryAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/adapters/GridImageAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/adapters/GridImageAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/adapters/GridImageAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/models/Categories$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/models/Categories.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/models/Category$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/models/Category.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/models/Recent$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/models/Recent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/util/Controller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/util/DataHolder$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/util/DataHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/util/DialogUtils$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/util/DialogUtils$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/util/DialogUtils$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/util/DialogUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/util/ImageViewUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/views/PhotoPager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/classes/release/com/nemostation/android/narutowallpaperhd/views/ScaledImageView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental-safeguard/release/tag.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/compileReleaseAidl/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageRelease/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageRelease/file-input-save-data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageRelease/zip-cache/092K85C0nVWQuh+aL3TpscWf0gg=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/packageRelease/zip-cache/eKWnMZACGK5LzYZd4pgD4yWAmoA=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/manifests/full/release/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/anim/splash_screen_move_out.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/color/common_signin_btn_text_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/color/common_signin_btn_text_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/action_search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/back_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/download_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/drawer_shadow.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/favorite_off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/favorite_off_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/favorite_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/favorite_on_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/ic_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/love_red_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/love_white_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/menu_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/refresh_green_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/refresh_orange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/refresh_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/search_green_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/settings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/share_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/splash_logo_flat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-hdpi/wallpaper_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-land-nodpi-v4/splash_screen_background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/action_search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/back_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/download_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/drawer_shadow.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/favorite_off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/favorite_off_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/favorite_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/favorite_on_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/ic_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/love_red_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/love_white_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/menu_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/refresh_blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/refresh_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/refresh_green_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/refresh_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/search_green_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/settings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/share_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/splash_logo_flat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-mdpi/wallpaper_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-nodpi-v4/splash_screen_background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/back_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/download_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/drawer_shadow.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/favorite_off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/favorite_off_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/favorite_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/favorite_on_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/ic_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/love_red_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/love_white_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/menu_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/refresh_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/refresh_green_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/search_green_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/settings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/share_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/splash_logo_flat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xhdpi/wallpaper_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/header_our_team.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_plusone_small_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/back_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/download_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/favorite_off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/favorite_off_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/favorite_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/favorite_on_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/love_red_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/love_white_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/menu_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/refresh_green_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/search_green_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/settings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/share_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/splash_logo_flat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable-xxhdpi/wallpaper_black_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/common_signin_btn_icon_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/common_signin_btn_icon_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/common_signin_btn_text_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/common_signin_btn_text_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/edit_text_drawable.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/icon_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/item_grid_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/left_menu_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/text_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/white_button_default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/white_button_selected.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/drawable/white_button_selector.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/layout/about_us.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/layout/dialog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/layout/drawer_list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/layout/full_screen_gallery.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/layout/full_screen_gallery_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/layout/grid_image.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/layout/main_activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/layout/set_as_wallpaper_activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/layout/splash_screen.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-be/values-be.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-et-rEE/values-et-rEE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-km-rKH/values-km-rKH.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/release/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/resources-release.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/symbols/release/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/transforms/mergeJavaRes/release/jars/2/1f/main.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/outputs/logs/manifest-merger-release-report.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/reports/lint-results-release-fatal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/reports/lint-results-release-fatal.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/androidTest/debug/com/nemostation/android/narutowallpaperhd/test/BuildConfig.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/androidTest/debug/com/nemostation/android/fullnarutowallpaper/test/BuildConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/debug/com/nemostation/android/narutowallpaperhd/BuildConfig.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/buildConfig/debug/com/nemostation/android/fullnarutowallpaper/BuildConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/nemostation/android/narutowallpaperhd/R.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/nemostation/android/fullnarutowallpaper/R.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/AboutUsActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/AboutUsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/BaseActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/BaseActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/FullScreenGalleryActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/MainActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/NavigationDrawerActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/SetAsWallpaperActivity.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/SetAsWallpaperActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/FullScreenGalleryAdapter.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/adapters/FullScreenGalleryAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/GridImageAdapter.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/adapters/GridImageAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/adapters/LeftMenuAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/fragments/FullScreenGalleryFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Categories.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/models/Categories.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Category.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/models/Category.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Recent.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/models/Recent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/Controller.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/Controller.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/DataHolder.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/DataHolder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/DialogUtils.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/DialogUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/ImageViewUtil.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/ImageViewUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/PhotoPager.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/views/PhotoPager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/ScaledImageView.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/views/ScaledImageView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
@@ -51,25 +621,16 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_google-play-services_lib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/drawable-xxhdpi/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/build/outputs/aar/google-play-services_lib-debug.aar" afterPath="$PROJECT_DIR$/google-play-services_lib/build/outputs/aar/google-play-services_lib-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/build/outputs/aar/google-play-services_lib-release.aar" afterPath="$PROJECT_DIR$/google-play-services_lib/build/outputs/aar/google-play-services_lib-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/HDWallpaperApp.iml" afterPath="$PROJECT_DIR$/HDWallpaperApp/HDWallpaperApp.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/bin/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/generated/source/r/debug/com/google/android/gms/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
@@ -83,7 +644,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/gen/com/csform/android/wallpaper/R.java" afterPath="$PROJECT_DIR$/HDWallpaperApp/gen/com/csform/android/wallpaper/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/layout/grid_image.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/layout/grid_image.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HDWallpaperApp/res/values/tags.xml" afterPath="$PROJECT_DIR$/HDWallpaperApp/res/values/tags.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/google-play-services_lib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
@@ -136,110 +696,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FullScreenGalleryActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="242" column="38" selection-start-line="242" selection-start-column="38" selection-end-line="242" selection-end-column="38" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#7283#7309#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhotoPager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/PhotoPager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5325">
-              <caret line="399" column="26" selection-start-line="399" selection-start-column="26" selection-end-line="399" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeftMenuAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/google-play-services_lib/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/menu/main.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -2688,18 +3152,20 @@
         <option value="$PROJECT_DIR$/HDWallpaperApp/res/values/tags.xml" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/util/Controller.java" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/lolwallpaperhd/FullScreenGalleryActivity.java" />
-        <option value="$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.java" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/bin/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/MainActivity.java" />
+        <option value="$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/ImageViewUtil.java" />
+        <option value="$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/DialogUtils.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="813" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -2791,11 +3257,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
+      <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="PackagesPane">
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
         <subPane />
       </pane>
       <pane id="AndroidView">
@@ -2825,56 +3291,6 @@
               <option name="myItemId" value="HDWallpaperApp" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperMaterial" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperMaterial" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anim" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperMaterial" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2890,7 +3306,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="narutowallpaperhd" />
+              <option name="myItemId" value="fullnarutowallpaper" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2908,77 +3324,11 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="narutowallpaperhd" />
+              <option name="myItemId" value="fullnarutowallpaper" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperMaterial" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="narutowallpaperhd" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperMaterial" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="narutowallpaperhd" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperMaterial" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HDWallpaperApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="narutowallpaperhd" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adapters" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3452,7 +3802,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="813" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902297" sideWeight="0.48855507" order="6" side_tool="false" content_ui="tabs" />
@@ -3460,16 +3810,16 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31330472" sideWeight="0.50765866" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40315637" sideWeight="0.63376254" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25431034" sideWeight="0.5758226" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3558106" sideWeight="0.45779684" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761088" sideWeight="0.48354793" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34620887" sideWeight="0.38054362" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.47281832" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553802" sideWeight="0.56866956" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25431034" sideWeight="0.5736767" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27181688" sideWeight="0.49234137" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553802" sideWeight="0.43133047" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25431034" sideWeight="0.4241774" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1988555" sideWeight="0.491453" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19909842" sideWeight="0.508547" order="3" side_tool="true" content_ui="tabs" />
@@ -3522,7 +3872,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Categories.java</url>
+          <url>file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/models/Categories.java</url>
           <line>61</line>
           <properties />
           <option name="timeStamp" value="25" />
@@ -3537,34 +3887,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/anim/splash_screen_move_out.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable/edit_text_drawable.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable/item_grid_selector.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/drawable/left_menu_selector.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/layout/dialog.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3585,7 +3907,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/models/Category.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/models/Category.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
@@ -3644,7 +3966,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/AboutUsActivity.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/AboutUsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
@@ -3652,17 +3974,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/google-play-services_lib/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/DataHolder.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/DataHolder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
@@ -3676,11 +3998,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/fragments/FullScreenGalleryFragment.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/fragments/FullScreenGalleryFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="374" column="0" selection-start-line="374" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
@@ -3690,15 +4011,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/NavigationDrawerActivity.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/NavigationDrawerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="164" column="79" selection-start-line="164" selection-start-column="79" selection-end-line="164" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/BaseActivity.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
@@ -3724,7 +4044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3735,7 +4054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3746,9 +4064,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-          <folding>
-            <element signature="e#1411#1434#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3756,7 +4071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3764,7 +4078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3772,7 +4085,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-505">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3780,7 +4092,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3791,15 +4102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/util/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3815,7 +4117,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3823,6 +4124,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="android-dummy:///Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/Translations Editor">
+      <provider selected="true" editor-type-id="string-resource-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/bin/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/views/PhotoPager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/adapters/LeftMenuAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-play-services_lib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/FullScreenGalleryActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -3846,88 +4207,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="android-dummy:///Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/Translations Editor">
-      <provider selected="true" editor-type-id="string-resource-editor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HDWallpaperApp/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="45">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/adapters/GridImageAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="-4273">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/google-play-services_lib/build.gradle">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="225">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/bin/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/views/PhotoPager.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/ImageViewUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/adapters/LeftMenuAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/FullScreenGalleryActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+        <state relative-caret-position="182">
+          <caret line="114" column="17" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/narutowallpaperhd/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/adapters/FullScreenGalleryAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5325">
-          <caret line="399" column="26" selection-start-line="399" selection-start-column="26" selection-end-line="399" selection-end-column="26" />
+        <state relative-caret-position="150">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/util/DialogUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDWallpaperApp/src/com/nemostation/android/fullnarutowallpaper/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="242" column="38" selection-start-line="242" selection-start-column="38" selection-end-line="242" selection-end-column="38" />
+          <folding>
+            <element signature="e#7283#7309#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
