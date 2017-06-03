@@ -151,11 +151,11 @@ public class MainActivity extends NavigationDrawerActivity implements
 			;
 			SyncData data;
 			if (currentSelectedItem == 0) {
-				data = new SyncData(progressDialog, 2, "Recent");
+				data = new SyncData(progressDialog, 2, "recent");
 			} else if (currentSelectedItem == 1) {
 				data = new SyncData(progressDialog, 2);
 			} else {
-				data = new SyncData(progressDialog, 2, "Category");
+				data = new SyncData(progressDialog, 2, "category");
 			}
 			data.execute();
 		}
@@ -259,16 +259,13 @@ public class MainActivity extends NavigationDrawerActivity implements
 						mDataHolder.getFavourites());
 				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 			} else if (currentSelectedItem == 2) {
-				intent.putStringArrayListExtra(PARC_FAVOURITES,
-						mDataHolder.getFavourites());
+				intent.putExtra(PARC_RECENT, mDataHolder.getRecent());
 				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 			} else if (currentSelectedItem == 3) {
-				intent.putStringArrayListExtra(PARC_FAVOURITES,
-						mDataHolder.getFavourites());
+				intent.putExtra(PARC_RECENT, mDataHolder.getRecent());
 				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 			} else if (currentSelectedItem == 4) {
-				intent.putStringArrayListExtra(PARC_FAVOURITES,
-						mDataHolder.getFavourites());
+				intent.putExtra(PARC_RECENT, mDataHolder.getRecent());
 				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 			}
 		} else {
@@ -301,7 +298,10 @@ public class MainActivity extends NavigationDrawerActivity implements
 					data = new SyncData(progressDialog, 11);
 				} else {
 					data = new SyncData();
-					progressDialog.dismiss();
+					if (progressDialog != null)
+					{
+						progressDialog.dismiss();
+					}
 				}
 			} else {
 				data = new SyncData(progressDialog, 12);
@@ -500,7 +500,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		@Override
 		protected Integer doInBackground(Void... params) {
 			try {
-				if (selection != 2 && selection != 3) {
+				if (selection != 2 && selection != 3 && selection != 4) {
 					Categories allCategories = Controller.fetchCategories();
 					recent = allCategories.getRecent();
 					favourites = new ArrayList<String>();
@@ -544,7 +544,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		@Override
 		protected void onPostExecute(Integer result) {
 			if (result == 1) {
-				if (selection == 2) {
+				if (selection == 2 || selection == 3 || selection == 4 ) {
 					if(pressCategory != null && pressCategory.equals("recent")) {
 						mGrid.setAdapter(new GridImageAdapter(MainActivity.this,
 								mDataHolder.getRecent(), favourites));
