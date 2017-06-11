@@ -99,6 +99,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		dialog = new DialogUtils(this);
 
 		showSplashScreen();
+		verifyStoragePermissions(this);
 	}
 
 	@Override

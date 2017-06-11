@@ -110,7 +110,17 @@ public class FullScreenGalleryFragment extends Fragment implements
                         if (fileToSave.exists()) {
                             fileToSave.delete();
                         }
-					}
+					} else if (fileToSave.toString().contains("Download")) {
+                        // Tell the media scanner about the new file so that it is
+                        // immediately available to the user.
+                        MediaScannerConnection.scanFile(getActivity(), new String[] { fileToSave.toString() }, null,
+                                new MediaScannerConnection.OnScanCompletedListener() {
+                                    public void onScanCompleted(String path, Uri uri) {
+                                        mBar.setVisibility(View.GONE);
+                                    }
+                                });
+                    }
+
 				} catch (IOException e) {
 					e.printStackTrace();
 				} finally {
@@ -342,14 +352,6 @@ public class FullScreenGalleryFragment extends Fragment implements
                         ImageLoader.getInstance().loadImage("file://" + Environment.getExternalStorageDirectory() + "/"
                                 + getString(R.string.app_name) + "/favourites/" + mCategory + "--" + mImage,listener);
                     }
-                    // Tell the media scanner about the new file so that it is
-                    // immediately available to the user.
-                    MediaScannerConnection.scanFile(getActivity(), new String[] { fileToSave.toString() }, null,
-                            new MediaScannerConnection.OnScanCompletedListener() {
-                                public void onScanCompleted(String path, Uri uri) {
-                                    mBar.setVisibility(View.GONE);
-                                }
-                            });
                     if (getActivity() != null) {
                         ((BaseActivity) getActivity())
                                 .showToast("Image has been saved to " + dirDownload);
@@ -360,7 +362,6 @@ public class FullScreenGalleryFragment extends Fragment implements
                                 .showToast("Image is already existing." + dirDownload);
                     }
                 }
-
                 break;
 
             case R.id.full_screen_gallery_item_back:
