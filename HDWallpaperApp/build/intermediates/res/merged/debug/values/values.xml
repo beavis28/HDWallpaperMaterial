@@ -366,7 +366,7 @@
     <string name="removed_from_favourite">Image has been removed from favourite!</string>
     <string name="search">Search</string>
     <string name="select_category">Select category</string>
-    <string name="share">"Share:"</string>
+    <string name="share">"Share"</string>
     <string name="sort_a_to_z">Sort (A to Z)</string>
     <string name="sort_z_to_a">Sort (Z to A)</string>
     <string name="wallpaper_not_set">Wallpaper could not be set</string>

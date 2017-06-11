@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nemostation.android.fullnarutowallpaper.test">
+    package="com.nemostation.android.fullnarutoartwallpaper.test">
 
     <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="25" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.nemostation.android.fullnarutowallpaper"
+                     android:targetPackage="com.nemostation.android.fullnarutoartwallpaper"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.nemostation.android.fullnarutowallpaper"/>
+                     android:label="Tests for com.nemostation.android.fullnarutoartwallpaper"/>
 </manifest>

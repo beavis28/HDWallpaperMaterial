@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:2:1-61:12
 	package
-		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:3:5-58
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:3:5-61
 	android:versionName
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:5:5-30
 		INJECTED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpape
 	xmlns:android
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:3:59-89
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:3:62-92
 uses-sdk
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:7:5-9:41
 MERGED from [HDWallpaperMaterial:google-play-services_lib:unspecified] /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/AndroidManifest.xml:7:5-44
@@ -92,14 +92,14 @@ ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpape
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:33:13-68
 	android:name
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:32:13-62
-activity#com.nemostation.android.fullnarutowallpaper.MainActivity
+activity#com.nemostation.android.fullnarutoartwallpaper.MainActivity
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:34:9-43:20
 	android:label
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:37:13-45
 	android:configChanges
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:36:13-186
 	android:name
-		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:35:13-84
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:35:13-87
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
@@ -110,24 +110,24 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:41:17-77
 	android:name
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:41:27-74
-activity#com.nemostation.android.fullnarutowallpaper.FullScreenGalleryActivity
+activity#com.nemostation.android.fullnarutoartwallpaper.FullScreenGalleryActivity
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:44:9-47:20
 	android:configChanges
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:46:13-186
 	android:name
-		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:45:13-97
-activity#com.nemostation.android.fullnarutowallpaper.SetAsWallpaperActivity
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:45:13-100
+activity#com.nemostation.android.fullnarutoartwallpaper.SetAsWallpaperActivity
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:48:9-51:20
 	android:configChanges
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:50:13-186
 	android:name
-		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:49:13-94
-activity#com.nemostation.android.fullnarutowallpaper.AboutUsActivity
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:49:13-97
+activity#com.nemostation.android.fullnarutoartwallpaper.AboutUsActivity
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:52:9-55:20
 	android:configChanges
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:54:13-186
 	android:name
-		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:53:13-87
+		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:53:13-90
 activity#com.google.android.gms.ads.AdActivity
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:56:9-58:125
 	android:configChanges
