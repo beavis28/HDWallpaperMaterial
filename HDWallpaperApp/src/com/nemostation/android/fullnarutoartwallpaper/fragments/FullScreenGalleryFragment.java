@@ -156,8 +156,6 @@ public class FullScreenGalleryFragment extends Fragment implements
 
 		View v = inflater.inflate(R.layout.full_screen_gallery_item, container,
 				false);
-		mImageView = (ImageView) v
-				.findViewById(R.id.full_screen_gallery_item_image);
 
         mAdView = (AdView) v .findViewById(R.id.full_screen_gallery_ad_view);
         mLinearLayout_ActionBar = (LinearLayout) v .findViewById(R.id.full_screen_gallery_action_bar);
@@ -180,7 +178,12 @@ public class FullScreenGalleryFragment extends Fragment implements
         mDownload = (ImageView) v
                 .findViewById(R.id.full_screen_gallery_item_download);
 
-		mImageView.setOnClickListener(this);
+        if ( mImageView == null ) {
+            mImageView = (ImageView) v
+                    .findViewById(R.id.full_screen_gallery_item_image);
+            mImageView.setOnClickListener(this);
+        }
+
         if (mImage.contains("http")) {//loading from url
             ImageViewUtil.setImageWithImageLoader(mImageView, getActivity(),
                     mCategory, mImage, listener);
@@ -289,9 +292,6 @@ public class FullScreenGalleryFragment extends Fragment implements
                                             .showToast(R.string.wallpaper_not_set);
                                 }
                             }
-                        } else {
-                            ((BaseActivity) getActivity())
-                                    .showToast(R.string.error);
                         }
                     }
                 });
