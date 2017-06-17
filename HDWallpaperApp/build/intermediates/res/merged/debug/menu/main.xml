@@ -96,10 +96,6 @@
         android:icon="@drawable/ic_launcher"
         android:title="@string/sort_z_to_a"/>
     <item
-        android:id="@+id/rate_app"
-        android:icon="@drawable/ic_launcher"
-        android:title="@string/rate_app"/>
-    <item
         android:id="@+id/more_apps"
         android:icon="@drawable/ic_launcher"
         android:title="@string/more_apps"/>

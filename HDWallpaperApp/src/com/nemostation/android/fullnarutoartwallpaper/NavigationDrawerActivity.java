@@ -4,7 +4,7 @@ import android.annotation.SuppressLint;
 import android.content.res.Configuration;
 import android.os.Build;
 import android.os.Bundle;
-import android.support.v4.app.ActionBarDrawerToggle;
+//import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.view.Menu;
@@ -14,6 +14,8 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.ListView;
+
+import android.support.v7.app.ActionBarDrawerToggle;
 
 import com.nemostation.android.fullnarutoartwallpaper.adapters.GridImageAdapter;
 import com.nemostation.android.fullnarutoartwallpaper.adapters.LeftMenuAdapter;
@@ -35,7 +37,7 @@ public class NavigationDrawerActivity extends BaseActivity {
 	private CharSequence mDrawerTitle;
 	private CharSequence mTitle;
 
-	private static final int NUMBER_OF_FUNCTION_CAT = 5;
+	private static final int NUMBER_OF_FUNCTION_CAT = 4;
 	protected int currentSelectedItem = 0;
 
 	@SuppressLint("NewApi")
@@ -61,9 +63,7 @@ public class NavigationDrawerActivity extends BaseActivity {
 		}
 
 		mDrawerLayout.setFocusableInTouchMode(false);
-		mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout,
-				R.drawable.ic_drawer, R.string.drawer_open,
-				R.string.drawer_close) {
+		mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.string.drawer_open, R.string.drawer_close) {
 			public void onDrawerClosed(View view) {
 				if (currentSelectedItem < NUMBER_OF_FUNCTION_CAT) {
 					if (currentSelectedItem == 0) {
@@ -73,8 +73,6 @@ public class NavigationDrawerActivity extends BaseActivity {
 					} else if (currentSelectedItem == 2) {
 						setTitle(getString(R.string.about_us));
 					} else if (currentSelectedItem == 3) {
-						setTitle(getString(R.string.rate_app));
-					} else if (currentSelectedItem == 4) {
 						setTitle(getString(R.string.more_apps));
 					}
 				} else {
@@ -97,7 +95,7 @@ public class NavigationDrawerActivity extends BaseActivity {
 				supportInvalidateOptionsMenu();
 			}
 		};
-		mDrawerLayout.setDrawerListener(mDrawerToggle);
+		mDrawerLayout.addDrawerListener(mDrawerToggle);
 		mGrid = (GridView) findViewById(R.id.grid);
 	}
 

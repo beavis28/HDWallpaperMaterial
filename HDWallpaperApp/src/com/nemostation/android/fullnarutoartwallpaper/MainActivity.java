@@ -8,7 +8,6 @@ import java.util.Comparator;
 
 import android.app.Dialog;
 import android.app.ProgressDialog;
-import android.content.ActivityNotFoundException;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnCancelListener;
 import android.content.Intent;
@@ -61,7 +60,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		return this.mDataHolder.getFavourites();
 	}
 
-	private static final int NUMBER_OF_FUNCTION_CAT = 5;
+	private static final int NUMBER_OF_FUNCTION_CAT = 4;
 	private static final int REQUEST_EXTERNAL_STORAGE = 1;
 	private static String[] PERMISSIONS_STORAGE = {
 			Manifest.permission.READ_EXTERNAL_STORAGE,
@@ -84,6 +83,19 @@ public class MainActivity extends NavigationDrawerActivity implements
 		}
 	}
 
+	public static String getImgName(String img) {
+		String temp = img.replaceAll("https","");
+		temp = temp.replaceAll("http","");
+		temp = temp.replaceAll(".com","");
+		temp = temp.replaceAll("farm","");
+		temp = temp.replaceAll("staticflickr","");
+		temp = temp.replaceAll("[^a-zA-Z0-9]","");
+		temp = temp.replaceAll("jpg",".jpg");
+		temp = temp.replaceAll("png",".png");
+		temp = temp.replaceAll("jpeg",".jpeg");
+		return temp;
+	}
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -99,7 +111,6 @@ public class MainActivity extends NavigationDrawerActivity implements
 		dialog = new DialogUtils(this);
 
 		showSplashScreen();
-		verifyStoragePermissions(this);
 	}
 
 	@Override
@@ -144,7 +155,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		if (mAdView != null) {
 			mAdView.resume();
 		}
-		if (mDataHolder != null && mSplashScreenOnScreen == false) {
+		if (mDataHolder != null && !mSplashScreenOnScreen) {
 			Dialog progressDialog = ProgressDialog.show(MainActivity.this, "",
 					getString(R.string.please_wait));
 			;
@@ -199,20 +210,6 @@ public class MainActivity extends NavigationDrawerActivity implements
 				currentSelectedItem = 0;
 				mGrid.setAdapter(new GridImageAdapter(this, mDataHolder
 						.getRecent(), mDataHolder.getFavourites()));
-				Uri uri = Uri.parse("market://details?id=" + this.getPackageName());
-				Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
-				try {
-					startActivity(goToMarket);
-				} catch (ActivityNotFoundException e) {
-					startActivity(new Intent(
-							Intent.ACTION_VIEW,
-							Uri.parse("http://play.google.com/store/apps/details?id="
-									+ this.getPackageName())));
-				}
-			} else if (position == 4) {
-				currentSelectedItem = 0;
-				mGrid.setAdapter(new GridImageAdapter(this, mDataHolder
-						.getRecent(), mDataHolder.getFavourites()));
 				Intent intent = new Intent(Intent.ACTION_VIEW);
 				intent.setData(Uri
 						.parse("https://play.google.com/store/apps/developer?id=Nemo+Station+App"));
@@ -235,8 +232,6 @@ public class MainActivity extends NavigationDrawerActivity implements
 			} else if (position == 2) {
 				setTitle(getString(R.string.about_us));
 			}  else if (position == 3) {
-				setTitle(getString(R.string.rate_app));
-			} else if (position == 4) {
 				setTitle(getString(R.string.more_apps));
 			}
 
@@ -261,9 +256,6 @@ public class MainActivity extends NavigationDrawerActivity implements
 				intent.putExtra(PARC_RECENT, mDataHolder.getRecent());
 				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 			} else if (currentSelectedItem == 3) {
-				intent.putExtra(PARC_RECENT, mDataHolder.getRecent());
-				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
-			} else if (currentSelectedItem == 4) {
 				intent.putExtra(PARC_RECENT, mDataHolder.getRecent());
 				intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 			}
@@ -398,18 +390,6 @@ public class MainActivity extends NavigationDrawerActivity implements
 				mGrid.setAdapter(adapter);
 			}
 			return true;
-		case R.id.rate_app:
-			Uri uri = Uri.parse("market://details?id=" + this.getPackageName());
-			Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
-			try {
-				startActivity(goToMarket);
-			} catch (ActivityNotFoundException e) {
-				startActivity(new Intent(
-						Intent.ACTION_VIEW,
-						Uri.parse("http://play.google.com/store/apps/details?id="
-								+ this.getPackageName())));
-			}
-			return true;
 		case R.id.more_apps:
 			Intent intent = new Intent(Intent.ACTION_VIEW);
 			intent.setData(Uri
@@ -499,7 +479,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		@Override
 		protected Integer doInBackground(Void... params) {
 			try {
-				if (selection != 2 && selection != 3 && selection != 4) {
+				if (selection != 2 && selection != 3 ) {
 					Categories allCategories = Controller.fetchCategories();
 					recent = allCategories.getRecent();
 					favourites = new ArrayList<String>();
@@ -543,7 +523,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		@Override
 		protected void onPostExecute(Integer result) {
 			if (result == 1) {
-				if (selection == 2 || selection == 3 || selection == 4 ) {
+				if (selection == 2 || selection == 3 ) {
 					if(pressCategory != null && pressCategory.equals("recent")) {
 						/*Comment out to not create new grid view. Keep using the old one.*/
 						/*mGrid.setAdapter(new GridImageAdapter(MainActivity.this,

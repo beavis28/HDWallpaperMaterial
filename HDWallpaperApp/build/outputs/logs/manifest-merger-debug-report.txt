@@ -18,14 +18,17 @@ ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpape
 uses-sdk
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:7:5-9:41
 MERGED from [HDWallpaperMaterial:google-play-services_lib:unspecified] /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.2.0] /Users/nemonguyen/.android/build-cache/1a67d944d445d8e0ee3173cddb5e57efae21b100/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.2.0] /Users/nemonguyen/.android/build-cache/8b37de49c94603e5459b035a1cc668a33f553c8d/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.2.0] /Users/nemonguyen/.android/build-cache/f0a5cd0de48bd499c50efb082174b5d6f3048943/output/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.2.0] /Users/nemonguyen/.android/build-cache/e52e68ab0fc5f0b782737bf2dba5a62d4c84a347/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.2.0] /Users/nemonguyen/.android/build-cache/38dda1dd5739dc1742cd18e9703b668590b9f09e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/nemonguyen/.android/build-cache/f0634a76838543313e25929d487b52cdc5391fec/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/nemonguyen/.android/build-cache/583d2af1709816b3a1f8e3d8518dadb2e24138a2/output/AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:support-compat:25.2.0] /Users/nemonguyen/.android/build-cache/e07a1f876c3b1e1d0948dfbab4e07d577e9354f5/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.2.0] /Users/nemonguyen/.android/build-cache/1a67d944d445d8e0ee3173cddb5e57efae21b100/output/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:9:9-38
 	android:minSdkVersion
@@ -66,11 +69,14 @@ ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpape
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:21:9-32
 application
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:23:5-59:23
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.2.0] /Users/nemonguyen/.android/build-cache/1a67d944d445d8e0ee3173cddb5e57efae21b100/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:25.2.0] /Users/nemonguyen/.android/build-cache/8b37de49c94603e5459b035a1cc668a33f553c8d/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:25.2.0] /Users/nemonguyen/.android/build-cache/f0a5cd0de48bd499c50efb082174b5d6f3048943/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-ui:25.2.0] /Users/nemonguyen/.android/build-cache/e52e68ab0fc5f0b782737bf2dba5a62d4c84a347/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-utils:25.2.0] /Users/nemonguyen/.android/build-cache/38dda1dd5739dc1742cd18e9703b668590b9f09e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/nemonguyen/.android/build-cache/f0634a76838543313e25929d487b52cdc5391fec/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/nemonguyen/.android/build-cache/583d2af1709816b3a1f8e3d8518dadb2e24138a2/output/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-compat:25.2.0] /Users/nemonguyen/.android/build-cache/e07a1f876c3b1e1d0948dfbab4e07d577e9354f5/output/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:26:9-41

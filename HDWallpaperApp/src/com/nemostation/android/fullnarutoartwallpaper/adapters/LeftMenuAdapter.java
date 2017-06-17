@@ -18,7 +18,7 @@ public class LeftMenuAdapter extends BaseAdapter {
 	private List<Category> mCategories;
 	private LayoutInflater mInflater;
 
-	private static final int NUMBER_OF_FUNCTION_CAT = 5;
+	private static final int NUMBER_OF_FUNCTION_CAT = 4;
 
 	public LeftMenuAdapter(Context context, List<Category> categories) {
 		mCategories = categories;
@@ -84,11 +84,6 @@ public class LeftMenuAdapter extends BaseAdapter {
 				holder.divider.setVisibility(View.GONE);
 				holder.separator.setVisibility(View.GONE);
 			} else if (position == 3) {
-				holder.label.setText(R.string.rate_app);
-				holder.categoriesLabel.setVisibility(View.GONE);
-				holder.divider.setVisibility(View.GONE);
-				holder.separator.setVisibility(View.GONE);
-			} else if (position == 4) {
 				holder.label.setText(R.string.more_apps);
 				holder.categoriesLabel.setVisibility(View.VISIBLE);
 				holder.divider.setVisibility(View.GONE);

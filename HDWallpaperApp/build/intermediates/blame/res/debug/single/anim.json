@@ -1,6 +1,46 @@
 [
     {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_fade_out.xml"
+    },
+    {
         "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/splash_screen_move_out.xml",
         "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/anim/splash_screen_move_out.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/anim/abc_slide_in_top.xml"
     }
 ]

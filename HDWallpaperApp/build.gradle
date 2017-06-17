@@ -1,9 +1,10 @@
-apply plugin: 'android'
+apply plugin: 'com.android.application'
 
 dependencies {
     compile fileTree(include: '*.jar', dir: 'libs')
     compile project(':google-play-services_lib')
     compile 'com.android.support:support-v4:25.2.0'
+    compile 'com.android.support:appcompat-v7:25.2.0'
 }
 
 android {

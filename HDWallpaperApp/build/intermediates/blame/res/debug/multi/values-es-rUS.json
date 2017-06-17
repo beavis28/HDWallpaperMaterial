@@ -7,8 +7,369 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
+                    "endColumn": 119,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 119,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 107,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 107,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 122,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 122,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 108,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 108,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endColumn": 107,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 107,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 84,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 84,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 100,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 100,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 122,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 122,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 84,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 84,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 81,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 81,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 81,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 81,
+                        "endOffset": 1176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 111,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1181,
+                        "endColumn": 111,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endColumn": 111,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 111,
+                        "endOffset": 1400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 100,
+                    "endOffset": 1551
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1405,
+                        "endColumn": 100,
+                        "endOffset": 1501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1556,
+                    "endColumn": 107,
+                    "endOffset": 1659
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1506,
+                        "endColumn": 107,
+                        "endOffset": 1609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1664,
+                    "endColumn": 106,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1614,
+                        "endColumn": 106,
+                        "endOffset": 1716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endColumn": 106,
+                    "endOffset": 1873
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1721,
+                        "endColumn": 106,
+                        "endOffset": 1823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1878,
+                    "endColumn": 121,
+                    "endOffset": 1995
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1828,
+                        "endColumn": 121,
+                        "endOffset": 1945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2000,
+                    "endColumn": 99,
+                    "endOffset": 2095
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1950,
+                        "endColumn": 99,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2100,
                     "endColumn": 149,
-                    "endOffset": 250
+                    "endOffset": 2245
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -23,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 255,
+                    "startOffset": 2250,
                     "endColumn": 154,
-                    "endOffset": 405
+                    "endOffset": 2400
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -42,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 410,
+                    "startOffset": 2405,
                     "endColumn": 150,
-                    "endOffset": 556
+                    "endOffset": 2551
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -61,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 561,
+                    "startOffset": 2556,
                     "endColumn": 134,
-                    "endOffset": 691
+                    "endOffset": 2686
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -80,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 696,
+                    "startOffset": 2691,
                     "endColumn": 135,
-                    "endOffset": 827
+                    "endOffset": 2822
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -99,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 832,
+                    "startOffset": 2827,
                     "endColumn": 163,
-                    "endOffset": 991
+                    "endOffset": 2986
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -118,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 996,
+                    "startOffset": 2991,
                     "endColumn": 128,
-                    "endOffset": 1120
+                    "endOffset": 3115
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -137,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1125,
+                    "startOffset": 3120,
                     "endColumn": 163,
-                    "endOffset": 1284
+                    "endOffset": 3279
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -156,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1289,
+                    "startOffset": 3284,
                     "endColumn": 126,
-                    "endOffset": 1411
+                    "endOffset": 3406
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -175,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1416,
+                    "startOffset": 3411,
                     "endColumn": 131,
-                    "endOffset": 1543
+                    "endOffset": 3538
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -194,11 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1548,
+                    "startOffset": 3543,
                     "endColumn": 190,
-                    "endOffset": 1734
+                    "endOffset": 3729
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -213,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 1739,
+                    "startOffset": 3734,
                     "endColumn": 187,
-                    "endOffset": 1922
+                    "endOffset": 3917
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -232,11 +593,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 1927,
+                    "startOffset": 3922,
                     "endColumn": 126,
-                    "endOffset": 2049
+                    "endOffset": 4044
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -251,11 +612,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2054,
+                    "startOffset": 4049,
                     "endColumn": 179,
-                    "endOffset": 2229
+                    "endOffset": 4224
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -270,11 +631,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2234,
+                    "startOffset": 4229,
                     "endColumn": 124,
-                    "endOffset": 2354
+                    "endOffset": 4349
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -289,11 +650,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2359,
+                    "startOffset": 4354,
                     "endColumn": 189,
-                    "endOffset": 2544
+                    "endOffset": 4539
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -308,11 +669,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2549,
+                    "startOffset": 4544,
                     "endColumn": 118,
-                    "endOffset": 2663
+                    "endOffset": 4658
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -327,11 +688,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2668,
+                    "startOffset": 4663,
                     "endColumn": 154,
-                    "endOffset": 2818
+                    "endOffset": 4813
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -346,11 +707,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2823,
+                    "startOffset": 4818,
                     "endColumn": 177,
-                    "endOffset": 2996
+                    "endOffset": 4991
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -365,11 +726,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3001,
+                    "startOffset": 4996,
                     "endColumn": 257,
-                    "endOffset": 3254
+                    "endOffset": 5249
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -384,11 +745,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3259,
+                    "startOffset": 5254,
                     "endColumn": 124,
-                    "endOffset": 3379
+                    "endOffset": 5374
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -403,11 +764,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3384,
+                    "startOffset": 5379,
                     "endColumn": 110,
-                    "endOffset": 3490
+                    "endOffset": 5485
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -422,11 +783,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3495,
+                    "startOffset": 5490,
                     "endColumn": 167,
-                    "endOffset": 3658
+                    "endOffset": 5653
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -441,11 +802,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3663,
+                    "startOffset": 5658,
                     "endColumn": 130,
-                    "endOffset": 3789
+                    "endOffset": 5784
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -460,11 +821,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3794,
+                    "startOffset": 5789,
                     "endColumn": 91,
-                    "endOffset": 3881
+                    "endOffset": 5876
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -479,11 +840,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3886,
+                    "startOffset": 5881,
                     "endColumn": 107,
-                    "endOffset": 3989
+                    "endOffset": 5984
                 },
                 "from": {
                     "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/res/values-es-rUS/values-es-rUS.xml",
@@ -493,6 +854,44 @@
                         "startOffset": 3886,
                         "endColumn": 107,
                         "endOffset": 3989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5989,
+                    "endColumn": 81,
+                    "endOffset": 6066
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2050,
+                        "endColumn": 81,
+                        "endOffset": 2127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6071,
+                    "endColumn": 100,
+                    "endOffset": 6167
+                },
+                "from": {
+                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-es-rUS/values-es-rUS.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2132,
+                        "endColumn": 100,
+                        "endOffset": 2228
                     }
                 }
             }

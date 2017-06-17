@@ -27,7 +27,9 @@ public class Controller {
 
 	public static Categories fetchCategories() throws IOException {
 		//String urlString = WALLPAPER_URL + "/service.php";
-		String urlString = "https://raw.githubusercontent.com/NemoNguyen/walldatabase/master/naruto.txt";
+		//For Naruto HD Wallpaper App
+		//String urlString = "https://raw.githubusercontent.com/NemoNguyen/walldatabase/master/naruto.txt";
+		String urlString = "https://raw.githubusercontent.com/NemoNguyen/walldatabase/master/naruto.txt";;
 		BufferedReader in = getInputStream(urlString);
 
 		try {

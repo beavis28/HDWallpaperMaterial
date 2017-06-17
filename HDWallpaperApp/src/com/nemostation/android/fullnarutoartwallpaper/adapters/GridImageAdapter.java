@@ -11,6 +11,7 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.CompressFormat;
 import android.net.Uri;
+import android.os.Bundle;
 import android.os.Environment;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -28,6 +29,7 @@ import com.nemostation.android.fullnarutoartwallpaper.R;
 import com.nemostation.android.fullnarutoartwallpaper.models.Category;
 import com.nemostation.android.fullnarutoartwallpaper.models.Recent;
 import com.nemostation.android.fullnarutoartwallpaper.util.ImageViewUtil;
+import com.nemostation.android.fullnarutoartwallpaper.util.DataHolder;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.FailReason;
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;
@@ -40,6 +42,7 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 	private Category mCategory;
 	private LayoutInflater mInflater;
 	private ArrayList<String> mFavouritesList;
+	protected DataHolder mDataHolder;
 
 	private File fileToSave;
 	private String imageName = "";
@@ -159,6 +162,7 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 	@Override
 	public View getView(int position, View convertView, ViewGroup parent) {
 		final ViewHolder holder;
+		mDataHolder = new DataHolder();
 		if (convertView == null) {
 			convertView = mInflater.inflate(R.layout.grid_image, parent, false);
 			holder = new ViewHolder();
@@ -180,7 +184,7 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 		
 		if (mCategory != null) {
 			String image = mCategory.getImages().get(position);
-			String imageNameInFavourite = getImgName(image);
+			String imageNameInFavourite = MainActivity.getImgName(image);
 			String categoryNameInFavourite = mCategory.getName();
 			for (String stri : mFavouritesList) {
 				if (stri.contains(imageNameInFavourite)
@@ -211,8 +215,12 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 					.split("[#]")[1];
 			String categoryNameInFavourite = mRecent.getImages().get(position)
 					.split("[#]")[0];
+			if (mDataHolder.getFavourites() != null) {
+				//mFavouritesList = mDataHolder.getFavourites();
+			}
+
 			for (String stri : mFavouritesList) {
-				if (stri.contains(getImgName(imageNameInFavourite))
+				if (stri.contains(MainActivity.getImgName(imageNameInFavourite))
 						&& stri.contains(categoryNameInFavourite)) {
 					holder.mIcon.setImageResource(R.drawable.favorite_on_white);
 					break;
@@ -257,14 +265,15 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 		int position = (Integer) v.getTag();
 		String dirFav = Environment.getExternalStorageDirectory() + "/"
 				+ mContext.getString(R.string.app_name) + "/favourites";
+		MainActivity.verifyStoragePermissions((MainActivity) mContext);
 		if (currentCategoryName.equals("Recent")) {
 			imageName = mRecent.getImages().get(position).split("[#]")[1];
 			categoryName = mRecent.getImages().get(position).split("[#]")[0];
-			File file = new File(dirFav, categoryName + "--" + getImgName(imageName));
+			File file = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
 			if (file.exists()) {
 				file.delete();
 				if (mContext != null) {
-					removeFavourites(categoryName, getImgName(imageName));
+					removeFavourites(categoryName, MainActivity.getImgName(imageName));
 					Toast.makeText(mContext,
 							"Image has been removed from favourites!",
 							Toast.LENGTH_SHORT).show();
@@ -273,10 +282,10 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 					icon.setImageResource(R.drawable.favorite_off_white);
 				}
 			} else {
-				fileToSave = new File(dirFav, categoryName + "--" + getImgName(imageName));
+				fileToSave = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
 				ImageLoader.getInstance().loadImage(imageName, listener);
 				if (mContext != null) {
-					fillFavourites(categoryName, getImgName(imageName));
+					fillFavourites(categoryName, MainActivity.getImgName(imageName));
 					Toast.makeText(mContext,
 							"Image has been added in favourites!",
 							Toast.LENGTH_SHORT).show();
@@ -288,11 +297,11 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 		} else {
 			imageName = mCategory.getImages().get(position);
 			categoryName = mCategory.getName();
-			File file = new File(dirFav, categoryName + "--" + getImgName(imageName));
+			File file = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
 			if (file.exists()) {
 				file.delete();
 				if (mContext != null) {
-					removeFavourites(categoryName, getImgName(imageName));
+					removeFavourites(categoryName, MainActivity.getImgName(imageName));
 					Toast.makeText(mContext,
 							"Image has been removed from favourites!",
 							Toast.LENGTH_SHORT).show();
@@ -301,10 +310,10 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 					icon.setImageResource(R.drawable.favorite_off_white);
 				}
 			} else {
-				fileToSave = new File(dirFav, categoryName + "--" + getImgName(imageName));
+				fileToSave = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
 				ImageLoader.getInstance().loadImage(imageName, listener);
 				if (mContext != null) {
-					fillFavourites(categoryName, getImgName(imageName));
+					fillFavourites(categoryName, MainActivity.getImgName(imageName));
 					Toast.makeText(mContext,
 							"Image has been added in favourites!",
 							Toast.LENGTH_SHORT).show();
@@ -314,15 +323,5 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 				}
 			}
 		}
-	}
-	public static String getImgName(String img) {
-		String temp = img.replaceAll("https","");
-		temp = temp.replaceAll("http","");
-		temp = temp.replaceAll(".com","");
-		temp = temp.replaceAll("[^a-zA-Z0-9]","");
-		temp = temp.replaceAll("jpg",".jpg");
-		temp = temp.replaceAll("png",".png");
-		temp = temp.replaceAll("jpeg",".jpeg");
-		return temp;
 	}
 }

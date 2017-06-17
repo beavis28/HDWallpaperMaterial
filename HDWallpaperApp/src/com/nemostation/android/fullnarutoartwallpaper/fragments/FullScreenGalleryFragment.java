@@ -113,12 +113,14 @@ public class FullScreenGalleryFragment extends Fragment implements
 					} else if (fileToSave.toString().contains("Download")) {
                         // Tell the media scanner about the new file so that it is
                         // immediately available to the user.
-                        MediaScannerConnection.scanFile(getActivity(), new String[] { fileToSave.toString() }, null,
-                                new MediaScannerConnection.OnScanCompletedListener() {
-                                    public void onScanCompleted(String path, Uri uri) {
-                                        mBar.setVisibility(View.GONE);
-                                    }
-                                });
+                        if (getActivity() != null) {
+                            MediaScannerConnection.scanFile(getActivity(), new String[] { fileToSave.toString() }, null,
+                                    new MediaScannerConnection.OnScanCompletedListener() {
+                                        public void onScanCompleted(String path, Uri uri) {
+                                            mBar.setVisibility(View.GONE);
+                                        }
+                                    });
+                        }
                     }
 
 				} catch (IOException e) {
@@ -209,7 +211,7 @@ public class FullScreenGalleryFragment extends Fragment implements
 		for (String str : mFavouritesList) {
 			String holderFav[] = str.split("[/]");
 			// Log.v("holder", holderFav[holderFav.length-1] + mImage);
-			if (holderFav[holderFav.length - 1].equals(mCategory + "--"	+ getImgName(mImage))) {
+			if (holderFav[holderFav.length - 1].equals(mCategory + "--"	+ MainActivity.getImgName(mImage))) {
                 mFavorite.setImageResource(R.drawable.love_red_icon);
 				break;
 			} else {
@@ -299,7 +301,7 @@ public class FullScreenGalleryFragment extends Fragment implements
             case R.id.full_screen_gallery_item_share:
                 MainActivity.verifyStoragePermissions(getActivity());
                 mBar.setVisibility(View.VISIBLE);
-                fileToSave = new File(dirShare, mCategory + "--" + getImgName(mImage));
+                fileToSave = new File(dirShare, mCategory + "--" + MainActivity.getImgName(mImage));
                 if (mImage.contains("http")) {//loading from url
                     ImageLoader.getInstance().loadImage(mImage,	listener);
                 }
@@ -312,7 +314,7 @@ public class FullScreenGalleryFragment extends Fragment implements
             case R.id.full_screen_gallery_item_add_to_favorite:
                 MainActivity.verifyStoragePermissions(getActivity());
                 mBar.setVisibility(View.VISIBLE);
-                File file = new File(dirFav, mCategory + "--" + getImgName(mImage));
+                File file = new File(dirFav, mCategory + "--" + MainActivity.getImgName(mImage));
 
                 if (file.exists()) {
                     file.delete();
@@ -321,16 +323,16 @@ public class FullScreenGalleryFragment extends Fragment implements
                         ((BaseActivity) getActivity())
                                 .showToast("Image has been removed from favourites!");
                         mFavorite.setImageResource(R.drawable.love_white_icon);
-                        removeFragmentFavourites(mCategory, getImgName(mImage));
+                        removeFragmentFavourites(mCategory, MainActivity.getImgName(mImage));
                     }
                 } else {
-                    fileToSave = new File(dirFav, mCategory + "--" + getImgName(mImage));
+                    fileToSave = new File(dirFav, mCategory + "--" + MainActivity.getImgName(mImage));
                     ImageLoader.getInstance().loadImage(mImage,listener);
                     if (getActivity() != null) {
                         ((BaseActivity) getActivity())
                                 .showToast("Image has been added to favourites!");
                         mFavorite.setImageResource(R.drawable.love_red_icon);
-                        fillFragmentFavourites(mCategory, getImgName(mImage));
+                        fillFragmentFavourites(mCategory, MainActivity.getImgName(mImage));
                     }
                 }
                 break;
@@ -339,7 +341,7 @@ public class FullScreenGalleryFragment extends Fragment implements
                 MainActivity.verifyStoragePermissions(getActivity());
                 mBar.setVisibility(View.VISIBLE);
                 File dirDownloadfolder = new File(dirDownload);
-                fileToSave = new File(dirDownload, mCategory + "--" + getImgName(mImage));
+                fileToSave = new File(dirDownload, mCategory + "--" + MainActivity.getImgName(mImage));
                 getAlbumStorageDir(getString(R.string.app_name));
                 if (!dirDownloadfolder.exists()) {
                     dirDownloadfolder.mkdirs();
@@ -385,17 +387,6 @@ public class FullScreenGalleryFragment extends Fragment implements
 		mFavouritesList.remove(dir + cat + "--" + img);
 		((FullScreenGalleryActivity) getActivity()).removeFavourites(mCategory,
 				mImage);
-	}
-
-	public static String getImgName(String img) {
-		String temp = img.replaceAll("https","");
-        temp = temp.replaceAll("http","");
-        temp = temp.replaceAll(".com","");
-        temp = temp.replaceAll("[^a-zA-Z0-9]","");
-        temp = temp.replaceAll("jpg",".jpg");
-        temp = temp.replaceAll("png",".png");
-        temp = temp.replaceAll("jpeg",".jpeg");
-        return temp;
 	}
 
     @Override

@@ -110,7 +110,8 @@ public class ImageViewUtil {
 			.showImageOnFail(R.drawable.icon_default)
 			.showImageForEmptyUri(R.drawable.icon_default)
 			.showImageOnLoading(R.drawable.icon_default)
-			.cacheInMemory(true).build();
+            .cacheOnDisk(true)
+            .build();
 
 	private static final DisplayImageOptions options = new DisplayImageOptions.Builder()
 			.imageScaleType(ImageScaleType.EXACTLY)
@@ -119,14 +120,15 @@ public class ImageViewUtil {
             .showImageOnFail(R.drawable.icon_default)
 			.showImageForEmptyUri(R.drawable.icon_default)
 			.showImageOnLoading(R.drawable.icon_default)
-			.cacheInMemory(false).build();
+			.build();
 
 	private static ImageLoaderConfiguration imageConfig;
 
 	private static ImageLoaderConfiguration getImageConfig(Context context) {
 		if (imageConfig == null) {
 			imageConfig = new ImageLoaderConfiguration.Builder(context)
-                    .threadPoolSize(3)
+                    .threadPoolSize(2)
+                    .diskCacheExtraOptions(480, 320, null)
                     .build();
 		}
 		return imageConfig;

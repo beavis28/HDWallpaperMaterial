@@ -4,11 +4,22 @@ import java.util.ArrayList;
 import java.util.List;
 
 import android.annotation.SuppressLint;
+import android.content.ActivityNotFoundException;
+import android.content.Intent;
+import android.net.Uri;
 import android.view.WindowManager;
 import android.os.Bundle;
 import android.os.Environment;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.DialogFragment;
+//import android.app.FragmentManager;
+
+import android.content.Context;
+import android.content.SharedPreferences;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 
 import com.nemostation.android.fullnarutoartwallpaper.adapters.FullScreenGalleryAdapter;
 import com.nemostation.android.fullnarutoartwallpaper.fragments.FullScreenGalleryFragment;
@@ -68,6 +79,8 @@ public class FullScreenGalleryActivity extends BaseActivity {
 		
 		mViewPager.setAdapter(new FullScreenGalleryAdapter(getSupportFragmentManager(), getImageFragments()));
 		mViewPager.setCurrentItem(position);
+
+		RateItDialogFragment.show(this, this.getSupportFragmentManager());
 
         //mAdView = (AdView) findViewById(R.id.full_screen_gallery_ad_view);
         //mAdView.loadAd(new AdRequest.Builder().build());
@@ -140,5 +153,86 @@ public class FullScreenGalleryActivity extends BaseActivity {
 		String dir = Environment.getExternalStorageDirectory() + "/" + this.getString(R.string.app_name) + "/favourites/";
 		mFavouritesList.remove(dir + cat + "--" + img);
 		mDataHolder.setFavourites(mFavouritesList);
+	}
+
+	public static class RateItDialogFragment extends DialogFragment {
+		private static final int LAUNCHES_UNTIL_PROMPT = 3; // Number of app launch then promt user
+		private static final int DAYS_UNTIL_PROMPT = 0; //number of day using. 0 to just check number of app launch
+		private static final int MILLIS_UNTIL_PROMPT = DAYS_UNTIL_PROMPT * 24 * 60 * 60 * 1000;
+		private static final String PREF_NAME = "APP_RATER";
+		private static final String LAST_PROMPT = "LAST_PROMPT";
+		private static final String LAUNCHES = "LAUNCHES";
+		private static final String DISABLED = "DISABLED";
+
+		public static void show(Context context, FragmentManager fragmentManager) {
+			boolean shouldShow = false;
+			SharedPreferences sharedPreferences = getSharedPreferences(context);
+			SharedPreferences.Editor editor = sharedPreferences.edit();
+			long currentTime = System.currentTimeMillis();
+			long lastPromptTime = sharedPreferences.getLong(LAST_PROMPT, 0);
+			if (lastPromptTime == 0) {
+				lastPromptTime = currentTime;
+				editor.putLong(LAST_PROMPT, lastPromptTime);
+			}
+
+			if (!sharedPreferences.getBoolean(DISABLED, false)) {
+				int launches = sharedPreferences.getInt(LAUNCHES, 0) + 1;
+				if (launches > LAUNCHES_UNTIL_PROMPT) {
+					if (currentTime > lastPromptTime + MILLIS_UNTIL_PROMPT) {
+						shouldShow = true;
+					}
+				}
+				editor.putInt(LAUNCHES, launches);
+			}
+
+			if (shouldShow) {
+				editor.putInt(LAUNCHES, 0).putLong(LAST_PROMPT, System.currentTimeMillis()).apply();
+				new RateItDialogFragment().show(fragmentManager, null);
+			} else {
+				editor.commit();
+			}
+		}
+
+		private static SharedPreferences getSharedPreferences(Context context) {
+			return context.getSharedPreferences(PREF_NAME, 0);
+		}
+
+		@Override
+		public AlertDialog onCreateDialog(Bundle savedInstanceState) {
+			return new AlertDialog.Builder(getActivity())
+					.setTitle(R.string.rate_title)
+					.setMessage(R.string.rate_message)
+					.setPositiveButton(R.string.rate_positive, new DialogInterface.OnClickListener() {
+						@Override
+						public void onClick(DialogInterface dialog, int which) {
+							Uri uri = Uri.parse("market://details?id=" + getActivity().getPackageName());
+							Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
+							try {
+								startActivity(goToMarket);
+							} catch (ActivityNotFoundException e) {
+								startActivity(new Intent(
+										Intent.ACTION_VIEW,
+										Uri.parse("http://play.google.com/store/apps/details?id="
+												+ getActivity().getPackageName())));
+							}
+							getSharedPreferences(getActivity()).edit().putBoolean(DISABLED, true).apply();
+							dismiss();
+						}
+					})
+					.setNeutralButton(R.string.rate_remind_later, new DialogInterface.OnClickListener() {
+						@Override
+						public void onClick(DialogInterface dialog, int which) {
+							dismiss();
+						}
+					})
+/*					.setNegativeButton(R.string.rate_never, new DialogInterface.OnClickListener() {
+						@Override
+						public void onClick(DialogInterface dialog, int which) {
+							getSharedPreferences(getActivity()).edit().putBoolean(DISABLED, true).apply();
+							dismiss();
+						}
+					})*/
+					.create();
+		}
 	}
 }

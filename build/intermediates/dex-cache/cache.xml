@@ -21,12 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/universal-image-loader-1.9.3.jar"
+        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/universal-image-loader-1.9.5.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_3f37a042f22dd4f863387c944c63aa00f6439d9d/classes.dex" />
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.5_be086d60da42cfba120ad77f983805e83982d944/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6457d89a82f70f138cbab7106496ac76235bb6af">
+        sha1="2b344cdf2cf691416cceb69b2f9416995aa092a7">
         <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_98737cea42aeb62611ac6b6907da0120a782e406/classes.dex" />
     </item>
 

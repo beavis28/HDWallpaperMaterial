@@ -60,12 +60,12 @@
         "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-xxhdpi/love_red_icon.png"
     },
     {
-        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xxhdpi/search.png",
-        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-xxhdpi/search.png"
-    },
-    {
         "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xxhdpi/refresh.png",
         "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-xxhdpi/refresh.png"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xxhdpi/search.png",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-xxhdpi/search.png"
     },
     {
         "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xxhdpi/settings.png",
