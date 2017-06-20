@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Full Naruto Art Wallpapers</string>
+    <string name="app_name">League Of LOL Wallpapers</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="error">Something went wrong, try again</string>
@@ -31,7 +31,7 @@
     <string name="sort_z_to_a">Sort (Z to A)</string>
     <string name="rate_app">Rate This App</string>
     <string name="more_apps">More Apps</string>
-    <string name="cancel">CANCEL</string>
+    <string name="cancel">Cancel</string>
     <string name="ok">OK</string>
     <string name="no">No</string>
     <string name="yes">Yes</string>

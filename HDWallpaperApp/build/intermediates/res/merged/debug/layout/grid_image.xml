@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:orientation="vertical" >
 
-    <com.nemostation.android.fullnarutoartwallpaper.views.ScaledImageView
+    <com.nemostation.android.fulllolwallpaper.views.ScaledImageView
         android:id="@+id/grid_image"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -15,7 +15,7 @@
         android:padding="1dp"
         android:scaleType="centerCrop"
         android:src="@drawable/icon_default"
-        app:image_view_ratio="1" />
+        app:image_view_ratio="1.5" />
 
     <LinearLayout
         android:id="@+id/grid_image_layout"

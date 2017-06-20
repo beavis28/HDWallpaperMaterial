@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nemostation.android.fullnarutoartwallpaper.test">
+    package="com.nemostation.android.fulllolwallpaper.test">
 
-    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="26" />
+    <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="26" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.nemostation.android.fullnarutoartwallpaper"
+                     android:targetPackage="com.nemostation.android.fulllolwallpaper"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.nemostation.android.fullnarutoartwallpaper"/>
+                     android:label="Tests for com.nemostation.android.fulllolwallpaper"/>
 </manifest>

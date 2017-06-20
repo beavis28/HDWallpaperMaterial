@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nemostation.android.fullnarutoartwallpaper"
+    package="com.nemostation.android.fulllolwallpaper"
     android:installLocation="auto"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="17"
         android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -34,7 +34,7 @@
             android:value="AIzaSyCeOaxXjSnGw7mLpLerG07ubUh7Hp7tdZo" />
 
         <activity
-            android:name="com.nemostation.android.fullnarutoartwallpaper.MainActivity"
+            android:name="com.nemostation.android.fulllolwallpaper.MainActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale"
             android:label="@string/app_name" >
             <intent-filter>
@@ -44,15 +44,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.nemostation.android.fullnarutoartwallpaper.FullScreenGalleryActivity"
+            android:name="com.nemostation.android.fulllolwallpaper.FullScreenGalleryActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
         </activity>
         <activity
-            android:name="com.nemostation.android.fullnarutoartwallpaper.SetAsWallpaperActivity"
+            android:name="com.nemostation.android.fulllolwallpaper.SetAsWallpaperActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
         </activity>
         <activity
-            android:name="com.nemostation.android.fullnarutoartwallpaper.AboutUsActivity"
+            android:name="com.nemostation.android.fulllolwallpaper.AboutUsActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
         </activity>
         <activity
