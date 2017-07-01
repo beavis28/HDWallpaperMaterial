@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts.adapters;
+package com.nemostation.android.dragonbzartwall.adapters;
 
 import java.util.List;
 

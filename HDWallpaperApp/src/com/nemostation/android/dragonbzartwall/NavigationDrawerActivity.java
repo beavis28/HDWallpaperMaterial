@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts;
+package com.nemostation.android.dragonbzartwall;
 
 import android.annotation.SuppressLint;
 import android.content.res.Configuration;
@@ -17,9 +17,9 @@ import android.widget.ListView;
 
 import android.support.v7.app.ActionBarDrawerToggle;
 
-import com.nemostation.android.fulllolwallpaperarts.adapters.GridImageAdapter;
-import com.nemostation.android.fulllolwallpaperarts.adapters.LeftMenuAdapter;
-import com.nemostation.android.fulllolwallpaperarts.util.DataHolder;
+import com.nemostation.android.dragonbzartwall.adapters.GridImageAdapter;
+import com.nemostation.android.dragonbzartwall.adapters.LeftMenuAdapter;
+import com.nemostation.android.dragonbzartwall.util.DataHolder;
 import com.nhaarman.listviewanimations.appearance.AnimationAdapter;
 import com.nhaarman.listviewanimations.appearance.simple.SwingLeftInAnimationAdapter;
 import com.nhaarman.listviewanimations.itemmanipulation.DynamicListView;

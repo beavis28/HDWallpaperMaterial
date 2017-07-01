@@ -1,11 +1,11 @@
-package com.nemostation.android.fulllolwallpaperarts.util;
+package com.nemostation.android.dragonbzartwall.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import com.nemostation.android.fulllolwallpaperarts.models.Categories;
+import com.nemostation.android.dragonbzartwall.models.Categories;
 import com.google.gson.GsonBuilder;
 
 public class Controller {

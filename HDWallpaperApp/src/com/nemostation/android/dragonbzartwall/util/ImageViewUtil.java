@@ -1,10 +1,10 @@
-package com.nemostation.android.fulllolwallpaperarts.util;
+package com.nemostation.android.dragonbzartwall.util;
 
 import android.content.Context;
 import android.widget.ImageView;
 
 import android.graphics.Bitmap;
-import com.nemostation.android.fulllolwallpaperarts.R;
+import com.nemostation.android.dragonbzartwall.R;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;

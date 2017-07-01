@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts;
+package com.nemostation.android.dragonbzartwall;
 
 import android.content.res.Configuration;
 import android.graphics.Typeface;

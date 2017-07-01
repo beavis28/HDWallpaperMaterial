@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts.models;
+package com.nemostation.android.dragonbzartwall.models;
 
 import java.util.ArrayList;
 import java.util.List;

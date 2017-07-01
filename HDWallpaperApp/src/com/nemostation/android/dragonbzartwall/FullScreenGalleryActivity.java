@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts;
+package com.nemostation.android.dragonbzartwall;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,11 +21,11 @@ import android.content.SharedPreferences;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 
-import com.nemostation.android.fulllolwallpaperarts.adapters.FullScreenGalleryAdapter;
-import com.nemostation.android.fulllolwallpaperarts.fragments.FullScreenGalleryFragment;
-import com.nemostation.android.fulllolwallpaperarts.models.Category;
-import com.nemostation.android.fulllolwallpaperarts.models.Recent;
-import com.nemostation.android.fulllolwallpaperarts.util.DataHolder;
+import com.nemostation.android.dragonbzartwall.adapters.FullScreenGalleryAdapter;
+import com.nemostation.android.dragonbzartwall.fragments.FullScreenGalleryFragment;
+import com.nemostation.android.dragonbzartwall.models.Category;
+import com.nemostation.android.dragonbzartwall.models.Recent;
+import com.nemostation.android.dragonbzartwall.util.DataHolder;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;

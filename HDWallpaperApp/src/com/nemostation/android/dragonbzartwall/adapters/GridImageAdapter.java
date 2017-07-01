@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts.adapters;
+package com.nemostation.android.dragonbzartwall.adapters;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -22,13 +22,13 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.nemostation.android.fulllolwallpaperarts.BaseActivity;
-import com.nemostation.android.fulllolwallpaperarts.MainActivity;
-import com.nemostation.android.fulllolwallpaperarts.R;
-import com.nemostation.android.fulllolwallpaperarts.models.Category;
-import com.nemostation.android.fulllolwallpaperarts.models.Recent;
-import com.nemostation.android.fulllolwallpaperarts.util.ImageViewUtil;
-import com.nemostation.android.fulllolwallpaperarts.util.DataHolder;
+import com.nemostation.android.dragonbzartwall.BaseActivity;
+import com.nemostation.android.dragonbzartwall.MainActivity;
+import com.nemostation.android.dragonbzartwall.R;
+import com.nemostation.android.dragonbzartwall.models.Category;
+import com.nemostation.android.dragonbzartwall.models.Recent;
+import com.nemostation.android.dragonbzartwall.util.ImageViewUtil;
+import com.nemostation.android.dragonbzartwall.util.DataHolder;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.FailReason;
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;

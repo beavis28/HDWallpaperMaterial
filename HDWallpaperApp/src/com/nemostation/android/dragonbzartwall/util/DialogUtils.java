@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts.util;
+package com.nemostation.android.dragonbzartwall.util;
 
 import android.app.Dialog;
 import android.view.KeyEvent;
@@ -8,9 +8,9 @@ import android.view.View.OnKeyListener;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.nemostation.android.fulllolwallpaperarts.BaseActivity;
-import com.nemostation.android.fulllolwallpaperarts.MainActivity;
-import com.nemostation.android.fulllolwallpaperarts.R;
+import com.nemostation.android.dragonbzartwall.BaseActivity;
+import com.nemostation.android.dragonbzartwall.MainActivity;
+import com.nemostation.android.dragonbzartwall.R;
 
 public class DialogUtils {
 

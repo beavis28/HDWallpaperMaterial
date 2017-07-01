@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts;
+package com.nemostation.android.dragonbzartwall;
 
 import android.annotation.SuppressLint;
 import android.os.Build;

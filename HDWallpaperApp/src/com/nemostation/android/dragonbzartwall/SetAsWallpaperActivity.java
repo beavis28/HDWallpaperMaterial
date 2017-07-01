@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts;
+package com.nemostation.android.dragonbzartwall;
 
 import java.io.IOException;
 
@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.Window;
 
-import com.nemostation.android.fulllolwallpaperarts.fragments.FullScreenGalleryFragment;
+import com.nemostation.android.dragonbzartwall.fragments.FullScreenGalleryFragment;
 //import com.edmodo.cropper.CropImageView;
 
 

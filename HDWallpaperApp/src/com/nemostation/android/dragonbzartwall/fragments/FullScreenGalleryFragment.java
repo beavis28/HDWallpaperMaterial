@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts.fragments;
+package com.nemostation.android.dragonbzartwall.fragments;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -27,11 +27,11 @@ import android.widget.TextView;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import android.media.MediaScannerConnection;
-import com.nemostation.android.fulllolwallpaperarts.BaseActivity;
-import com.nemostation.android.fulllolwallpaperarts.FullScreenGalleryActivity;
-import com.nemostation.android.fulllolwallpaperarts.R;
-import com.nemostation.android.fulllolwallpaperarts.util.ImageViewUtil;
-import com.nemostation.android.fulllolwallpaperarts.MainActivity;
+import com.nemostation.android.dragonbzartwall.BaseActivity;
+import com.nemostation.android.dragonbzartwall.FullScreenGalleryActivity;
+import com.nemostation.android.dragonbzartwall.R;
+import com.nemostation.android.dragonbzartwall.util.ImageViewUtil;
+import com.nemostation.android.dragonbzartwall.MainActivity;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.FailReason;
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;
@@ -39,9 +39,9 @@ import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListene
 public class FullScreenGalleryFragment extends Fragment implements
 		OnClickListener {
 
-	public static final String FULL_SCREEN_GALLERY_CATEGORY = "com.nemostation.android.fulllolwallpaperarts.FullScreenGalleryActivity."
+	public static final String FULL_SCREEN_GALLERY_CATEGORY = "com.nemostation.android.dragonbzartwall.FullScreenGalleryActivity."
 			+ "FullScreenGalleryFragment.category";
-	public static final String FULL_SCREEN_GALLERY_IMAGE = "com.nemostation.android.fulllolwallpaperarts.FullScreenGalleryActivity."
+	public static final String FULL_SCREEN_GALLERY_IMAGE = "com.nemostation.android.dragonbzartwall.FullScreenGalleryActivity."
 			+ "FullScreenGalleryFragment.image";
 
 	private ArrayList<String> mFavouritesList;

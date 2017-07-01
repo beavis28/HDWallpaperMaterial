@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts.util;
+package com.nemostation.android.dragonbzartwall.util;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,8 +6,8 @@ import java.util.List;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.nemostation.android.fulllolwallpaperarts.models.Category;
-import com.nemostation.android.fulllolwallpaperarts.models.Recent;
+import com.nemostation.android.dragonbzartwall.models.Category;
+import com.nemostation.android.dragonbzartwall.models.Recent;
 
 public class DataHolder implements Parcelable {
 	private Recent mRecent;

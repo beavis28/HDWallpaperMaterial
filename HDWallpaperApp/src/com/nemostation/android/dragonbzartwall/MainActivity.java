@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts;
+package com.nemostation.android.dragonbzartwall;
 
 import java.io.File;
 import java.io.IOException;
@@ -27,25 +27,25 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.app.Activity;
 
-import com.nemostation.android.fulllolwallpaperarts.adapters.GridImageAdapter;
-import com.nemostation.android.fulllolwallpaperarts.models.Categories;
-import com.nemostation.android.fulllolwallpaperarts.models.Category;
-import com.nemostation.android.fulllolwallpaperarts.models.Recent;
-import com.nemostation.android.fulllolwallpaperarts.util.Controller;
-import com.nemostation.android.fulllolwallpaperarts.util.DataHolder;
-import com.nemostation.android.fulllolwallpaperarts.util.DialogUtils;
+import com.nemostation.android.dragonbzartwall.adapters.GridImageAdapter;
+import com.nemostation.android.dragonbzartwall.models.Categories;
+import com.nemostation.android.dragonbzartwall.models.Category;
+import com.nemostation.android.dragonbzartwall.models.Recent;
+import com.nemostation.android.dragonbzartwall.util.Controller;
+import com.nemostation.android.dragonbzartwall.util.DataHolder;
+import com.nemostation.android.dragonbzartwall.util.DialogUtils;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends NavigationDrawerActivity implements
 		OnItemClickListener {
 
-	public static final String PARC_RECENT = "com.nemostation.android.fulllolwallpaperarts.Recent";
-	public static final String PARC_FAVOURITES = "com.nemostation.android.fulllolwallpaperarts.Favourites";
-	public static final String PARC_CATEGORIES = "com.nemostation.android.fulllolwallpaperarts.Categories";
-	public static final String PARC_POSITION = "com.nemostation.android.fulllolwallpaperarts.Position";
-	public static final String PARC_DATA_HOLDER = "com.nemostation.android.fulllolwallpaperarts.DataHolder";
-	public static final String PARC_DATA_FAVOURITES = "com.nemostation.android.fulllolwallpaperarts.DataHolder.getFavourites()";
+	public static final String PARC_RECENT = "com.nemostation.android.dragonbzartwall.Recent";
+	public static final String PARC_FAVOURITES = "com.nemostation.android.dragonbzartwall.Favourites";
+	public static final String PARC_CATEGORIES = "com.nemostation.android.dragonbzartwall.Categories";
+	public static final String PARC_POSITION = "com.nemostation.android.dragonbzartwall.Position";
+	public static final String PARC_DATA_HOLDER = "com.nemostation.android.dragonbzartwall.DataHolder";
+	public static final String PARC_DATA_FAVOURITES = "com.nemostation.android.dragonbzartwall.DataHolder.getFavourites()";
 	public static final int REQUEST_POSITION = 2001;
 	public static final int RESPONSE_POSITION = 2001;
 	public static ArrayList<String> pFavouritesShare;

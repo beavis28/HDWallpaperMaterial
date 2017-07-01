@@ -1,4 +1,4 @@
-package com.nemostation.android.fulllolwallpaperarts.adapters;
+package com.nemostation.android.dragonbzartwall.adapters;
 
 import java.util.List;
 
@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.nemostation.android.fulllolwallpaperarts.BaseActivity;
-import com.nemostation.android.fulllolwallpaperarts.R;
-import com.nemostation.android.fulllolwallpaperarts.models.Category;
+import com.nemostation.android.dragonbzartwall.BaseActivity;
+import com.nemostation.android.dragonbzartwall.R;
+import com.nemostation.android.dragonbzartwall.models.Category;
 
 public class LeftMenuAdapter extends BaseAdapter {
 

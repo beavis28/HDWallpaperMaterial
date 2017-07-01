@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nemostation.android.fulllolwallpaperarts.test">
+    package="com.nemostation.android.dragonbzartwall.test">
 
     <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="26" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.nemostation.android.fulllolwallpaperarts"
+                     android:targetPackage="com.nemostation.android.dragonbzartwall"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.nemostation.android.fulllolwallpaperarts"/>
+                     android:label="Tests for com.nemostation.android.dragonbzartwall"/>
 </manifest>

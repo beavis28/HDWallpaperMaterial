@@ -1,6 +1,6 @@
-package com.nemostation.android.fulllolwallpaperarts.views;
+package com.nemostation.android.dragonbzartwall.views;
 
-import com.nemostation.android.fulllolwallpaperarts.R;
+import com.nemostation.android.dragonbzartwall.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;
