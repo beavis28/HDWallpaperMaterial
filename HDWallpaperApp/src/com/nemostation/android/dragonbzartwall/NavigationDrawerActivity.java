@@ -37,7 +37,7 @@ public class NavigationDrawerActivity extends BaseActivity {
 	private CharSequence mDrawerTitle;
 	private CharSequence mTitle;
 
-	private static final int NUMBER_OF_FUNCTION_CAT = 4;
+	private static final int NUMBER_OF_FUNCTION_CAT = 5;
 	protected int currentSelectedItem = 0;
 
 	@SuppressLint("NewApi")
@@ -73,6 +73,8 @@ public class NavigationDrawerActivity extends BaseActivity {
 					} else if (currentSelectedItem == 2) {
 						setTitle(getString(R.string.about_us));
 					} else if (currentSelectedItem == 3) {
+						setTitle(getString(R.string.rate_app));
+					} else if (currentSelectedItem == 4) {
 						setTitle(getString(R.string.more_apps));
 					}
 				} else {

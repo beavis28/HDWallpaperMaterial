@@ -8,6 +8,7 @@ import java.util.Comparator;
 
 import android.app.Dialog;
 import android.app.ProgressDialog;
+import android.content.ActivityNotFoundException;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnCancelListener;
 import android.content.Intent;
@@ -46,10 +47,12 @@ public class MainActivity extends NavigationDrawerActivity implements
 	public static final String PARC_POSITION = "com.nemostation.android.dragonbzartwall.Position";
 	public static final String PARC_DATA_HOLDER = "com.nemostation.android.dragonbzartwall.DataHolder";
 	public static final String PARC_DATA_FAVOURITES = "com.nemostation.android.dragonbzartwall.DataHolder.getFavourites()";
+	public static final String PARC_RATE_US_CHECK = "com.nemostation.android.dragonbzartwall.RateUsCheck";
 	public static final int REQUEST_POSITION = 2001;
 	public static final int RESPONSE_POSITION = 2001;
 	public static ArrayList<String> pFavouritesShare;
 	private int mPosition = 0;
+	private boolean mRateUsCheck = false;
 	private AdView mAdView;
 
 	private Dialog mSplashScreenDialog;
@@ -64,7 +67,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		return this.mDataHolder.getFavourites();
 	}
 
-	private static final int NUMBER_OF_FUNCTION_CAT = 4;
+	private static final int NUMBER_OF_FUNCTION_CAT = 5;
 	private static final int REQUEST_EXTERNAL_STORAGE = 1;
 	private static String[] PERMISSIONS_STORAGE = {
 			Manifest.permission.READ_EXTERNAL_STORAGE,
@@ -234,6 +237,21 @@ public class MainActivity extends NavigationDrawerActivity implements
 				startActivity(aboutUs);
 			} else if (position == 3) {
 				currentSelectedItem = 0;
+				mRateUsCheck = true;
+				mGrid.setAdapter(new GridImageAdapter(this, mDataHolder
+						.getRecent(), mDataHolder.getFavourites()));
+				Uri uri = Uri.parse("market://details?id=" + this.getPackageName());
+				Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
+				try {
+					startActivity(goToMarket);
+				} catch (ActivityNotFoundException e) {
+					startActivity(new Intent(
+							Intent.ACTION_VIEW,
+							Uri.parse("http://play.google.com/store/apps/details?id="
+									+ this.getPackageName())));
+				}
+			} else if (position == 4) {
+				currentSelectedItem = 0;
 				mGrid.setAdapter(new GridImageAdapter(this, mDataHolder
 						.getRecent(), mDataHolder.getFavourites()));
 				Intent intent = new Intent(Intent.ACTION_VIEW);
@@ -257,7 +275,9 @@ public class MainActivity extends NavigationDrawerActivity implements
 				setTitle(getString(R.string.favourites));
 			} else if (position == 2) {
 				setTitle(getString(R.string.about_us));
-			}  else if (position == 3) {
+			} else if (position == 3) {
+				setTitle(getString(R.string.rate_app));
+			} else if (position == 4) {
 				setTitle(getString(R.string.more_apps));
 			}
 
@@ -289,6 +309,10 @@ public class MainActivity extends NavigationDrawerActivity implements
 				intent.putExtra(PARC_RECENT, mDataHolder.getRecent());
 				intent.putExtra(PARC_DATA_FAVOURITES, mDataHolder.getFavourites());
 				//intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
+			} else if (currentSelectedItem == 4) {
+				intent.putExtra(PARC_RECENT, mDataHolder.getRecent());
+				intent.putExtra(PARC_DATA_FAVOURITES, mDataHolder.getFavourites());
+				//intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 			}
 		} else {
 			intent.putExtra(PARC_CATEGORIES,
@@ -297,6 +321,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 			//intent.putExtra(PARC_DATA_HOLDER, mDataHolder);
 		}
 		intent.putExtra(PARC_POSITION, position);
+		intent.putExtra(PARC_RATE_US_CHECK, mRateUsCheck);
 		//startActivity(intent);
 		startActivityForResult(intent, REQUEST_POSITION);
 	}
@@ -521,7 +546,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		@Override
 		protected Integer doInBackground(Void... params) {
 			try {
-				if (selection != 2 && selection != 3 ) {
+				if (selection != 2 && selection != 3 && selection != 4) {
 					Categories allCategories = Controller.fetchCategories();
 					recent = allCategories.getRecent();
 					favourites = new ArrayList<String>();
@@ -566,7 +591,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		protected void onPostExecute(Integer result) {
 			int position = mPosition;
 			if (result == 1) {
-				if (selection == 2 || selection == 3 ) {
+				if (selection == 2 || selection == 3 || selection == 4) {
 					if(pressCategory != null && pressCategory.equals("recent")) {
 						/*Comment out to not create new grid view. Keep using the old one.*/
 						/*mGrid.setAdapter(new GridImageAdapter(MainActivity.this,

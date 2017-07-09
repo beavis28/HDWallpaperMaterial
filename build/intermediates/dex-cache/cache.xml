@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="bbd16595459b3b51ba2e5d3c3da7ccfb30128348">
+        sha1="be5044af1cc1db1d8f67e9a44a2d17c302aaf7c6">
         <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_98737cea42aeb62611ac6b6907da0120a782e406/classes.dex" />
     </item>
 

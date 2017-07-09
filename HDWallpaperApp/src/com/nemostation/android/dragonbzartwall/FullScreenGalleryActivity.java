@@ -44,6 +44,7 @@ public class FullScreenGalleryActivity extends BaseActivity {
 	
 	private ViewPager mViewPager;
 	int position;
+	boolean mRateUsCheck = false;
 
 	@SuppressLint("NewApi")
 	@Override
@@ -68,7 +69,7 @@ public class FullScreenGalleryActivity extends BaseActivity {
 		mFavourites = getIntent().getExtras().getStringArrayList(MainActivity.PARC_FAVOURITES);
 		mCategory = getIntent().getExtras().getParcelable(MainActivity.PARC_CATEGORIES);
 		position = getIntent().getExtras().getInt(MainActivity.PARC_POSITION);
-		
+		mRateUsCheck = getIntent().getExtras().getBoolean(MainActivity.PARC_RATE_US_CHECK);
 		//mDataHolder = getIntent().getExtras().getParcelable(MainActivity.PARC_DATA_HOLDER);
 		mFavouritesList = getIntent().getExtras().getStringArrayList(MainActivity.PARC_DATA_FAVOURITES);
 
@@ -78,8 +79,9 @@ public class FullScreenGalleryActivity extends BaseActivity {
 		
 		mViewPager.setAdapter(new FullScreenGalleryAdapter(getSupportFragmentManager(), getImageFragments()));
 		mViewPager.setCurrentItem(position);
-
-		RateItDialogFragment.show(this, this.getSupportFragmentManager());
+		if ( mRateUsCheck == false ) {
+			RateItDialogFragment.show(this, this.getSupportFragmentManager());
+		}
 
         //mAdView = (AdView) findViewById(R.id.full_screen_gallery_ad_view);
         //mAdView.loadAd(new AdRequest.Builder().build());
