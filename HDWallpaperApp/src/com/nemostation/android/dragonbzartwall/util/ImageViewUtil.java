@@ -110,7 +110,7 @@ public class ImageViewUtil {
 			.showImageOnFail(R.drawable.icon_default)
 			.showImageForEmptyUri(R.drawable.icon_default)
 			.showImageOnLoading(R.drawable.icon_default)
-            .cacheOnDisk(true)
+            .cacheOnDisk(false)//need to be false when using direct link
             .build();
 
 	private static final DisplayImageOptions options = new DisplayImageOptions.Builder()

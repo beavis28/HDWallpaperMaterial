@@ -77,10 +77,12 @@ public class FullScreenGalleryFragment extends Fragment implements
 				FailReason failReason) {
 			mBar.setVisibility(View.GONE);
 			if (getActivity() != null) {
-                if (failReason.getCause().getMessage() != null) {
-                    ((BaseActivity) getActivity())
-                            .showToast(getString(R.string.error) + "\n"
-                                    + failReason.getCause().getMessage());
+                if (failReason.getCause() != null) {
+                    if (failReason.getCause().getMessage() != null) {
+                        ((BaseActivity) getActivity())
+                                .showToast(getString(R.string.error) + "\n"
+                                        + failReason.getCause().getMessage());
+                    }
                 } else {
                     ((BaseActivity) getActivity())
                             .showToast(getString(R.string.error));
@@ -181,10 +183,12 @@ public class FullScreenGalleryFragment extends Fragment implements
                 .findViewById(R.id.full_screen_gallery_item_download);
 
         // add to check
+/*
         if(mImageView != null) {
-            ((BitmapDrawable)mImageView.getDrawable()).getBitmap().recycle();
+            //((BitmapDrawable)mImageView.getDrawable()).getBitmap().recycle();
             mImageView.setImageDrawable(null);
         }
+*/
 
         mImageView = (ImageView) v
                 .findViewById(R.id.full_screen_gallery_item_image);
