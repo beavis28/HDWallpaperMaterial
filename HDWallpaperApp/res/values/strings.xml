@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Full Dragon BZ Art Wallpapers</string>
+    <string name="app_name">Wanted Piece Luffy Wallpapers</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="error">Something went wrong, try again</string>
@@ -19,7 +19,7 @@
     <string name="error_occured">Error occurred</string>
     <string name="share">"Share"</string>
     <string name="image_saved">Image has been ADDED to favourite!</string>
-    <string name="removed_from_favourite">Image has been REVEMOVED from favourite!</string>
+    <string name="removed_from_favourite">Image has been REMOVED from favourite!</string>
     <string name="image_not_saved">Image hasn\'t been added to favourite!</string>
     <string name="confirm_exit">Press Back button again to exit</string>
     <string name="recent">Recent</string>
@@ -42,7 +42,7 @@
     <string name="fragment_save_to_local">SAVE</string>
     <string name="cropandset">CROP &amp; SET WALLPAPER</string>
     <string name="rate_title">Rate Us Now</string>
-    <string name="rate_message">Rate Us 5 Stars ★★★★★\nTo Unlock PRO Version With All Exclusive Wallpapers!</string>
+    <string name="rate_message">Rate Us 5 Stars ★★★★★\nTo Automatically Unlock PRO Version With All Exclusive Wallpapers!</string>
     <string name="rate_positive">Rate Now </string>
     <string name="rate_remind_later">Remind Me Later!</string>
     <string name="rate_never">Never Ask Again ☹</string>

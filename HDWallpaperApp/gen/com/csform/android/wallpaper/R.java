@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.nemostation.android.dragonbzartwall;
+package com.nemostation.android.luffyzoropiece;
 
 public final class R {
     public static final class anim {
@@ -922,11 +922,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AdsAttrs_adSize com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:adSize}</code></td><td>
+           <tr><td><code>{@link #AdsAttrs_adSize com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:adSize}</code></td><td>
     The size of the ad.</td></tr>
-           <tr><td><code>{@link #AdsAttrs_adSizes com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:adSizes}</code></td><td>
+           <tr><td><code>{@link #AdsAttrs_adSizes com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:adSizes}</code></td><td>
     A comma-separated list of the supported ad sizes.</td></tr>
-           <tr><td><code>{@link #AdsAttrs_adUnitId com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:adUnitId}</code></td><td> The ad unit ID.</td></tr>
+           <tr><td><code>{@link #AdsAttrs_adUnitId com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:adUnitId}</code></td><td> The ad unit ID.</td></tr>
            </table>
            @see #AdsAttrs_adSize
            @see #AdsAttrs_adSizes
@@ -952,7 +952,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:adSize
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:adSize
         */
         public static final int AdsAttrs_adSize = 0;
         /**
@@ -972,7 +972,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:adSizes
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:adSizes
         */
         public static final int AdsAttrs_adSizes = 1;
         /**
@@ -988,7 +988,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:adUnitId
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:adUnitId
         */
         public static final int AdsAttrs_adUnitId = 2;
         /** Attributes that can be used with a CropImageView.
@@ -997,11 +997,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CropImageView_aspectRatioX com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:aspectRatioX}</code></td><td></td></tr>
-           <tr><td><code>{@link #CropImageView_aspectRatioY com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:aspectRatioY}</code></td><td></td></tr>
-           <tr><td><code>{@link #CropImageView_fixAspectRatio com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:fixAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #CropImageView_guidelines com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:guidelines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CropImageView_imageResource com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:imageResource}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_aspectRatioX com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:aspectRatioX}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_aspectRatioY com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:aspectRatioY}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_fixAspectRatio com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:fixAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_guidelines com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:guidelines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CropImageView_imageResource com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:imageResource}</code></td><td></td></tr>
            </table>
            @see #CropImageView_aspectRatioX
            @see #CropImageView_aspectRatioY
@@ -1014,7 +1014,7 @@ containing a value of this type.
             0x7f010015
         };
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#aspectRatioX}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#aspectRatioX}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -1024,11 +1024,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:aspectRatioX
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:aspectRatioX
         */
         public static final int CropImageView_aspectRatioX = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#aspectRatioY}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#aspectRatioY}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -1038,11 +1038,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:aspectRatioY
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:aspectRatioY
         */
         public static final int CropImageView_aspectRatioY = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#fixAspectRatio}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#fixAspectRatio}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -1052,11 +1052,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:fixAspectRatio
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:fixAspectRatio
         */
         public static final int CropImageView_fixAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#guidelines}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#guidelines}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -1070,17 +1070,17 @@ containing a value of this type.
 <tr><td><code>onTouch</code></td><td>1</td><td></td></tr>
 <tr><td><code>off</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:guidelines
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:guidelines
         */
         public static final int CropImageView_guidelines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#imageResource}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#imageResource}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:imageResource
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:imageResource
         */
         public static final int CropImageView_imageResource = 4;
         /** Attributes that can be used with a MapAttrs.
@@ -1089,20 +1089,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MapAttrs_cameraBearing com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraBearing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLat com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraTargetLat}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLng com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraTargetLng}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTilt com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraTilt}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraZoom com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraZoom}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_mapType com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:mapType}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiCompass com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiCompass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiRotateGestures com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiRotateGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiScrollGestures com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiScrollGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiTiltGestures com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiTiltGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomControls com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiZoomControls}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomGestures com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiZoomGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_useViewLifecycle com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:useViewLifecycle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_zOrderOnTop com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:zOrderOnTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraBearing com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraBearing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLat com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraTargetLat}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLng com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraTargetLng}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTilt com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraTilt}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraZoom com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraZoom}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_mapType com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:mapType}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiCompass com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiCompass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiRotateGestures com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiRotateGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiScrollGestures com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiScrollGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiTiltGestures com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiTiltGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomControls com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiZoomControls}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomGestures com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiZoomGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_useViewLifecycle com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:useViewLifecycle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_zOrderOnTop com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:zOrderOnTop}</code></td><td></td></tr>
            </table>
            @see #MapAttrs_cameraBearing
            @see #MapAttrs_cameraTargetLat
@@ -1126,7 +1126,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000f, 0x7f010010
         };
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#cameraBearing}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#cameraBearing}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1136,11 +1136,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraBearing
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraBearing
         */
         public static final int MapAttrs_cameraBearing = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#cameraTargetLat}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#cameraTargetLat}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1150,11 +1150,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraTargetLat
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraTargetLat
         */
         public static final int MapAttrs_cameraTargetLat = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#cameraTargetLng}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#cameraTargetLng}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1164,11 +1164,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraTargetLng
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraTargetLng
         */
         public static final int MapAttrs_cameraTargetLng = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#cameraTilt}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#cameraTilt}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1178,11 +1178,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraTilt
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraTilt
         */
         public static final int MapAttrs_cameraTilt = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#cameraZoom}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#cameraZoom}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1192,11 +1192,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:cameraZoom
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:cameraZoom
         */
         public static final int MapAttrs_cameraZoom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#mapType}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#mapType}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1212,11 +1212,11 @@ containing a value of this type.
 <tr><td><code>terrain</code></td><td>3</td><td></td></tr>
 <tr><td><code>hybrid</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:mapType
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:mapType
         */
         public static final int MapAttrs_mapType = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#uiCompass}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#uiCompass}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1226,11 +1226,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiCompass
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiCompass
         */
         public static final int MapAttrs_uiCompass = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#uiRotateGestures}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#uiRotateGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1240,11 +1240,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiRotateGestures
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiRotateGestures
         */
         public static final int MapAttrs_uiRotateGestures = 7;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#uiScrollGestures}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#uiScrollGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1254,11 +1254,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiScrollGestures
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiScrollGestures
         */
         public static final int MapAttrs_uiScrollGestures = 8;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#uiTiltGestures}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#uiTiltGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1268,11 +1268,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiTiltGestures
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiTiltGestures
         */
         public static final int MapAttrs_uiTiltGestures = 9;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#uiZoomControls}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#uiZoomControls}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1282,11 +1282,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiZoomControls
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiZoomControls
         */
         public static final int MapAttrs_uiZoomControls = 10;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#uiZoomGestures}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#uiZoomGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1296,11 +1296,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:uiZoomGestures
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:uiZoomGestures
         */
         public static final int MapAttrs_uiZoomGestures = 11;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#useViewLifecycle}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#useViewLifecycle}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1310,11 +1310,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:useViewLifecycle
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:useViewLifecycle
         */
         public static final int MapAttrs_useViewLifecycle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#zOrderOnTop}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#zOrderOnTop}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1324,7 +1324,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:zOrderOnTop
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:zOrderOnTop
         */
         public static final int MapAttrs_zOrderOnTop = 13;
         /** Attributes that can be used with a ScaledImageView.
@@ -1333,7 +1333,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScaledImageView_image_view_ratio com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:image_view_ratio}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScaledImageView_image_view_ratio com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:image_view_ratio}</code></td><td></td></tr>
            </table>
            @see #ScaledImageView_image_view_ratio
          */
@@ -1341,7 +1341,7 @@ containing a value of this type.
             0x7f010016
         };
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.dragonbzartwall.R.attr#image_view_ratio}
+          <p>This symbol is the offset where the {@link com.nemostation.android.luffyzoropiece.R.attr#image_view_ratio}
           attribute's value can be found in the {@link #ScaledImageView} array.
 
 
@@ -1351,7 +1351,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.dragonbzartwall:image_view_ratio
+          @attr name com.nemostation.android.com.nemostation.android.com.nemostation.android.luffyzoropiece:image_view_ratio
         */
         public static final int ScaledImageView_image_view_ratio = 0;
     };
