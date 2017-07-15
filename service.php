@@ -1,7 +1,7 @@
 <?php
 /*
 *** In side folder for app.
-*** 1 file will be for one category. 
+*** 1 file will be for one category... 
 *** Filename will be come category name.
 *** File has to be in .txt extension
 *** Latest update images, have to insert on top of the file content. 
