@@ -1,11 +1,11 @@
-package com.nemostation.android.luffyzoropiece.util;
+package com.nemostation.android.fullluffypiece.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import com.nemostation.android.luffyzoropiece.models.Categories;
+import com.nemostation.android.fullluffypiece.models.Categories;
 import com.google.gson.GsonBuilder;
 
 public class Controller {

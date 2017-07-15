@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece;
+package com.nemostation.android.fullluffypiece;
 
 import java.io.IOException;
 
@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.Window;
 
-import com.nemostation.android.luffyzoropiece.fragments.FullScreenGalleryFragment;
+import com.nemostation.android.fullluffypiece.fragments.FullScreenGalleryFragment;
 //import com.edmodo.cropper.CropImageView;
 
 

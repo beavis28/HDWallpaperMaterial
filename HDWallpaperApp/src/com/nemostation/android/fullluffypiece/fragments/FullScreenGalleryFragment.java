@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece.fragments;
+package com.nemostation.android.fullluffypiece.fragments;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -26,11 +26,11 @@ import android.widget.TextView;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import android.media.MediaScannerConnection;
-import com.nemostation.android.luffyzoropiece.BaseActivity;
-import com.nemostation.android.luffyzoropiece.FullScreenGalleryActivity;
-import com.nemostation.android.luffyzoropiece.R;
-import com.nemostation.android.luffyzoropiece.util.ImageViewUtil;
-import com.nemostation.android.luffyzoropiece.MainActivity;
+import com.nemostation.android.fullluffypiece.BaseActivity;
+import com.nemostation.android.fullluffypiece.FullScreenGalleryActivity;
+import com.nemostation.android.fullluffypiece.R;
+import com.nemostation.android.fullluffypiece.util.ImageViewUtil;
+import com.nemostation.android.fullluffypiece.MainActivity;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.FailReason;
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;
@@ -38,9 +38,9 @@ import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListene
 public class FullScreenGalleryFragment extends Fragment implements
 		OnClickListener {
 
-	public static final String FULL_SCREEN_GALLERY_CATEGORY = "com.nemostation.android.luffyzoropiece.FullScreenGalleryActivity."
+	public static final String FULL_SCREEN_GALLERY_CATEGORY = "com.nemostation.android.fullluffypiece.FullScreenGalleryActivity."
 			+ "FullScreenGalleryFragment.category";
-	public static final String FULL_SCREEN_GALLERY_IMAGE = "com.nemostation.android.luffyzoropiece.FullScreenGalleryActivity."
+	public static final String FULL_SCREEN_GALLERY_IMAGE = "com.nemostation.android.fullluffypiece.FullScreenGalleryActivity."
 			+ "FullScreenGalleryFragment.image";
 
 	private ArrayList<String> mFavouritesList;

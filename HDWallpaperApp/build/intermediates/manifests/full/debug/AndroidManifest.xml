@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nemostation.android.luffyzoropiece"
+    package="com.nemostation.android.fullluffypiece"
     android:installLocation="auto"
-    android:versionCode="3"
-    android:versionName="1.2" >
+    android:versionCode="1"
+    android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="17"
         android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -34,7 +34,7 @@
             android:value="AIzaSyCeOaxXjSnGw7mLpLerG07ubUh7Hp7tdZo" />
 
         <activity
-            android:name="com.nemostation.android.luffyzoropiece.MainActivity"
+            android:name="com.nemostation.android.fullluffypiece.MainActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale"
             android:label="@string/app_name" >
             <intent-filter>
@@ -44,15 +44,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.nemostation.android.luffyzoropiece.FullScreenGalleryActivity"
+            android:name="com.nemostation.android.fullluffypiece.FullScreenGalleryActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
         </activity>
         <activity
-            android:name="com.nemostation.android.luffyzoropiece.SetAsWallpaperActivity"
+            android:name="com.nemostation.android.fullluffypiece.SetAsWallpaperActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
         </activity>
         <activity
-            android:name="com.nemostation.android.luffyzoropiece.AboutUsActivity"
+            android:name="com.nemostation.android.fullluffypiece.AboutUsActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
         </activity>
         <activity

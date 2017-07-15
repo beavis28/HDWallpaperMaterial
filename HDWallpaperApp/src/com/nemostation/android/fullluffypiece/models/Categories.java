@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece.models;
+package com.nemostation.android.fullluffypiece.models;
 
 import java.util.ArrayList;
 

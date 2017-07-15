@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece;
+package com.nemostation.android.fullluffypiece;
 
 import android.annotation.SuppressLint;
 import android.content.res.Configuration;
@@ -17,9 +17,9 @@ import android.widget.ListView;
 
 import android.support.v7.app.ActionBarDrawerToggle;
 
-import com.nemostation.android.luffyzoropiece.adapters.GridImageAdapter;
-import com.nemostation.android.luffyzoropiece.adapters.LeftMenuAdapter;
-import com.nemostation.android.luffyzoropiece.util.DataHolder;
+import com.nemostation.android.fullluffypiece.adapters.GridImageAdapter;
+import com.nemostation.android.fullluffypiece.adapters.LeftMenuAdapter;
+import com.nemostation.android.fullluffypiece.util.DataHolder;
 import com.nhaarman.listviewanimations.appearance.AnimationAdapter;
 import com.nhaarman.listviewanimations.appearance.simple.SwingLeftInAnimationAdapter;
 import com.nhaarman.listviewanimations.itemmanipulation.DynamicListView;

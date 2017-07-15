@@ -24,7 +24,8 @@
             android:columnWidth="1dp"
             android:divider="@android:color/transparent"
             android:listSelector="@android:color/transparent"
-            android:numColumns="@integer/grid_num_columns" />
+            android:numColumns="@integer/grid_num_columns"
+        />
 
         <com.google.android.gms.ads.AdView
             android:id="@+id/main_activity_ad_view"

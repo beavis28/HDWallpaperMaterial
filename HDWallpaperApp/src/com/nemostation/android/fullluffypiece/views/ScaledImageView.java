@@ -1,6 +1,6 @@
-package com.nemostation.android.luffyzoropiece.views;
+package com.nemostation.android.fullluffypiece.views;
 
-import com.nemostation.android.luffyzoropiece.R;
+import com.nemostation.android.fullluffypiece.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;

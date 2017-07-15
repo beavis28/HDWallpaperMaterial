@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece.adapters;
+package com.nemostation.android.fullluffypiece.adapters;
 
 import java.util.List;
 

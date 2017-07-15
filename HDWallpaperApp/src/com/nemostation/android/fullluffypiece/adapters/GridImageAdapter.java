@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece.adapters;
+package com.nemostation.android.fullluffypiece.adapters;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -22,13 +22,13 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.nemostation.android.luffyzoropiece.BaseActivity;
-import com.nemostation.android.luffyzoropiece.MainActivity;
-import com.nemostation.android.luffyzoropiece.R;
-import com.nemostation.android.luffyzoropiece.models.Category;
-import com.nemostation.android.luffyzoropiece.models.Recent;
-import com.nemostation.android.luffyzoropiece.util.ImageViewUtil;
-import com.nemostation.android.luffyzoropiece.util.DataHolder;
+import com.nemostation.android.fullluffypiece.BaseActivity;
+import com.nemostation.android.fullluffypiece.MainActivity;
+import com.nemostation.android.fullluffypiece.R;
+import com.nemostation.android.fullluffypiece.models.Category;
+import com.nemostation.android.fullluffypiece.models.Recent;
+import com.nemostation.android.fullluffypiece.util.ImageViewUtil;
+import com.nemostation.android.fullluffypiece.util.DataHolder;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.FailReason;
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;

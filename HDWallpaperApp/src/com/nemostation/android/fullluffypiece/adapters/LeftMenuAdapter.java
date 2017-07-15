@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece.adapters;
+package com.nemostation.android.fullluffypiece.adapters;
 
 import java.util.List;
 
@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.nemostation.android.luffyzoropiece.BaseActivity;
-import com.nemostation.android.luffyzoropiece.R;
-import com.nemostation.android.luffyzoropiece.models.Category;
+import com.nemostation.android.fullluffypiece.BaseActivity;
+import com.nemostation.android.fullluffypiece.R;
+import com.nemostation.android.fullluffypiece.models.Category;
 
 public class LeftMenuAdapter extends BaseAdapter {
 

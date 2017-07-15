@@ -1,10 +1,10 @@
-package com.nemostation.android.luffyzoropiece.util;
+package com.nemostation.android.fullluffypiece.util;
 
 import android.content.Context;
 import android.widget.ImageView;
 
 import android.graphics.Bitmap;
-import com.nemostation.android.luffyzoropiece.R;
+import com.nemostation.android.fullluffypiece.R;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;

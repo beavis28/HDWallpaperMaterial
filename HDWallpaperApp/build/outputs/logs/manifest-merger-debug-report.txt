@@ -98,7 +98,7 @@ ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpape
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:33:13-68
 	android:name
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:32:13-62
-activity#com.nemostation.android.luffyzoropiece.MainActivity
+activity#com.nemostation.android.fullluffypiece.MainActivity
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:34:9-43:20
 	android:label
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:37:13-45
@@ -116,19 +116,19 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:41:17-77
 	android:name
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:41:27-74
-activity#com.nemostation.android.luffyzoropiece.FullScreenGalleryActivity
+activity#com.nemostation.android.fullluffypiece.FullScreenGalleryActivity
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:44:9-47:20
 	android:configChanges
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:46:13-186
 	android:name
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:45:13-92
-activity#com.nemostation.android.luffyzoropiece.SetAsWallpaperActivity
+activity#com.nemostation.android.fullluffypiece.SetAsWallpaperActivity
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:48:9-51:20
 	android:configChanges
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:50:13-186
 	android:name
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:49:13-89
-activity#com.nemostation.android.luffyzoropiece.AboutUsActivity
+activity#com.nemostation.android.fullluffypiece.AboutUsActivity
 ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:52:9-55:20
 	android:configChanges
 		ADDED from /Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/AndroidManifest.xml:54:13-186

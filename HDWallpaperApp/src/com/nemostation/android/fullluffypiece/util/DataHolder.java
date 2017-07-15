@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece.util;
+package com.nemostation.android.fullluffypiece.util;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,8 +6,8 @@ import java.util.List;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.nemostation.android.luffyzoropiece.models.Category;
-import com.nemostation.android.luffyzoropiece.models.Recent;
+import com.nemostation.android.fullluffypiece.models.Category;
+import com.nemostation.android.fullluffypiece.models.Recent;
 
 public class DataHolder implements Parcelable {
 	private Recent mRecent;

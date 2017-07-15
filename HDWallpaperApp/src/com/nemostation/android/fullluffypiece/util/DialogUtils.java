@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece.util;
+package com.nemostation.android.fullluffypiece.util;
 
 import android.app.Dialog;
 import android.view.KeyEvent;
@@ -8,9 +8,9 @@ import android.view.View.OnKeyListener;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.nemostation.android.luffyzoropiece.BaseActivity;
-import com.nemostation.android.luffyzoropiece.MainActivity;
-import com.nemostation.android.luffyzoropiece.R;
+import com.nemostation.android.fullluffypiece.BaseActivity;
+import com.nemostation.android.fullluffypiece.MainActivity;
+import com.nemostation.android.fullluffypiece.R;
 
 public class DialogUtils {
 

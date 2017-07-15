@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece;
+package com.nemostation.android.fullluffypiece;
 
 import java.io.File;
 import java.io.IOException;
@@ -28,26 +28,26 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.app.Activity;
 
-import com.nemostation.android.luffyzoropiece.adapters.GridImageAdapter;
-import com.nemostation.android.luffyzoropiece.models.Categories;
-import com.nemostation.android.luffyzoropiece.models.Category;
-import com.nemostation.android.luffyzoropiece.models.Recent;
-import com.nemostation.android.luffyzoropiece.util.Controller;
-import com.nemostation.android.luffyzoropiece.util.DataHolder;
-import com.nemostation.android.luffyzoropiece.util.DialogUtils;
+import com.nemostation.android.fullluffypiece.adapters.GridImageAdapter;
+import com.nemostation.android.fullluffypiece.models.Categories;
+import com.nemostation.android.fullluffypiece.models.Category;
+import com.nemostation.android.fullluffypiece.models.Recent;
+import com.nemostation.android.fullluffypiece.util.Controller;
+import com.nemostation.android.fullluffypiece.util.DataHolder;
+import com.nemostation.android.fullluffypiece.util.DialogUtils;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends NavigationDrawerActivity implements
 		OnItemClickListener {
 
-	public static final String PARC_RECENT = "com.nemostation.android.luffyzoropiece.Recent";
-	public static final String PARC_FAVOURITES = "com.nemostation.android.luffyzoropiece.Favourites";
-	public static final String PARC_CATEGORIES = "com.nemostation.android.luffyzoropiece.Categories";
-	public static final String PARC_POSITION = "com.nemostation.android.luffyzoropiece.Position";
-	public static final String PARC_DATA_HOLDER = "com.nemostation.android.luffyzoropiece.DataHolder";
-	public static final String PARC_DATA_FAVOURITES = "com.nemostation.android.luffyzoropiece.DataHolder.getFavourites()";
-	public static final String PARC_RATE_US_CHECK = "com.nemostation.android.luffyzoropiece.RateUsCheck";
+	public static final String PARC_RECENT = "com.nemostation.android.fullluffypiece.Recent";
+	public static final String PARC_FAVOURITES = "com.nemostation.android.fullluffypiece.Favourites";
+	public static final String PARC_CATEGORIES = "com.nemostation.android.fullluffypiece.Categories";
+	public static final String PARC_POSITION = "com.nemostation.android.fullluffypiece.Position";
+	public static final String PARC_DATA_HOLDER = "com.nemostation.android.fullluffypiece.DataHolder";
+	public static final String PARC_DATA_FAVOURITES = "com.nemostation.android.fullluffypiece.DataHolder.getFavourites()";
+	public static final String PARC_RATE_US_CHECK = "com.nemostation.android.fullluffypiece.RateUsCheck";
 	public static final int REQUEST_POSITION = 2001;
 	public static final int RESPONSE_POSITION = 2001;
 	public static ArrayList<String> pFavouritesShare;

@@ -1,4 +1,4 @@
-package com.nemostation.android.luffyzoropiece;
+package com.nemostation.android.fullluffypiece;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,11 +21,11 @@ import android.content.SharedPreferences;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 
-import com.nemostation.android.luffyzoropiece.adapters.FullScreenGalleryAdapter;
-import com.nemostation.android.luffyzoropiece.fragments.FullScreenGalleryFragment;
-import com.nemostation.android.luffyzoropiece.models.Category;
-import com.nemostation.android.luffyzoropiece.models.Recent;
-import com.nemostation.android.luffyzoropiece.util.DataHolder;
+import com.nemostation.android.fullluffypiece.adapters.FullScreenGalleryAdapter;
+import com.nemostation.android.fullluffypiece.fragments.FullScreenGalleryFragment;
+import com.nemostation.android.fullluffypiece.models.Category;
+import com.nemostation.android.fullluffypiece.models.Recent;
+import com.nemostation.android.fullluffypiece.util.DataHolder;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
@@ -60,7 +60,7 @@ public class FullScreenGalleryActivity extends BaseActivity {
         interstitial.loadAd(adRequest);
         interstitial.setAdListener(new AdListener() {
             public void onAdLoaded() {
-            	if(Math.random() < 0.3)
+            	if(Math.random() < 0.4)
             		displayInterstitial();
             }
         });
