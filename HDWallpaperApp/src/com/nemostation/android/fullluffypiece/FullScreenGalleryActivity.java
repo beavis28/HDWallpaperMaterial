@@ -54,7 +54,7 @@ public class FullScreenGalleryActivity extends BaseActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 		setContentView(R.layout.full_screen_gallery);
 		interstitial = new InterstitialAd(FullScreenGalleryActivity.this);
-        interstitial.setAdUnitId("ca-app-pub-5836818937934168/8610725537");
+        interstitial.setAdUnitId("interstitial-ad-id");
         AdRequest adRequest = new AdRequest.Builder()
                 .build();
         interstitial.loadAd(adRequest);
