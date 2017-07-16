@@ -601,6 +601,7 @@
     <integer name="grid_num_columns">2</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="MY_AD_UNIT_ID">ca-app-pub-5836818937934168/5657259134</string>
+    <string name="MY_INTERS_UNIT_ID">ca-app-pub-5836818937934168/8610725537</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>

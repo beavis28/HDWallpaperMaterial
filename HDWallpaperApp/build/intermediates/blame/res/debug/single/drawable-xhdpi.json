@@ -56,12 +56,12 @@
         "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-xhdpi/drawer_shadow.9.png"
     },
     {
-        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xhdpi/random.png",
-        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-xhdpi/random.png"
-    },
-    {
         "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xhdpi/ic_drawer.png",
         "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xhdpi/random.png",
+        "source": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/drawable-xhdpi/random.png"
     },
     {
         "merged": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-xhdpi/settings.png",

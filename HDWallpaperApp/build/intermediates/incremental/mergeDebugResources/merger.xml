@@ -1654,7 +1654,7 @@
         <item name="android:background">@android:color/transparent</item>
         <item name="android:textSize">20sp</item>
         <item name="android:textColor">@color/text_color</item>
-    </style></file><file path="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/tags.xml" qualifiers=""><string name="MY_AD_UNIT_ID">ca-app-pub-5836818937934168/5657259134</string></file><file path="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values-land/dimens.xml" qualifiers="land"><integer name="grid_num_columns">2</integer></file><file path="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values-v11/styles.xml" qualifiers="v11"><style name="SplashScreenStyle" parent="android:Theme.Holo.Light.Dialog">
+    </style></file><file path="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values/tags.xml" qualifiers=""><string name="MY_AD_UNIT_ID">ca-app-pub-5836818937934168/5657259134</string><string name="MY_INTERS_UNIT_ID">ca-app-pub-5836818937934168/8610725537</string></file><file path="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values-land/dimens.xml" qualifiers="land"><integer name="grid_num_columns">2</integer></file><file path="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values-v11/styles.xml" qualifiers="v11"><style name="SplashScreenStyle" parent="android:Theme.Holo.Light.Dialog">
         <item name="android:windowIsFloating">false</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
