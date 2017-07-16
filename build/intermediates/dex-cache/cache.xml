@@ -3,93 +3,273 @@
 
     <item
         is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/nineoldandroids-2.4.0.jar"
+        jar="/Users/hieuchau/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_c2f3460b8137cd5fc82b84f1f0090a9afee7c1dd/classes.dex" />
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_89f0236df11fcab4a26e14564ed31454908de24c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/listviewanimations_lib-core-slh_3.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core-slh_3.1.0_46ac667ffdfd3a76f0926596d7092cbbf10d2b04/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/universal-image-loader-1.9.5.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.5_be086d60da42cfba120ad77f983805e83982d944/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/listviewanimations_lib-manipulation_3.1.0.jar"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/libs/listviewanimations_lib-manipulation_3.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-manipulation_3.1.0_0ac719eda1c580c2d626c268227b958429c0764e/classes.dex" />
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-manipulation_3.1.0_b181ff5f74c51be71645b935a6bfdce0e3fd788a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/gson-2.2.4.jar"
+        jar="/Users/hieuchau/.android/build-cache/1f0a9a5fb5cf733878d9bc6c15902c37313ff62d/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.4_0abba7280adebdf40fae9a7dac6648e10b14ced2/classes.dex" />
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93ed391ab96f4b9067f693e1c0ddb1845a875240/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ddc4bed7caa2bf3a32e8f94fbad1768aff038c3a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/libGoogleAnalyticsServices.jar"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/libs/libGoogleAnalyticsServices.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_70088fdb7608cfca428b75b8b3357c19fad758cd/classes.dex" />
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_54b150c461ef83174f9d9aabfc867b1105c8a85c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/libs/listviewanimations_lib-core_3.1.0.jar"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/libs/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.4_68c54a1c7bfad34776d410a351c507be883c4d3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3fb3e89aa0faf2ce0ec523d2ed6e86276f8122ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/libs/listviewanimations_lib-manipulation_3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-manipulation_3.1.0_4cc0c86dd99585479c2f96ff3ef3ee3dc2f722df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuchau/.android/build-cache/5dbbe97916ca862ad3118842e2a50792b5f4abc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da38b3f43fb674e50244ca7456664278fb7fa7a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuchau/.android/build-cache/37f994db8420b9c91afa5e91c47c6eb80eeec5a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fe4bdb7193cc6da2dd0e1d3085edfe0f020daaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuchau/.android/build-cache/a232218cdcfa67e5b994a51bfcfee264cb20fc1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b608c638d12fe17d7e7cd84c97f8d85a495f486c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27e8f601ce8b6ea333cfa8a94a4f8b9dcd168be4">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6a8dcb42e64102bab2517c14e991adea58682716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a4348deac67946ed8425d4f382751fd929295af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_278523f583c0b02f213bb483d69937b2c383e6b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/libs/libGoogleAnalyticsServices.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_86a5a4cacc2942093ca184d51452ed6844ee1633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93e8409ddc127c41720b165ba7a352fe5d0b1bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.5_dc5af200080b8beebd6b8b2f3b0c7aa2a712a08e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuchau/.android/build-cache/6af0292a587bd1829597311e4862a016b740f6e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34674a588fee13ffaf513951790692049e7dee5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuchau/.android/build-cache/c98b8fd3633c5ddb863d7e48f8f515e60810b1b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d69b01a6335d5353ea2cdf08623b11f5cc54350/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/libs/listviewanimations_lib-core-slh_3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core-slh_3.1.0_4a310942a491d3ee0a2dd6cbcda593007c995d21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/libs/listviewanimations_lib-core_3.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f3f9629b068554d8513a2aaf34418171bf430851">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core_3.1.0_91b1dd29e90f7c1e97e0d4fa3aa16d11cd5ada9f/classes.dex" />
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core_3.1.0_b40b18005a6259bad8c02ed81a65981d7c1d93a3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/libs/google-play-services.jar"
+        jar="/Users/hieuchau/.android/build-cache/125497c63e88209b2bba2bc73d35f549181e7619/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5f841b7ece89907591ad47ae08cc0c53d006499/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/libs/listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core_3.1.0_e8f2ec7f6561941b0aed14d99039648c49154b6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuchau/.android/build-cache/40c144de651ffadc638c46abbe040f2febb698da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8f9daa20bcc8f5fa23e5eb5604a0c9676fc5ed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/default/libs/google-play-services.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="4ac848d48785173aa7b8cd6a7c2ba8d9d736d514">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_598535f33bbf3bb7814fc1181f2ae3061462f241/classes.dex" />
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_d7ae7c5728c92b2e9774abfbe7b5a469c4e463f5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/default/libs/google-play-services.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="83605eb146b36f998a2fcc78c5ca5508a9cf977b">
-        <dex dex="/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_98737cea42aeb62611ac6b6907da0120a782e406/classes.dex" />
+        sha1="4ac848d48785173aa7b8cd6a7c2ba8d9d736d514">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_894328997f295d37e66688cbca47b179aef57d1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/libs/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.4_868d5c56906dd288e507e1fb794ca8234d247959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/libs/listviewanimations_lib-core-slh_3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/listviewanimations_lib-core-slh_3.1.0_2d4bb67056efcf4337f812db68503dcb56721ac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.5_552ad6a43e6667205d480f25824992c44c90c9e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_29d4c9a8ab2aba8354df705695c14af1e6c6ff85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83fe579ab51d61c1f923a7ffeee81cef5f41c3e7">
+        <dex dex="/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f702ef83af172bdbc2b244f51236e64d86227415/classes.dex" />
     </item>
 
 </items>

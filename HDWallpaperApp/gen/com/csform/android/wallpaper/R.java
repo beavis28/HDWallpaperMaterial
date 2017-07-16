@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.nemostation.android.fullluffypiece;
+package com.wallzstudio.mikuwallpaper;
 
 public final class R {
     public static final class anim {
@@ -1014,7 +1014,7 @@ containing a value of this type.
             0x7f010015
         };
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#aspectRatioX}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#aspectRatioX}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -1028,7 +1028,7 @@ containing a value of this type.
         */
         public static final int CropImageView_aspectRatioX = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#aspectRatioY}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#aspectRatioY}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -1042,7 +1042,7 @@ containing a value of this type.
         */
         public static final int CropImageView_aspectRatioY = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#fixAspectRatio}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#fixAspectRatio}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -1056,7 +1056,7 @@ containing a value of this type.
         */
         public static final int CropImageView_fixAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#guidelines}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#guidelines}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -1074,7 +1074,7 @@ containing a value of this type.
         */
         public static final int CropImageView_guidelines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#imageResource}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#imageResource}
           attribute's value can be found in the {@link #CropImageView} array.
 
 
@@ -1126,7 +1126,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000f, 0x7f010010
         };
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#cameraBearing}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#cameraBearing}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1140,7 +1140,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_cameraBearing = 1;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#cameraTargetLat}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#cameraTargetLat}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1154,7 +1154,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_cameraTargetLat = 2;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#cameraTargetLng}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#cameraTargetLng}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1168,7 +1168,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_cameraTargetLng = 3;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#cameraTilt}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#cameraTilt}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1182,7 +1182,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_cameraTilt = 4;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#cameraZoom}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#cameraZoom}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1196,7 +1196,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_cameraZoom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#mapType}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#mapType}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1216,7 +1216,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_mapType = 0;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#uiCompass}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#uiCompass}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1230,7 +1230,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_uiCompass = 6;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#uiRotateGestures}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#uiRotateGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1244,7 +1244,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_uiRotateGestures = 7;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#uiScrollGestures}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#uiScrollGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1258,7 +1258,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_uiScrollGestures = 8;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#uiTiltGestures}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#uiTiltGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1272,7 +1272,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_uiTiltGestures = 9;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#uiZoomControls}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#uiZoomControls}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1286,7 +1286,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_uiZoomControls = 10;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#uiZoomGestures}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#uiZoomGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1300,7 +1300,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_uiZoomGestures = 11;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#useViewLifecycle}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#useViewLifecycle}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1314,7 +1314,7 @@ containing a value of this type.
         */
         public static final int MapAttrs_useViewLifecycle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#zOrderOnTop}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#zOrderOnTop}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1341,7 +1341,7 @@ containing a value of this type.
             0x7f010016
         };
         /**
-          <p>This symbol is the offset where the {@link com.nemostation.android.fullluffypiece.R.attr#image_view_ratio}
+          <p>This symbol is the offset where the {@link com.nemostation.android.mikuwallpaper.R.attr#image_view_ratio}
           attribute's value can be found in the {@link #ScaledImageView} array.
 
 

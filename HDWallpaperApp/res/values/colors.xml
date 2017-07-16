@@ -79,24 +79,50 @@
 
     -->
         <!-- Cyan theme -->
+    <!--
+        <color name="main_color_primary_50_percent">#80016064</color>
+        <color name="main_color_primary_80_percent">#cc016064</color>
+        <color name="main_color_primary_90_percent">#e6016064</color>
+        <color name="main_color_secondary_50_percent">#8000838f</color>
+        <color name="main_color_secondary_90_percent">#e600838f</color>
+        <color name="main_color_tertiary_30_percent">#4d0297a7</color>
 
-    <color name="main_color_primary_50_percent">#80016064</color>
-    <color name="main_color_primary_80_percent">#cc016064</color>
-    <color name="main_color_primary_90_percent">#e6016064</color>
-    <color name="main_color_secondary_50_percent">#8000838f</color>
-    <color name="main_color_secondary_90_percent">#e600838f</color>
-    <color name="main_color_tertiary_30_percent">#4d0297a7</color>
-    
-    <color name="text_color">@color/material_light_yellow_500</color>
-    <color name="main_color_primary">@color/material_cyan_900</color>
-    <color name="main_color_secondary">@color/material_cyan_800</color>
-    <color name="main_color_tertiary">@color/material_cyan_700</color>
-    
+        <color name="text_color">@color/material_light_yellow_500</color>
+        <color name="main_color_primary">@color/material_cyan_900</color>
+        <color name="main_color_secondary">@color/material_cyan_800</color>
+        <color name="main_color_tertiary">@color/material_cyan_700</color>
+
+        <color name="action_bar_color">@color/main_color_primary</color>
+        <color name="action_bar_text_color">@android:color/white</color>
+        <color name="left_menu_color">@color/main_color_secondary_90_percent</color>
+        <color name="full_screen_image_background">@color/main_color_primary</color>
+
+        <color name="main_color_grey_100">@color/material_grey_100</color>
+        <color name="main_color_grey_600">@color/material_grey_600</color>
+        <color name="main_color_grey_800">@color/material_grey_800</color>
+
+        <color name="full_gallery_item_bar_color">#fafcfc</color>
+    -->
+
+        <!-- Deep Purple theme -->
+
+    <color name="main_color_primary_50_percent">#80673ab7</color>
+    <color name="main_color_primary_80_percent">#cc4527a0</color>
+    <color name="main_color_primary_90_percent">#e6311b92</color>
+    <color name="main_color_secondary_50_percent">#809c27b0</color>
+    <color name="main_color_secondary_90_percent">#e64a148c</color>
+    <color name="main_color_tertiary_30_percent">#4dba68c8</color>
+
+    <color name="text_color">@color/material_lime_A100</color>
+    <color name="main_color_primary">@color/material_deep_purple_900</color>
+    <color name="main_color_secondary">@color/material_deep_purple_800</color>
+    <color name="main_color_tertiary">@color/material_deep_purple_700</color>
+
     <color name="action_bar_color">@color/main_color_primary</color>
     <color name="action_bar_text_color">@android:color/white</color>
     <color name="left_menu_color">@color/main_color_secondary_90_percent</color>
     <color name="full_screen_image_background">@color/main_color_primary</color>
-    
+
     <color name="main_color_grey_100">@color/material_grey_100</color>
     <color name="main_color_grey_600">@color/material_grey_600</color>
     <color name="main_color_grey_800">@color/material_grey_800</color>

@@ -55,15 +55,15 @@
     <color name="main_color_grey_100">@color/material_grey_100</color>
     <color name="main_color_grey_600">@color/material_grey_600</color>
     <color name="main_color_grey_800">@color/material_grey_800</color>
-    <color name="main_color_primary">@color/material_cyan_900</color>
-    <color name="main_color_primary_50_percent">#80016064</color>
-    <color name="main_color_primary_80_percent">#cc016064</color>
-    <color name="main_color_primary_90_percent">#e6016064</color>
-    <color name="main_color_secondary">@color/material_cyan_800</color>
-    <color name="main_color_secondary_50_percent">#8000838f</color>
-    <color name="main_color_secondary_90_percent">#e600838f</color>
-    <color name="main_color_tertiary">@color/material_cyan_700</color>
-    <color name="main_color_tertiary_30_percent">#4d0297a7</color>
+    <color name="main_color_primary">@color/material_deep_purple_900</color>
+    <color name="main_color_primary_50_percent">#80673ab7</color>
+    <color name="main_color_primary_80_percent">#cc4527a0</color>
+    <color name="main_color_primary_90_percent">#e6311b92</color>
+    <color name="main_color_secondary">@color/material_deep_purple_800</color>
+    <color name="main_color_secondary_50_percent">#809c27b0</color>
+    <color name="main_color_secondary_90_percent">#e64a148c</color>
+    <color name="main_color_tertiary">@color/material_deep_purple_700</color>
+    <color name="main_color_tertiary_30_percent">#4dba68c8</color>
     <color name="material_blue_100">#bdddf4</color>
     <color name="material_blue_200">#95c7ec</color>
     <color name="material_blue_300">#70b2e1</color>
@@ -343,7 +343,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="text_color">@color/material_light_yellow_500</color>
+    <color name="text_color">@color/material_lime_A100</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
             <enum name="normal" value="0"/>
@@ -600,7 +600,8 @@
     <integer name="google_play_services_version">4323000</integer>
     <integer name="grid_num_columns">2</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <string name="MY_AD_UNIT_ID">ca-app-pub-5836818937934168/5657259134</string>
+    <string name="AD_BANNER_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="AD_INTERS_ID">ca-app-pub-3940256099942544/1033173712</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -634,12 +635,12 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about_us">Legal Disclaimer</string>
     <string name="about_us_header_text">Legal Disclaimer</string>
-    <string name="about_us_lorem_ipsum">Nemo Station Apps Inc. is not responsible comfor the content of uploaded files, nor is it in affiliation with any entities that may be represented in these images.</string>
-    <string name="about_us_lorem_ipsum_contact">Our agent for notice of claims of copyright or other intellectual property infringement can be reached as follows: contact@nemostation.</string>
+    <string name="about_us_lorem_ipsum">WallpaperZ Studio Inc. is not responsible comfor the content of uploaded files, nor is it in affiliation with any entities that may be represented in these images.</string>
+    <string name="about_us_lorem_ipsum_contact">Our agent for notice of claims of copyright or other intellectual property infringement can be reached as follows: timchowdevz@gmail.com</string>
     <string name="about_us_lorem_ipsum_short">If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, please provide the following information to our agent:\n\n\t\t1. Identification of the material that you claim is infringing, with enough detail that we can locate it .\n\n\t\t2. A statement that you have a good faith belief that the material’s use is not authorized by the copyright owner, its agent, or the law.\n\n\t\t3. A statement declaring under penalty of perjury that (a) the above information in your notice is accurate, and (b) that you are the owner of the copyright interest involved or that you are authorized to act on behalf of that owner.\n\n\t\t4. Your address, telephone number, and email address.\n\n\t\t5. Your physical or electronic signature.</string>
-    <string name="about_us_subheader_text">All images are copyrighted © to their respective owners and Nemo Station Apps Inc. claims no credit for them unless otherwise noted.</string>
-    <string name="about_us_text_on_image">nemostation.com</string>
-    <string name="app_name">Full Wanted Piece Wallpapers</string>
+    <string name="about_us_subheader_text">All images are copyrighted © to their respective owners and WallpaperZ Studio Inc. claims no credit for them unless otherwise noted.</string>
+    <string name="about_us_text_on_image">WallpaperZ Studio</string>
+    <string name="app_name">Art Miku Wallpapers HD</string>
     <string name="auth_client_needs_enabling_title">
       An application requires Google Play Services to be enabled.
   </string>
@@ -677,7 +678,9 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="confirm_exit">Press Back button again to exit</string>
+    <string name="contentURLs">https://raw.githubusercontent.com/NemoNguyen/walldatabase/master/onepiece.txt</string>
     <string name="cropandset">CROP &amp; SET WALLPAPER</string>
+    <string name="dev_apps">https://play.google.com/store/apps/developer?id=Wallz+Studio</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="error">Something went wrong, try again</string>

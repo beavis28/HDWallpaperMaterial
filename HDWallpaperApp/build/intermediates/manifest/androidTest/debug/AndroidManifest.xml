@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nemostation.android.fullluffypiece.test">
+    package="com.wallzstudio.mikuwallpaper.test">
 
     <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="26" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.nemostation.android.fullluffypiece"
+                     android:targetPackage="com.wallzstudio.mikuwallpaper"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.nemostation.android.fullluffypiece"/>
+                     android:label="Tests for com.wallzstudio.mikuwallpaper"/>
 </manifest>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "outputFile": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-land/values-land.xml",
+                    "file": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-land/values-land.xml",
+                    "file": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-land/values-land.xml",
+                    "file": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/.android/build-cache/d9ead931e14e3b9cb61e22bb467bb5472be491e8/output/res/values-land/values-land.xml",
+                    "file": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 372
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/HDWallpaperApp/res/values-land/dimens.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/values-land/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hu/values-hu.xml",
+        "outputFile": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hu/values-hu.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 256
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 413
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 564
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 700
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 830
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 995
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 1126
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 1309
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1445
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1577
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1788
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 2001
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 2130
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 2315
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 2440
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 2625
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 2745
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 2894
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 3067
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 3313
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 3444
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 3554
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 3733
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 3863
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 3955
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 4065
                 },
                 "from": {
-                    "file": "/Users/nemonguyen/Documents/AndroidDev/HDWallpaperMaterial/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
+                    "file": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/debug/res/values-hu/values-hu.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
