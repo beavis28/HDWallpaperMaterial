@@ -54,7 +54,7 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 	}
 
 	public GridImageAdapter(Context context, Recent recent,
-			ArrayList<String> favouritesList) {
+							ArrayList<String> favouritesList) {
 		mContext = context;
 		mRecent = recent;
 		mFavouritesList = favouritesList;
@@ -73,7 +73,7 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 	}
 
 	public GridImageAdapter(Context context, Category category,
-			ArrayList<String> favouriteList) {
+							ArrayList<String> favouriteList) {
 		mContext = context;
 		mCategory = category;
 		mFavouritesList = favouriteList;
@@ -116,17 +116,17 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 
 		@Override
 		public void onLoadingFailed(String imageUri, View view,
-				FailReason failReason) {
+									FailReason failReason) {
 			String s[] = imageUri.split("/");
 			if (mCategory != null
 					&& mCategory.getImages().contains(
-							imageUri.split("/")[s.length - 1])) {
+					imageUri.split("/")[s.length - 1])) {
 				mCategory.getImages().remove(imageUri.split("/")[s.length - 1]);
 				notifyDataSetChanged();
 			} else if (mRecent != null
 					&& mRecent.getImages().contains(
-							imageUri.split("/")[s.length - 2] + "/"
-									+ imageUri.split("/")[s.length - 1])) {
+					imageUri.split("/")[s.length - 2] + "/"
+							+ imageUri.split("/")[s.length - 1])) {
 				mRecent.getImages().remove(
 						imageUri.split("/")[s.length - 2] + "/"
 								+ imageUri.split("/")[s.length - 1]);
@@ -136,7 +136,7 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 
 		@Override
 		public void onLoadingComplete(String imageUri, View view,
-				Bitmap loadedImage) {
+									  Bitmap loadedImage) {
 			if (view == null) {
 				BufferedOutputStream out = null;
 				try {
@@ -180,7 +180,7 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 		}
 
 		holder.mText.setTypeface(BaseActivity.sRobotoLight);
-		
+
 		if (mCategory != null) {
 			String image = mCategory.getImages().get(position);
 			String imageNameInFavourite = MainActivity.getImgName(image);
@@ -264,62 +264,68 @@ public class GridImageAdapter extends BaseAdapter implements OnClickListener {
 		int position = (Integer) v.getTag();
 		String dirFav = Environment.getExternalStorageDirectory() + "/"
 				+ mContext.getString(R.string.app_name) + "/favourites";
-		MainActivity.verifyStoragePermissions((MainActivity) mContext);
-		if (currentCategoryName.equals("Recent")) {
-			imageName = mRecent.getImages().get(position).split("[#]")[1];
-			categoryName = mRecent.getImages().get(position).split("[#]")[0];
-			File file = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
-			if (file.exists()) {
-				file.delete();
-				if (mContext != null) {
-					removeFavourites(categoryName, MainActivity.getImgName(imageName));
-					Toast.makeText(mContext,
-							"Image has been removed from favourites!",
-							Toast.LENGTH_SHORT).show();
-					ImageView icon = (ImageView) v
-							.findViewById(R.id.grid_image_icon);
-					icon.setImageResource(R.drawable.favorite_off_white);
+		if ( MainActivity.verifyStoragePermissions((MainActivity) mContext) ) {
+			if (currentCategoryName.equals("Recent")) {
+				imageName = mRecent.getImages().get(position).split("[#]")[1];
+				categoryName = mRecent.getImages().get(position).split("[#]")[0];
+				File file = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
+				if (file.exists()) {
+					file.delete();
+					if (mContext != null) {
+						removeFavourites(categoryName, MainActivity.getImgName(imageName));
+						Toast.makeText(mContext,
+								"Image has been removed from favourites!",
+								Toast.LENGTH_SHORT).show();
+						ImageView icon = (ImageView) v
+								.findViewById(R.id.grid_image_icon);
+						icon.setImageResource(R.drawable.favorite_off_white);
+					}
+				} else {
+					fileToSave = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
+					ImageLoader.getInstance().loadImage(imageName, listener);
+					if (mContext != null) {
+						fillFavourites(categoryName, MainActivity.getImgName(imageName));
+						Toast.makeText(mContext,
+								"Image has been added in favourites!",
+								Toast.LENGTH_SHORT).show();
+						ImageView icon = (ImageView) v
+								.findViewById(R.id.grid_image_icon);
+						icon.setImageResource(R.drawable.favorite_on_white);
+					}
 				}
 			} else {
-				fileToSave = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
-				ImageLoader.getInstance().loadImage(imageName, listener);
-				if (mContext != null) {
-					fillFavourites(categoryName, MainActivity.getImgName(imageName));
-					Toast.makeText(mContext,
-							"Image has been added in favourites!",
-							Toast.LENGTH_SHORT).show();
-					ImageView icon = (ImageView) v
-							.findViewById(R.id.grid_image_icon);
-					icon.setImageResource(R.drawable.favorite_on_white);
+				imageName = mCategory.getImages().get(position);
+				categoryName = mCategory.getName();
+				File file = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
+				if (file.exists()) {
+					file.delete();
+					if (mContext != null) {
+						removeFavourites(categoryName, MainActivity.getImgName(imageName));
+						Toast.makeText(mContext,
+								"Image has been removed from favourites!",
+								Toast.LENGTH_SHORT).show();
+						ImageView icon = (ImageView) v
+								.findViewById(R.id.grid_image_icon);
+						icon.setImageResource(R.drawable.favorite_off_white);
+					}
+				} else {
+					fileToSave = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
+					ImageLoader.getInstance().loadImage(imageName, listener);
+					if (mContext != null) {
+						fillFavourites(categoryName, MainActivity.getImgName(imageName));
+						Toast.makeText(mContext,
+								"Image has been added in favourites!",
+								Toast.LENGTH_SHORT).show();
+						ImageView icon = (ImageView) v
+								.findViewById(R.id.grid_image_icon);
+						icon.setImageResource(R.drawable.favorite_on_white);
+					}
 				}
 			}
 		} else {
-			imageName = mCategory.getImages().get(position);
-			categoryName = mCategory.getName();
-			File file = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
-			if (file.exists()) {
-				file.delete();
-				if (mContext != null) {
-					removeFavourites(categoryName, MainActivity.getImgName(imageName));
-					Toast.makeText(mContext,
-							"Image has been removed from favourites!",
-							Toast.LENGTH_SHORT).show();
-					ImageView icon = (ImageView) v
-							.findViewById(R.id.grid_image_icon);
-					icon.setImageResource(R.drawable.favorite_off_white);
-				}
-			} else {
-				fileToSave = new File(dirFav, categoryName + "--" + MainActivity.getImgName(imageName));
-				ImageLoader.getInstance().loadImage(imageName, listener);
-				if (mContext != null) {
-					fillFavourites(categoryName, MainActivity.getImgName(imageName));
-					Toast.makeText(mContext,
-							"Image has been added in favourites!",
-							Toast.LENGTH_SHORT).show();
-					ImageView icon = (ImageView) v
-							.findViewById(R.id.grid_image_icon);
-					icon.setImageResource(R.drawable.favorite_on_white);
-				}
+			if (mContext != null) {
+				((MainActivity) mContext)
+						.showToast("Please allow this app to access media. And Set Favourite again!");
 			}
 		}
 	}
