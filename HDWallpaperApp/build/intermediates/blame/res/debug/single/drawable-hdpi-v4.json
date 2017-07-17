@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_plusone_small_off_client.png",
         "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",

@@ -20,12 +20,12 @@
         "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/drawable-hdpi/favorite_on_white.png"
     },
     {
-        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/refresh_white.png",
-        "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/drawable-hdpi/refresh_white.png"
-    },
-    {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/refresh.png",
         "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/drawable-hdpi/refresh.png"
+    },
+    {
+        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/refresh_white.png",
+        "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/drawable-hdpi/refresh_white.png"
     },
     {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/love_white_icon.png",
@@ -40,12 +40,12 @@
         "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/drawable-hdpi/random.png"
     },
     {
-        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
-        "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/drawable-hdpi/ic_drawer.png"
-    },
-    {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/search.png",
         "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/drawable-hdpi/ic_drawer.png"
     },
     {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-hdpi/splash_logo_flat.png",

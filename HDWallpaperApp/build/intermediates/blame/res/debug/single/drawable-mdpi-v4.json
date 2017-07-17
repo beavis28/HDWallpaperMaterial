@@ -8,12 +8,12 @@
         "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/default/res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light.9.png"
     },
     {
-        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
         "source": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png",

@@ -600,8 +600,8 @@
     <integer name="google_play_services_version">4323000</integer>
     <integer name="grid_num_columns">2</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <string name="AD_BANNER_ID">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="AD_INTERS_ID">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="AD_BANNER_ID">ca-app-pub-9130779604158108/1789178073</string>
+    <string name="AD_INTERS_ID">ca-app-pub-9130779604158108/3265911273</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -678,7 +678,6 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="confirm_exit">Press Back button again to exit</string>
-    <string name="contentURLs">https://raw.githubusercontent.com/NemoNguyen/walldatabase/master/onepiece.txt</string>
     <string name="cropandset">CROP &amp; SET WALLPAPER</string>
     <string name="dev_apps">https://play.google.com/store/apps/developer?id=Wallz+Studio</string>
     <string name="drawer_close">Close navigation drawer</string>

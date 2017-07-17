@@ -52,20 +52,20 @@
         "source": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/drawable/abc_dialog_material_background.xml"
-    },
-    {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/icon_default.png",
         "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/res/drawable/icon_default.png"
     },
     {
-        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
-        "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/default/res/drawable/common_signin_btn_text_dark.xml"
+        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/Users/hieuchau/.android/build-cache/076ca4f38b16a8e4f2279d7db941c41703b3b1ae/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/google-play-services_lib/build/intermediates/bundles/default/res/drawable/common_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Volumes/DATA/iDroid/SourceApp/HDWallpaperMaterial Miku/HDWallpaperApp/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
