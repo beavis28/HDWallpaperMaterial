@@ -108,9 +108,9 @@
 
     <color name="main_color_primary_50_percent">#80673ab7</color>
     <color name="main_color_primary_80_percent">#cc4527a0</color>
-    <color name="main_color_primary_90_percent">#e6311b92</color>
+    <color name="main_color_primary_90_percent">#c5311b92</color>
     <color name="main_color_secondary_50_percent">#809c27b0</color>
-    <color name="main_color_secondary_90_percent">#e64a148c</color>
+    <color name="main_color_secondary_90_percent">#b94a148c</color>
     <color name="main_color_tertiary_30_percent">#4dba68c8</color>
 
     <color name="text_color">@color/material_lime_A100</color>
@@ -127,7 +127,7 @@
     <color name="main_color_grey_600">@color/material_grey_600</color>
     <color name="main_color_grey_800">@color/material_grey_800</color>
 
-    <color name="full_gallery_item_bar_color">#fafcfc</color>
+    <color name="full_gallery_item_bar_color">#b3b0bec5</color>
 
     <!-- Light Grey theme -->
     <!--
