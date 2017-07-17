@@ -256,7 +256,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 						.getRecent(), mDataHolder.getFavourites()));
 				Intent intent = new Intent(Intent.ACTION_VIEW);
 				intent.setData(Uri
-						.parse("https://play.google.com/store/apps/developer?id=Nemo+Station+App"));
+						.parse(getString(R.string.ANDROID_DEV_STORE)));
 				startActivity(intent);
 			}
 		} else {
@@ -460,7 +460,7 @@ public class MainActivity extends NavigationDrawerActivity implements
 		case R.id.more_apps:
 			Intent intent = new Intent(Intent.ACTION_VIEW);
 			intent.setData(Uri
-					.parse("https://play.google.com/store/apps/developer?id=Nemo+Station+App"));
+					.parse(getString(R.string.ANDROID_DEV_STORE)));
 			startActivity(intent);
 			return true;
 		default:

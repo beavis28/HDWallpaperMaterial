@@ -214,7 +214,7 @@ public class FullScreenGalleryFragment extends Fragment implements
 			mImageTitle.setText(mImage);
 		}*/
 		mImageCategory.setText(mCategory.toUpperCase());
-		// ovdje raditi
+		// override
 		for (String str : mFavouritesList) {
 			String holderFav[] = str.split("[/]");
 			// Log.v("holder", holderFav[holderFav.length-1] + mImage);

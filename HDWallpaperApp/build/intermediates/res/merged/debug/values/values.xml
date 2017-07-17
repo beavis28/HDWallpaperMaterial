@@ -598,8 +598,9 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="google_play_services_version">4323000</integer>
-    <integer name="grid_num_columns">2</integer>
+    <integer name="grid_num_columns">3</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="ANDROID_DEV_STORE">https://play.google.com/store/apps/developer?id=Nemo+Station+App</string>
     <string name="MY_AD_UNIT_ID">ca-app-pub-5836818937934168/5657259134</string>
     <string name="MY_INTERS_UNIT_ID">ca-app-pub-5836818937934168/8610725537</string>
     <string name="abc_action_bar_home_description">Navigate home</string>

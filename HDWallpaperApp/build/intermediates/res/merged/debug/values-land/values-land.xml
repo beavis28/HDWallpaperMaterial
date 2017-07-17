@@ -4,5 +4,5 @@
     <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
     <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
-    <integer name="grid_num_columns">2</integer>
+    <integer name="grid_num_columns">3</integer>
 </resources>

@@ -15,7 +15,7 @@
         android:padding="1dp"
         android:scaleType="centerCrop"
         android:src="@drawable/icon_default"
-        app:image_view_ratio="1.5" />
+        app:image_view_ratio="1.6" />
 
     <LinearLayout
         android:id="@+id/grid_image_layout"

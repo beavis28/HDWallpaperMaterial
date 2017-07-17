@@ -79,7 +79,7 @@ public class FullScreenGalleryActivity extends BaseActivity {
 		
 		mViewPager.setAdapter(new FullScreenGalleryAdapter(getSupportFragmentManager(), getImageFragments()));
 		mViewPager.setCurrentItem(position);
-		if ( mRateUsCheck == false ) {
+		if ( !mRateUsCheck ) {
 			RateItDialogFragment.show(this, this.getSupportFragmentManager());
 		}
 
@@ -167,8 +167,8 @@ public class FullScreenGalleryActivity extends BaseActivity {
 	}
 
 	public static class RateItDialogFragment extends DialogFragment {
-		private static final int LAUNCHES_UNTIL_PROMPT = 5; // Number of app launch then prompt user
-		private static final int DAYS_UNTIL_PROMPT = 1; //number of day using. 0 to just check number of app launch
+		private static final int LAUNCHES_UNTIL_PROMPT = 3; // Number of app launch then prompt user
+		private static final int DAYS_UNTIL_PROMPT = 0; //number of day using. 0 to just check number of app launch
 		private static final int MILLIS_UNTIL_PROMPT = DAYS_UNTIL_PROMPT * 24 * 60 * 60 * 1000;
 		private static final String PREF_NAME = "APP_RATER";
 		private static final String LAST_PROMPT = "LAST_PROMPT";
